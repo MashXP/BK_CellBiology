@@ -1,0 +1,412 @@
+[
+  {
+    "question": "The general process of converting an extracellular signal into an intracellular signal is called:",
+    "options": [
+      "Signal amplification",
+      "Signal integration",
+      "Signal transduction",
+      "Signal distribution"
+    ],
+    "answer": "Signal transduction"
+  },
+  {
+    "question": "Which form of signaling involves hormones being broadcast throughout the entire body via the bloodstream?",
+    "options": [
+      "Paracrine",
+      "Neuronal",
+      "Contact-dependent",
+      "Endocrine"
+    ],
+    "answer": "Endocrine"
+  },
+  {
+    "question": "G-protein-coupled receptors (GPCRs) are activated when:",
+    "options": [
+      "They bind to GTP.",
+      "An extracellular signal molecule binds to them.",
+      "They phosphorylate themselves.",
+      "They are cleaved by a protease."
+    ],
+    "answer": "An extracellular signal molecule binds to them."
+  },
+  {
+    "question": "A G protein is activated when:",
+    "options": [
+      "It hydrolyzes GTP to GDP.",
+      "It binds to an activated receptor, causing it to exchange GDP for GTP.",
+      "It is phosphorylated by a protein kinase.",
+      "The βγ complex separates from the α subunit."
+    ],
+    "answer": "It binds to an activated receptor, causing it to exchange GDP for GTP."
+  },
+  {
+    "question": "Which of the following are common second messengers in cell signaling?",
+    "options": [
+      "ATP and GTP",
+      "Cyclic AMP (cAMP) and Ca²⁺",
+      "Proteins and lipids",
+      "Hormones and neurotransmitters"
+    ],
+    "answer": "Cyclic AMP (cAMP) and Ca²⁺"
+  },
+  {
+    "question": "Adenylyl cyclase is an enzyme that produces _______ in response to a signal.",
+    "options": [
+      "IP₃",
+      "Diacylglycerol (DAG)",
+      "Cyclic AMP (cAMP)",
+      "Ca²⁺"
+    ],
+    "answer": "Cyclic AMP (cAMP)"
+  },
+  {
+    "question": "Receptor Tyrosine Kinases (RTKs) are typically activated by:",
+    "options": [
+      "The binding of a signal molecule, which causes the receptors to dimerize.",
+      "A change in membrane potential.",
+      "The hydrolysis of GTP.",
+      "The cleavage of their extracellular domain."
+    ],
+    "answer": "The binding of a signal molecule, which causes the receptors to dimerize."
+  },
+  {
+    "question": "The small, monomeric GTPase that is activated by most RTKs and sits at the start of the MAP-kinase cascade is:",
+    "options": [
+      "G protein",
+      "Calmodulin",
+      "Ras",
+      "Akt"
+    ],
+    "answer": "Ras"
+  },
+  {
+    "question": "Many intracellular signaling proteins act as molecular switches. What is the most common way they are activated or inactivated?",
+    "options": [
+      "By being degraded and resynthesized.",
+      "By changing their location in the cell.",
+      "By gaining or losing a phosphate group (phosphorylation).",
+      "By binding to DNA."
+    ],
+    "answer": "By gaining or losing a phosphate group (phosphorylation)."
+  },
+  {
+    "question": "The PI 3-kinase/Akt signaling pathway is primarily involved in:",
+    "options": [
+      "Regulating gene transcription.",
+      "Promoting cell survival and growth.",
+      "Triggering muscle contraction.",
+      "Transmitting nerve impulses."
+    ],
+    "answer": "Promoting cell survival and growth."
+  },
+  {
+    "question": "Cholera toxin locks the α subunit of a G protein in an active state by preventing it from hydrolyzing GTP. This leads to:",
+    "options": [
+      "The G protein being permanently inactive.",
+      "Continuous stimulation of its downstream target, adenylyl cyclase.",
+      "The receptor being unable to bind its ligand.",
+      "Immediate cell death."
+    ],
+    "answer": "Continuous stimulation of its downstream target, adenylyl cyclase."
+  },
+  {
+    "question": "Why must intracellular second messengers like cAMP be rapidly degraded?",
+    "options": [
+      "Because they are toxic to the cell in high concentrations.",
+      "To allow the signaling pathway to turn off quickly and respond to new signals.",
+      "To release the energy stored in their chemical bonds.",
+      "Because they are unstable and fall apart on their own."
+    ],
+    "answer": "To allow the signaling pathway to turn off quickly and respond to new signals."
+  },
+  {
+    "question": "How can an antibody that binds to the extracellular domain of an RTK activate the receptor?",
+    "options": [
+      "By blocking the ligand from binding.",
+      "By having two antigen-binding sites, it can cross-link two receptors and cause them to dimerize.",
+      "It cannot activate the receptor, it can only block it.",
+      "By entering the cell and activating the kinase domain directly."
+    ],
+    "answer": "By having two antigen-binding sites, it can cross-link two receptors and cause them to dimerize."
+  },
+  {
+    "question": "In the inositol phospholipid pathway, what is the direct function of inositol trisphosphate (IP₃)?",
+    "options": [
+      "To activate protein kinase C (PKC).",
+      "To phosphorylate target proteins.",
+      "To bind to and open Ca²⁺ channels in the membrane of the endoplasmic reticulum.",
+      "To activate Ras."
+    ],
+    "answer": "To bind to and open Ca²⁺ channels in the membrane of the endoplasmic reticulum."
+  },
+  {
+    "question": "A mutation in Ras that prevents it from hydrolyzing GTP would lead to:",
+    "options": [
+      "Ras being permanently inactive.",
+      "The MAP kinase pathway being continuously stimulated, promoting uncontrolled cell proliferation.",
+      "The cell being unable to respond to signals that use RTKs.",
+      "The degradation of the Ras protein."
+    ],
+    "answer": "The MAP kinase pathway being continuously stimulated, promoting uncontrolled cell proliferation."
+  },
+  {
+    "question": "How does the PI 3-kinase/Akt pathway promote cell survival?",
+    "options": [
+      "By directly repairing DNA damage.",
+      "By increasing ATP production.",
+      "By phosphorylating and inactivating proteins that promote apoptosis (e.g., Bad).",
+      "By stimulating the production of survival factors."
+    ],
+    "answer": "By phosphorylating and inactivating proteins that promote apoptosis (e.g., Bad)."
+  },
+  {
+    "question": "What is a key difference between neuronal and endocrine signaling?",
+    "options": [
+      "Neuronal signaling is slow, while endocrine signaling is fast.",
+      "Neuronal signaling is broadcast over the whole body, while endocrine signaling is localized.",
+      "Neuronal signaling is fast and specific to target cells, while endocrine signaling is slower and broadcast widely.",
+      "Endocrine signaling uses electrical signals, while neuronal signaling uses chemical signals."
+    ],
+    "answer": "Neuronal signaling is fast and specific to target cells, while endocrine signaling is slower and broadcast widely."
+  },
+  {
+    "question": "The protein calmodulin is activated by binding to what ion, which then allows it to modulate the activity of other proteins?",
+    "options": [
+      "Na⁺",
+      "K⁺",
+      "Cl⁻",
+      "Ca²⁺"
+    ],
+    "answer": "Ca²⁺"
+  },
+  {
+    "question": "The concept of 'cross-talk' in signaling pathways refers to:",
+    "options": [
+      "The ability of a signal to travel between cells.",
+      "The conversion of a chemical signal to an electrical one.",
+      "The integration of signals, where molecules from one pathway influence molecules in another.",
+      "The process of a receptor binding its ligand."
+    ],
+    "answer": "The integration of signals, where molecules from one pathway influence molecules in another."
+  },
+  {
+    "question": "Upon activation, RTKs phosphorylate each other on which type of amino acid?",
+    "options": [
+      "Serine",
+      "Threonine",
+      "Tyrosine",
+      "Alanine"
+    ],
+    "answer": "Tyrosine"
+  },
+  {
+    "question": "Which type of signaling involves a cell releasing a signal that acts on nearby cells?",
+    "options": [ "Endocrine", "Paracrine", "Neuronal", "Contact-dependent" ],
+    "answer": "Paracrine"
+  },
+  {
+    "question": "Which type of signaling requires direct physical contact between the signaling cell and the target cell?",
+    "options": [ "Endocrine", "Paracrine", "Neuronal", "Contact-dependent" ],
+    "answer": "Contact-dependent"
+  },
+  {
+    "question": "A cell's response to a signal depends on:",
+    "options": [
+      "Whether it has a receptor for that signal.",
+      "The intracellular machinery by which it interprets the signal.",
+      "The presence of other signals.",
+      "All of the above."
+    ],
+    "answer": "All of the above."
+  },
+  {
+    "question": "Steroid hormones, such as cortisol and testosterone, bind to:",
+    "options": [
+      "Cell-surface receptors.",
+      "Intracellular receptors (nuclear receptors).",
+      "Ion-channel-coupled receptors.",
+      "G-protein-coupled receptors."
+    ],
+    "answer": "Intracellular receptors (nuclear receptors)."
+  },
+  {
+    "question": "Nitric oxide (NO) is a dissolved gas that acts as a signaling molecule. It causes smooth muscle cells to relax by:",
+    "options": [
+      "Binding to a cell-surface receptor.",
+      "Activating a G protein.",
+      "Diffusing into the cell and activating guanylyl cyclase to produce cyclic GMP.",
+      "Inhibiting adenylyl cyclase."
+    ],
+    "answer": "Diffusing into the cell and activating guanylyl cyclase to produce cyclic GMP."
+  },
+  {
+    "question": "The three main classes of cell-surface receptors are:",
+    "options": [
+      "Ion-channel-coupled, G-protein-coupled, and enzyme-coupled receptors.",
+      "Steroid hormone receptors, thyroid hormone receptors, and retinoid receptors.",
+      "Receptor tyrosine kinases, receptor serine/threonine kinases, and receptor guanylyl cyclases.",
+      "Adrenergic receptors, cholinergic receptors, and dopaminergic receptors."
+    ],
+    "answer": "Ion-channel-coupled, G-protein-coupled, and enzyme-coupled receptors."
+  },
+  {
+    "question": "A G protein is a trimeric protein composed of which subunits?",
+    "options": [ "α, β, and γ", "δ, ε, and ζ", "A, B, and C", "I, II, and III" ],
+    "answer": "α, β, and γ"
+  },
+  {
+    "question": "The α subunit of a G protein has intrinsic _____ activity, which is important for turning off the signal.",
+    "options": [ "Kinase", "Phosphatase", "GTPase", "Adenylyl cyclase" ],
+    "answer": "GTPase"
+  },
+  {
+    "question": "Cyclic AMP is synthesized by adenylyl cyclase and degraded by:",
+    "options": [ "Cyclic AMP phosphodiesterase", "Protein kinase A", "Guanylyl cyclase", "Phospholipase C" ],
+    "answer": "Cyclic AMP phosphodiesterase"
+  },
+  {
+    "question": "Cyclic AMP exerts its effects mainly by activating:",
+    "options": [ "Protein kinase C (PKC)", "Protein kinase A (PKA)", "MAP kinase", "Akt kinase" ],
+    "answer": "Protein kinase A (PKA)"
+  },
+  {
+    "question": "The enzyme that is activated by a G protein and cleaves an inositol phospholipid to generate IP₃ and DAG is:",
+    "options": [ "Adenylyl cyclase", "Guanylyl cyclase", "Phospholipase C", "PI 3-kinase" ],
+    "answer": "Phospholipase C"
+  },
+  {
+    "question": "Diacylglycerol (DAG), along with Ca²⁺, activates which protein kinase?",
+    "options": [ "Protein kinase A (PKA)", "Protein kinase C (PKC)", "MAP kinase", "Akt kinase" ],
+    "answer": "Protein kinase C (PKC)"
+  },
+  {
+    "question": "The process by which a small number of extracellular signal molecules can evoke a large intracellular response is called:",
+    "options": [ "Signal amplification", "Signal integration", "Signal distribution", "Signal transduction" ],
+    "answer": "Signal amplification"
+  },
+  {
+    "question": "The MAP kinase signaling module is a three-component system consisting of:",
+    "options": [
+      "MAP kinase, MAP kinase kinase, and MAP kinase kinase kinase.",
+      "Ras, Raf, and Mek.",
+      "PKA, PKC, and PKG.",
+      "Akt, Bad, and Bcl2."
+    ],
+    "answer": "MAP kinase, MAP kinase kinase, and MAP kinase kinase kinase."
+  },
+  {
+    "question": "The final kinase in the MAP kinase cascade, MAP kinase, phosphorylates various effector proteins, including:",
+    "options": [ "Transcription regulators and other proteins.", "G proteins.", "Receptor tyrosine kinases.", "Adenylyl cyclase." ],
+    "answer": "Transcription regulators and other proteins."
+  },
+  {
+    "question": "The Notch signaling pathway is an example of _____ signaling.",
+    "options": [ "Endocrine", "Paracrine", "Neuronal", "Contact-dependent" ],
+    "answer": "Contact-dependent"
+  },
+  {
+    "question": "The activation of the Notch receptor involves:",
+    "options": [
+      "The binding of a hormone.",
+      "The dimerization of the receptor.",
+      "The cleavage of the receptor, with the cytosolic tail migrating to the nucleus to act as a transcription regulator.",
+      "The activation of a G protein."
+    ],
+    "answer": "The cleavage of the receptor, with the cytosolic tail migrating to the nucleus to act as a transcription regulator."
+  },
+  {
+    "question": "The plant hormone ethylene acts by:",
+    "options": [
+      "Binding to a cell-surface receptor and activating a G protein.",
+      "Binding to an intracellular receptor and regulating gene expression.",
+      "Binding to an enzyme-coupled receptor and activating a kinase cascade.",
+      "Binding to a receptor that is normally active, and inactivating it, which turns on the ethylene response."
+    ],
+    "answer": "Binding to a receptor that is normally active, and inactivating it, which turns on the ethylene response."
+  },
+  {
+    "question": "Scaffolding proteins are important in signaling pathways because they:",
+    "options": [
+      "Amplify the signal.",
+      "Bring together signaling proteins into a complex to enhance the speed, efficiency, and specificity of the response.",
+      "Degrade second messengers.",
+      "Act as transcription regulators."
+    ],
+    "answer": "Bring together signaling proteins into a complex to enhance the speed, efficiency, and specificity of the response."
+  },
+  {
+    "question": "A positive feedback loop in a signaling pathway can generate a(n) _____ response.",
+    "options": [ "Graded", "All-or-none", "Transient", "Inhibitory" ],
+    "answer": "All-or-none"
+  },
+  {
+    "question": "A negative feedback loop in a signaling pathway can generate a(n) _____ response.",
+    "options": [ "All-or-none", "Sustained", "Oscillatory", "Amplified" ],
+    "answer": "Oscillatory"
+  },
+  {
+    "question": "The process by which a cell becomes less responsive to a signal over time is called:",
+    "options": [ "Adaptation or desensitization", "Amplification", "Integration", "Distribution" ],
+    "answer": "Adaptation or desensitization"
+  },
+  {
+    "question": "The binding of a signal molecule to a receptor is the _____ step in signal transduction.",
+    "options": [ "First", "Second", "Last", "Only" ],
+    "answer": "First"
+  },
+  {
+    "question": "The same signal molecule can induce different responses in different target cells because:",
+    "options": [
+      "The signal molecule is modified by the target cell.",
+      "The intracellular signaling machinery and the genes that are expressed are different in different cell types.",
+      "The receptor is different in different cell types.",
+      "The signal is delivered at different concentrations."
+    ],
+    "answer": "The intracellular signaling machinery and the genes that are expressed are different in different cell types."
+  },
+  {
+    "question": "The activation of protein kinase A (PKA) by cAMP is an example of:",
+    "options": [ "Allosteric regulation", "Covalent modification", "Competitive inhibition", "Feedback inhibition" ],
+    "answer": "Allosteric regulation"
+  },
+  {
+    "question": "The concentration of free Ca²⁺ in the cytosol is kept very low by:",
+    "options": [
+      "Ca²⁺ pumps in the plasma membrane and ER membrane.",
+      "Ca²⁺-binding proteins in the cytosol.",
+      "Ca²⁺ uptake into mitochondria.",
+      "All of the above."
+    ],
+    "answer": "All of the above."
+  },
+  {
+    "question": "The activation of Ras is mediated by a Ras-activating protein (a GEF) that:",
+    "options": [
+      "Promotes the exchange of GDP for GTP on Ras.",
+      "Promotes the hydrolysis of GTP by Ras.",
+      "Phosphorylates Ras.",
+      "Dephosphorylates Ras."
+    ],
+    "answer": "Promotes the exchange of GDP for GTP on Ras."
+  },
+  {
+    "question": "The PI 3-kinase pathway is activated by:",
+    "options": [ "GPCRs", "RTKs", "Ion-channel-coupled receptors", "Intracellular receptors" ],
+    "answer": "RTKs"
+  },
+  {
+    "question": "The target of the drug Viagra is an enzyme called:",
+    "options": [ "Adenylyl cyclase", "Guanylyl cyclase", "Cyclic GMP phosphodiesterase", "Protein kinase G" ],
+    "answer": "Cyclic GMP phosphodiesterase"
+  },
+  {
+    "question": "The integration of multiple signaling pathways allows cells to:",
+    "options": [
+      "Make complex decisions.",
+      "Respond to a wide variety of stimuli.",
+      "Fine-tune their response to a signal.",
+      "All of the above."
+    ],
+    "answer": "All of the above."
+  }
+]

@@ -1,0 +1,412 @@
+[
+  {
+    "question": "Why do different cell types in a multicellular organism have different functions?",
+    "options": [
+      "They contain different genes.",
+      "They express different sets of genes.",
+      "They have different numbers of chromosomes.",
+      "They randomly lose genes during development."
+    ],
+    "answer": "They express different sets of genes."
+  },
+  {
+    "question": "The most common point of control for gene expression in most genes is:",
+    "options": [
+      "Translation initiation",
+      "RNA processing",
+      "Protein degradation",
+      "Transcription initiation"
+    ],
+    "answer": "Transcription initiation"
+  },
+  {
+    "question": "In bacteria, a cluster of genes transcribed from a single promoter is called a(n):",
+    "options": [
+      "Enhancer",
+      "Operon",
+      "Regulator",
+      "Exon"
+    ],
+    "answer": "Operon"
+  },
+  {
+    "question": "How do transcription regulators typically recognize specific DNA sequences?",
+    "options": [
+      "By temporarily unwinding the DNA double helix.",
+      "By making contacts with the nucleotide bases in the major groove of the DNA.",
+      "By binding to the sugar-phosphate backbone only.",
+      "By recognizing the overall shape of the chromosome."
+    ],
+    "answer": "By making contacts with the nucleotide bases in the major groove of the DNA."
+  },
+  {
+    "question": "In eukaryotes, what is the term for a regulatory DNA sequence that can be located thousands of nucleotide pairs away from the promoter it controls?",
+    "options": [
+      "Operator",
+      "Promoter",
+      "Enhancer",
+      "TATA box"
+    ],
+    "answer": "Enhancer"
+  },
+  {
+    "question": "The phenomenon where patterns of gene expression are passed to daughter cells without altering the DNA sequence is known as:",
+    "options": [
+      "Genetic mutation",
+      "Epigenetic inheritance",
+      "Splicing variation",
+      "Post-transcriptional control"
+    ],
+    "answer": "Epigenetic inheritance"
+  },
+  {
+    "question": "MicroRNAs (miRNAs) primarily regulate gene expression by:",
+    "options": [
+      "Binding to DNA to block transcription.",
+      "Altering chromatin structure.",
+      "Base-pairing with specific mRNAs to block their translation or trigger their degradation.",
+      "Activating transcription factors in the nucleus."
+    ],
+    "answer": "Base-pairing with specific mRNAs to block their translation or trigger their degradation."
+  },
+  {
+    "question": "What is combinatorial control of gene expression in eukaryotes?",
+    "options": [
+      "A single gene controlling many different transcription regulators.",
+      "A group of transcription regulators working together to determine the expression of a single gene.",
+      "The random combination of exons during splicing.",
+      "The process of combining different genes to make a new one."
+    ],
+    "answer": "A group of transcription regulators working together to determine the expression of a single gene."
+  },
+  {
+    "question": "Which of the following is a mechanism of epigenetic inheritance?",
+    "options": [
+      "A change in the DNA sequence of a gene.",
+      "The inheritance of a point mutation.",
+      "The inheritance of DNA methylation patterns.",
+      "The inheritance of an extra chromosome."
+    ],
+    "answer": "The inheritance of DNA methylation patterns."
+  },
+  {
+    "question": "The process of RNA interference (RNAi) is a cellular defense mechanism against:",
+    "options": [
+      "Bacterial infections",
+      "Foreign double-stranded RNA (e.g., from viruses)",
+      "Misfolded proteins",
+      "DNA damage"
+    ],
+    "answer": "Foreign double-stranded RNA (e.g., from viruses)"
+  },
+  {
+    "question": "What would happen in the Lac operon if the gene for the Lac repressor were mutated so the repressor could no longer bind lactose?",
+    "options": [
+      "The operon would be permanently on.",
+      "The operon would be permanently off.",
+      "The operon would function normally.",
+      "The operon would only be expressed when glucose is high."
+    ],
+    "answer": "The operon would be permanently off."
+  },
+  {
+    "question": "How can a single transcription regulator, like MyoD, trigger the development of an entire cell type?",
+    "options": [
+      "It physically changes the DNA of the cell.",
+      "It initiates a cascade, activating other cell-type-specific regulators and genes.",
+      "It silences all other genes in the cell.",
+      "It fuses with other cells to create the new cell type."
+    ],
+    "answer": "It initiates a cascade, activating other cell-type-specific regulators and genes."
+  },
+  {
+    "question": "How do activator proteins bound to distant enhancers influence transcription initiation at the promoter?",
+    "options": [
+      "They send a chemical signal along the DNA.",
+      "They cause the DNA between the enhancer and promoter to be deleted.",
+      "The intervening DNA loops out, allowing the activator to interact with proteins at the promoter.",
+      "They slide along the DNA from the enhancer to the promoter."
+    ],
+    "answer": "The intervening DNA loops out, allowing the activator to interact with proteins at the promoter."
+  },
+  {
+    "question": "A positive feedback loop, where a transcription regulator activates its own gene, is a key mechanism for:",
+    "options": [
+      "Rapidly turning off a gene.",
+      "Creating temporary changes in gene expression.",
+      "Establishing cell memory and maintaining cell identity.",
+      "Responding to nutrient availability."
+    ],
+    "answer": "Establishing cell memory and maintaining cell identity."
+  },
+  {
+    "question": "Why do DNA-binding proteins often interact with the major groove of the DNA double helix?",
+    "options": [
+      "The minor groove is too tightly wound.",
+      "The major groove is wider and presents a more distinct pattern of chemical groups for recognition.",
+      "The major groove contains all the promoter sequences.",
+      "The sugar-phosphate backbone is only accessible via the major groove."
+    ],
+    "answer": "The major groove is wider and presents a more distinct pattern of chemical groups for recognition."
+  },
+  {
+    "question": "How do eukaryotic transcription regulators primarily influence gene expression, given that DNA is packaged into chromatin?",
+    "options": [
+      "They directly bind to RNA polymerase to guide it to the promoter.",
+      "They recruit chromatin-modifying proteins to make the DNA more or less accessible.",
+      "They unwind the entire chromosome to expose the gene.",
+      "They cut the DNA to remove repressive nucleosomes."
+    ],
+    "answer": "They recruit chromatin-modifying proteins to make the DNA more or less accessible."
+  },
+  {
+    "question": "What is a key functional difference between a bacterial transcriptional repressor and a eukaryotic microRNA (miRNA)?",
+    "options": [
+      "The repressor binds RNA, while the miRNA binds DNA.",
+      "The repressor typically blocks transcription by binding to DNA, while the miRNA blocks translation by binding to mRNA.",
+      "The repressor is made of RNA, while the miRNA is a protein.",
+      "The repressor works in eukaryotes, while the miRNA works in bacteria."
+    ],
+    "answer": "The repressor typically blocks transcription by binding to DNA, while the miRNA blocks translation by binding to mRNA."
+  },
+  {
+    "question": "The long noncoding RNA (lncRNA) Xist is involved in what process?",
+    "options": [
+      "Activating gene expression globally.",
+      "Serving as a template for protein synthesis.",
+      "Catalyzing RNA splicing.",
+      "Initiating and spreading X-chromosome inactivation."
+    ],
+    "answer": "Initiating and spreading X-chromosome inactivation."
+  },
+  {
+    "question": "If a cell is treated with a drug that prevents DNA methylation, what is a likely consequence for gene expression?",
+    "options": [
+      "All genes will be turned off.",
+      "Patterns of gene silencing will be disrupted, potentially leading to inappropriate gene activation.",
+      "Transcription will be unaffected.",
+      "The cell will lose its nucleus."
+    ],
+    "answer": "Patterns of gene silencing will be disrupted, potentially leading to inappropriate gene activation."
+  },
+  {
+    "question": "In the Trp operon, the repressor protein is activated by binding to tryptophan. This is an example of:",
+    "options": [
+      "Positive regulation",
+      "Negative regulation (repression)",
+      "Combinatorial control",
+      "Epigenetic inheritance"
+    ],
+    "answer": "Negative regulation (repression)"
+  },
+  {
+    "question": "A common structural motif found in DNA-binding proteins is the:",
+    "options": [ "Beta-barrel", "Coiled-coil", "Homeodomain", "Immunoglobulin fold" ],
+    "answer": "Homeodomain"
+  },
+  {
+    "question": "The Lac operon is an example of a(n) _____ operon, meaning it is usually off but can be turned on.",
+    "options": [ "Inducible", "Repressible", "Constitutive", "Catabolic" ],
+    "answer": "Inducible"
+  },
+  {
+    "question": "The Trp operon is an example of a(n) _____ operon, meaning it is usually on but can be turned off.",
+    "options": [ "Inducible", "Repressible", "Constitutive", "Anabolic" ],
+    "answer": "Repressible"
+  },
+  {
+    "question": "The binding of a transcription regulator to DNA is typically:",
+    "options": [ "Covalent", "Noncovalent", "Permanent", "Irreversible" ],
+    "answer": "Noncovalent"
+  },
+  {
+    "question": "In eukaryotes, the assembly of general transcription factors at the promoter is required for:",
+    "options": [
+      "All genes to be transcribed at a high level.",
+      "The initiation of transcription by RNA polymerase II.",
+      "The termination of transcription.",
+      "The splicing of introns."
+    ],
+    "answer": "The initiation of transcription by RNA polymerase II."
+  },
+  {
+    "question": "The Mediator complex in eukaryotes serves as a bridge between:",
+    "options": [
+      "The ribosome and the mRNA.",
+      "The DNA and the nuclear envelope.",
+      "Transcription activators bound to enhancers and the transcription machinery at the promoter.",
+      "The spliceosome and the pre-mRNA."
+    ],
+    "answer": "Transcription activators bound to enhancers and the transcription machinery at the promoter."
+  },
+  {
+    "question": "The recruitment of histone acetyltransferases (HATs) to a gene promoter is likely to lead to:",
+    "options": [
+      "Increased transcription of the gene.",
+      "Decreased transcription of the gene.",
+      "The degradation of the gene.",
+      "The methylation of the gene."
+    ],
+    "answer": "Increased transcription of the gene."
+  },
+  {
+    "question": "The recruitment of histone deacetylases (HDACs) to a gene promoter is likely to lead to:",
+    "options": [
+      "Increased transcription of the gene.",
+      "Decreased transcription of the gene.",
+      "The acetylation of the gene.",
+      "The demethylation of the gene."
+    ],
+    "answer": "Decreased transcription of the gene."
+  },
+  {
+    "question": "The creation of induced pluripotent stem (iPS) cells from differentiated cells demonstrates that:",
+    "options": [
+      "Differentiated cells have lost the genes necessary for pluripotency.",
+      "The differentiated state is irreversible.",
+      "The expression of a few key transcription regulators can reprogram a cell's identity.",
+      "Stem cells can only be obtained from embryos."
+    ],
+    "answer": "The expression of a few key transcription regulators can reprogram a cell's identity."
+  },
+  {
+    "question": "DNA methylation typically occurs on which base in eukaryotes?",
+    "options": [ "Adenine", "Guanine", "Cytosine", "Thymine" ],
+    "answer": "Cytosine"
+  },
+  {
+    "question": "The maintenance of DNA methylation patterns after DNA replication is carried out by:",
+    "options": [ "DNA polymerase", "Maintenance methyltransferases", "Demethylases", "Histone acetyltransferases" ],
+    "answer": "Maintenance methyltransferases"
+  },
+  {
+    "question": "A riboswitch is a:",
+    "options": [
+      "Protein that binds to RNA and regulates its function.",
+      "Short RNA sequence in an mRNA that changes its conformation upon binding a small molecule to regulate its own expression.",
+      "Type of RNA that can switch between different splicing patterns.",
+      "Machine that synthesizes ribosomes."
+    ],
+    "answer": "Short RNA sequence in an mRNA that changes its conformation upon binding a small molecule to regulate its own expression."
+  },
+  {
+    "question": "The RISC (RNA-induced silencing complex) is associated with which mechanism of gene regulation?",
+    "options": [ "Transcription initiation", "RNA splicing", "RNA interference (RNAi)", "Protein degradation" ],
+    "answer": "RNA interference (RNAi)"
+  },
+  {
+    "question": "The enzyme Dicer is involved in the processing of:",
+    "options": [ "mRNAs", "tRNAs", "rRNAs", "miRNAs and siRNAs" ],
+    "answer": "miRNAs and siRNAs"
+  },
+  {
+    "question": "The expression of a gene can be regulated at which of the following levels?",
+    "options": [
+      "Transcription only",
+      "Translation only",
+      "Transcription, RNA processing, translation, and post-translation",
+      "Protein degradation only"
+    ],
+    "answer": "Transcription, RNA processing, translation, and post-translation"
+  },
+  {
+    "question": "In the Lac operon, the presence of glucose leads to low levels of cAMP, which in turn:",
+    "options": [
+      "Activates the Lac repressor.",
+      "Prevents the binding of CAP (catabolite activator protein), thus reducing the transcription of the operon.",
+      "Increases the transcription of the operon.",
+      "Has no effect on the operon."
+    ],
+    "answer": "Prevents the binding of CAP (catabolite activator protein), thus reducing the transcription of the operon."
+  },
+  {
+    "question": "The ability of a cell to remember its identity through cell division is known as:",
+    "options": [ "Cell memory", "Genetic drift", "Natural selection", "Somatic mutation" ],
+    "answer": "Cell memory"
+  },
+  {
+    "question": "The coordinated expression of a group of eukaryotic genes can be achieved by:",
+    "options": [
+      "Placing them all in a single operon.",
+      "Having each gene controlled by the same set of transcription regulators.",
+      "Deleting all other genes from the cell.",
+      "Fusing them into a single large gene."
+    ],
+    "answer": "Having each gene controlled by the same set of transcription regulators."
+  },
+  {
+    "question": "Alternative RNA splicing is a form of _____ control.",
+    "options": [ "Transcriptional", "Post-transcriptional", "Translational", "Post-translational" ],
+    "answer": "Post-transcriptional"
+  },
+  {
+    "question": "The regulation of translation initiation can be achieved by:",
+    "options": [
+      "Phosphorylation of initiation factors.",
+      "Methylation of the mRNA.",
+      "Acetylation of the ribosome.",
+      "Splicing of the mRNA."
+    ],
+    "answer": "Phosphorylation of initiation factors."
+  },
+  {
+    "question": "The discovery that a differentiated frog nucleus could be transplanted into an enucleated egg to create a normal tadpole demonstrated that:",
+    "options": [
+      "Differentiated cells contain all the genetic information necessary to direct the development of a complete organism.",
+      "Differentiated cells have lost key genes.",
+      "The cytoplasm of the egg has no effect on development.",
+      "Frogs can reproduce asexually."
+    ],
+    "answer": "Differentiated cells contain all the genetic information necessary to direct the development of a complete organism."
+  },
+  {
+    "question": "A transcription regulator that binds to DNA and prevents transcription is called a(n):",
+    "options": [ "Activator", "Repressor", "Enhancer", "Promoter" ],
+    "answer": "Repressor"
+  },
+  {
+    "question": "The helix-turn-helix motif is a common structural feature of:",
+    "options": [ "DNA-binding proteins", "RNA polymerases", "Ribosomes", "Spliceosomes" ],
+    "answer": "DNA-binding proteins"
+  },
+  {
+    "question": "The expression of thousands of genes at once can be monitored using:",
+    "options": [ "PCR", "Western blotting", "DNA microarrays or RNA-Seq", "Southern blotting" ],
+    "answer": "DNA microarrays or RNA-Seq"
+  },
+  {
+    "question": "The inheritance of a silenced gene state through the modification of chromatin is an example of:",
+    "options": [ "A point mutation", "A frameshift mutation", "Epigenetic inheritance", "Genetic recombination" ],
+    "answer": "Epigenetic inheritance"
+  },
+  {
+    "question": "Small interfering RNAs (siRNAs) are derived from:",
+    "options": [ "The transcription of specific genes.", "The breakdown of mRNAs.", "Double-stranded RNA, often from viruses or transposons.", "The processing of tRNAs." ],
+    "answer": "Double-stranded RNA, often from viruses or transposons."
+  },
+  {
+    "question": "The regulation of gene expression is crucial for:",
+    "options": [
+      "Cell differentiation and development.",
+      "Maintaining cellular homeostasis.",
+      "Responding to changes in the environment.",
+      "All of the above."
+    ],
+    "answer": "All of the above."
+  },
+  {
+    "question": "The binding of an activator protein to an enhancer can lead to:",
+    "options": [
+      "The recruitment of chromatin-remodeling complexes and histone-modifying enzymes.",
+      "The degradation of the gene.",
+      "The silencing of the gene.",
+      "The formation of a heterochromatin."
+    ],
+    "answer": "The recruitment of chromatin-remodeling complexes and histone-modifying enzymes."
+  },
+  {
+    "question": "The ability of different combinations of transcription regulators to control the expression of a wide array of genes is known as:",
+    "options": [ "Combinatorial control", "Feedback inhibition", "Post-transcriptional control", "Alternative splicing" ],
+    "answer": "Combinatorial control"
+  }
+]

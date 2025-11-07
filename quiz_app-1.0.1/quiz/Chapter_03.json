@@ -1,0 +1,387 @@
+[
+  {
+    "question": "What are the two opposing streams of chemical reactions that constitute a cell's metabolism?",
+    "options": [
+      "Oxidation and Reduction",
+      "Catabolism and Anabolism",
+      "Hydrolysis and Condensation",
+      "Transcription and Translation"
+    ],
+    "answer": "Catabolism and Anabolism"
+  },
+  {
+    "question": "How do living cells maintain a high degree of order without violating the second law of thermodynamics?",
+    "options": [
+      "They defy the second law of thermodynamics.",
+      "They take in energy from their environment and release heat, increasing the total entropy of the universe.",
+      "They create energy from nothing.",
+      "They exist in a closed system where entropy does not increase."
+    ],
+    "answer": "They take in energy from their environment and release heat, increasing the total entropy of the universe."
+  },
+  {
+    "question": "What is the primary function of enzymes in a cell?",
+    "options": [
+      "To make energetically unfavorable reactions favorable.",
+      "To change the equilibrium point of a reaction.",
+      "To lower the activation energy of a reaction, thereby increasing its rate.",
+      "To provide the energy needed for a reaction to occur."
+    ],
+    "answer": "To lower the activation energy of a reaction, thereby increasing its rate."
+  },
+  {
+    "question": "A chemical reaction with a negative free-energy change (ΔG) is described as:",
+    "options": [
+      "Energetically unfavorable",
+      "Energetically favorable (spontaneous)",
+      "At equilibrium",
+      "Anabolic"
+    ],
+    "answer": "Energetically favorable (spontaneous)"
+  },
+  {
+    "question": "What is the most widely used activated carrier molecule in the cell, storing energy in high-energy phosphoanhydride bonds?",
+    "options": [
+      "NADH",
+      "NADPH",
+      "FADH2",
+      "ATP"
+    ],
+    "answer": "ATP"
+  },
+  {
+    "question": "What is the primary role of NADPH in the cell?",
+    "options": [
+      "To carry electrons for catabolic reactions that generate ATP.",
+      "To serve as a reducing agent in anabolic (biosynthetic) reactions.",
+      "To transfer a phosphate group to other molecules.",
+      "To be a structural component of DNA."
+    ],
+    "answer": "To serve as a reducing agent in anabolic (biosynthetic) reactions."
+  },
+  {
+    "question": "The process of breaking down food molecules, such as sugars, into smaller molecules is called:",
+    "options": [
+      "Anabolism",
+      "Catabolism",
+      "Photosynthesis",
+      "Biosynthesis"
+    ],
+    "answer": "Catabolism"
+  },
+  {
+    "question": "Oxidation, in a biological context, refers to:",
+    "options": [
+      "The gain of electrons.",
+      "The loss of electrons.",
+      "The addition of a water molecule.",
+      "The removal of a phosphate group."
+    ],
+    "answer": "The loss of electrons."
+  },
+  {
+    "question": "The synthesis of complex macromolecules from simple subunits is an example of:",
+    "options": [
+      "A catabolic pathway.",
+      "An anabolic pathway.",
+      "A spontaneous reaction.",
+      "An energetically favorable reaction."
+    ],
+    "answer": "An anabolic pathway."
+  },
+  {
+    "question": "The measure of the amount of disorder in a system is called:",
+    "options": [
+      "Free Energy (G)",
+      "Enthalpy (H)",
+      "Entropy (S)",
+      "Equilibrium Constant (K)"
+    ],
+    "answer": "Entropy (S)"
+  },
+  {
+    "question": "A chemical reaction has a large positive ΔG. How can a cell make this reaction occur?",
+    "options": [
+      "By increasing the temperature.",
+      "By using a specific enzyme to catalyze it.",
+      "By coupling it to another reaction with a sufficiently negative ΔG.",
+      "It cannot occur under any circumstances."
+    ],
+    "answer": "By coupling it to another reaction with a sufficiently negative ΔG."
+  },
+  {
+    "question": "Why is it advantageous for cells to catabolize food molecules in a stepwise manner?",
+    "options": [
+      "It generates more heat to keep the cell warm.",
+      "It allows energy to be captured efficiently in activated carriers rather than being lost as a burst of heat.",
+      "It is the only way enzymes can function.",
+      "It consumes less oxygen than a single-step oxidation."
+    ],
+    "answer": "It allows energy to be captured efficiently in activated carriers rather than being lost as a burst of heat."
+  },
+  {
+    "question": "A scientist claims to have invented an enzyme that alters the equilibrium constant (K) of the reaction it catalyzes. Why is this claim implausible?",
+    "options": [
+      "Enzymes can only work on one substrate at a time.",
+      "Enzymes only function at neutral pH.",
+      "Enzymes accelerate reaction rates but do not change the reaction's equilibrium point or its ΔG°.",
+      "All enzymes are proteins, and proteins cannot change equilibrium constants."
+    ],
+    "answer": "Enzymes accelerate reaction rates but do not change the reaction's equilibrium point or its ΔG°."
+  },
+  {
+    "question": "Why is the actual free-energy change (ΔG) for ATP hydrolysis in the cell more negative than the standard free-energy change (ΔG°)?",
+    "options": [
+      "Because the cell is at a higher temperature than standard conditions.",
+      "Because the concentrations of ATP, ADP, and Pi in the cell are far from the 1M standard concentrations.",
+      "Because enzymes change the ΔG of the reaction.",
+      "Because the pH of the cell is not 7.0."
+    ],
+    "answer": "Because the concentrations of ATP, ADP, and Pi in the cell are far from the 1M standard concentrations."
+  },
+  {
+    "question": "Why can heat not substitute for the function of enzymes in living cells?",
+    "options": [
+      "Heat cannot provide activation energy.",
+      "Heat increases the rate of all possible reactions indiscriminately, whereas enzymes are highly specific.",
+      "Cells cannot generate enough heat.",
+      "Heat denatures all molecules, not just proteins."
+    ],
+    "answer": "Heat increases the rate of all possible reactions indiscriminately, whereas enzymes are highly specific."
+  },
+  {
+    "question": "Which statement best describes the relationship between NADH/NAD+ and NADPH/NADP+ systems in the cell?",
+    "options": [
+      "Both are kept at a high ratio of reduced to oxidized forms.",
+      "Both are kept at a low ratio of reduced to oxidized forms.",
+      "The NAD+/NADH ratio is kept high for catabolism, while the NADPH/NADP+ ratio is kept high for anabolism.",
+      "The NADPH/NADP+ ratio is kept high for catabolism, while the NAD+/NADH ratio is kept high for anabolism."
+    ],
+    "answer": "The NAD+/NADH ratio is kept high for catabolism, while the NADPH/NADP+ ratio is kept high for anabolism."
+  },
+  {
+    "question": "The reaction that joins a nucleotide to a growing DNA strand is energetically unfavorable. How is it powered?",
+    "options": [
+      "By the breakdown of glucose.",
+      "By the hydrolysis of a nucleoside triphosphate (e.g., dATP) to a monophosphate and pyrophosphate.",
+      "By the energy of the DNA polymerase enzyme itself.",
+      "By coupling to the movement of protons across a membrane."
+    ],
+    "answer": "By the hydrolysis of a nucleoside triphosphate (e.g., dATP) to a monophosphate and pyrophosphate."
+  },
+  {
+    "question": "Which of the following reactions involves a reduction?",
+    "options": [
+      "CH₃CHO → CH₃COOH (acetaldehyde → acetic acid)",
+      "glucose + O₂ → CO₂ + H₂O",
+      "Na → Na⁺",
+      "CH₂=CH₂ → CH₃CH₃ (ethene → ethane)"
+    ],
+    "answer": "CH₂=CH₂ → CH₃CH₃ (ethene → ethane)"
+  },
+  {
+    "question": "An enzyme catalyzes the reaction A + B → AB. In a cell with a high concentration of AB, what would you expect this enzyme to do?",
+    "options": [
+      "Catalyze the reaction AB → A + B.",
+      "Stop working completely.",
+      "Continue to form more AB.",
+      "Become degraded."
+    ],
+    "answer": "Catalyze the reaction AB → A + B."
+  },
+  {
+    "question": "Which of these reactions would you expect to require coupling to an energetically favorable reaction to occur?",
+    "options": [
+      "glucose + O₂ → CO₂ + H₂O",
+      "ADP + Pi → ATP",
+      "ATP → ADP + Pi",
+      "The breakdown of glycogen into glucose."
+    ],
+    "answer": "ADP + Pi → ATP"
+  },
+  {
+    "question": "The first law of thermodynamics states that:",
+    "options": [
+      "The total entropy of the universe is always increasing.",
+      "Energy can be converted from one form to another, but it cannot be created or destroyed.",
+      "All spontaneous processes proceed towards equilibrium.",
+      "The rate of a reaction is proportional to the concentration of the reactants."
+    ],
+    "answer": "Energy can be converted from one form to another, but it cannot be created or destroyed."
+  },
+  {
+    "question": "Photosynthesis is an example of a(n) _____ process.",
+    "options": [ "Catabolic", "Spontaneous", "Energy-releasing", "Anabolic" ],
+    "answer": "Anabolic"
+  },
+  {
+    "question": "The active site of an enzyme is where:",
+    "options": [
+      "The enzyme is synthesized.",
+      "The substrate binds and the reaction is catalyzed.",
+      "The enzyme binds to regulatory molecules.",
+      "The enzyme is degraded."
+    ],
+    "answer": "The substrate binds and the reaction is catalyzed."
+  },
+  {
+    "question": "The free energy change (ΔG) of a reaction is determined by:",
+    "options": [
+      "The concentration of the enzyme.",
+      "The temperature and the change in enthalpy and entropy.",
+      "The activation energy.",
+      "The rate of the reaction."
+    ],
+    "answer": "The temperature and the change in enthalpy and entropy."
+  },
+  {
+    "question": "Which of the following is NOT an activated carrier molecule?",
+    "options": [ "ATP", "NADH", "NADPH", "Glucose" ],
+    "answer": "Glucose"
+  },
+  {
+    "question": "The transfer of a phosphate group from ATP to another molecule is called:",
+    "options": [ "Phosphorylation", "Hydrolysis", "Oxidation", "Reduction" ],
+    "answer": "Phosphorylation"
+  },
+  {
+    "question": "The equilibrium constant (K) for a reaction is related to the:",
+    "options": [
+      "Rate of the forward reaction.",
+      "Rate of the reverse reaction.",
+      "Standard free-energy change (ΔG°).",
+      "Activation energy."
+    ],
+    "answer": "Standard free-energy change (ΔG°)."
+  },
+  {
+    "question": "In a metabolic pathway, the product of one reaction often serves as the _____ for the next reaction.",
+    "options": [ "Enzyme", "Substrate", "Inhibitor", "Activator" ],
+    "answer": "Substrate"
+  },
+  {
+    "question": "The process by which a molecule other than the substrate binds to an enzyme at a site other than the active site to regulate its activity is called:",
+    "options": [ "Competitive inhibition", "Allosteric regulation", "Feedback inhibition", "Covalent modification" ],
+    "answer": "Allosteric regulation"
+  },
+  {
+    "question": "The complete oxidation of glucose to CO2 and H2O releases a large amount of energy. This process is an example of:",
+    "options": [ "Anabolism", "Catabolism", "Photosynthesis", "A reaction with a positive ΔG" ],
+    "answer": "Catabolism"
+  },
+  {
+    "question": "The energy required to initiate a chemical reaction is called the:",
+    "options": [ "Free energy", "Enthalpy", "Entropy", "Activation energy" ],
+    "answer": "Activation energy"
+  },
+  {
+    "question": "Which of the following statements about enzymes is FALSE?",
+    "options": [
+      "They are highly specific for their substrates.",
+      "They are consumed in the reactions they catalyze.",
+      "They can be regulated.",
+      "They are typically proteins."
+    ],
+    "answer": "They are consumed in the reactions they catalyze."
+  },
+  {
+    "question": "The hydrolysis of ATP to ADP and Pi is an energetically _____ reaction.",
+    "options": [ "Favorable", "Unfavorable", "Neutral", "Anabolic" ],
+    "answer": "Favorable"
+  },
+  {
+    "question": "The synthesis of ATP from ADP and Pi is an energetically _____ reaction.",
+    "options": [ "Favorable", "Unfavorable", "Neutral", "Catabolic" ],
+    "answer": "Unfavorable"
+  },
+  {
+    "question": "The main difference between NADH and NADPH is:",
+    "options": [
+      "NADH carries electrons for catabolic reactions, while NADPH carries them for anabolic reactions.",
+      "NADPH is a larger molecule than NADH.",
+      "NADH is involved in photosynthesis, while NADPH is involved in cellular respiration.",
+      "There is no significant difference."
+    ],
+    "answer": "NADH carries electrons for catabolic reactions, while NADPH carries them for anabolic reactions."
+  },
+  {
+    "question": "The ultimate source of energy for most living organisms on Earth is:",
+    "options": [ "The sun", "Geothermal vents", "Glucose", "ATP" ],
+    "answer": "The sun"
+  },
+  {
+    "question": "A reaction at equilibrium has a ΔG of:",
+    "options": [ "Greater than zero", "Less than zero", "Zero", "It depends on the temperature" ],
+    "answer": "Zero"
+  },
+  {
+    "question": "The random jostling of molecules in a cell, which allows enzymes to find their substrates, is known as:",
+    "options": [ "Diffusion", "Active transport", "Facilitated diffusion", "Osmosis" ],
+    "answer": "Diffusion"
+  },
+  {
+    "question": "The formation of a peptide bond between two amino acids is an example of a(n) _____ reaction.",
+    "options": [ "Hydrolysis", "Condensation", "Oxidation", "Reduction" ],
+    "answer": "Condensation"
+  },
+  {
+    "question": "Which of the following is a common way that cells regulate enzyme activity?",
+    "options": [ "By changing the temperature of the cell.", "By changing the pH of the cell.", "Through feedback inhibition.", "By changing the concentration of water." ],
+    "answer": "Through feedback inhibition."
+  },
+  {
+    "question": "The energy stored in the chemical bonds of a molecule is a form of _____ energy.",
+    "options": [ "Kinetic", "Potential", "Heat", "Light" ],
+    "answer": "Potential"
+  },
+  {
+    "question": "The second law of thermodynamics predicts that the universe will become progressively more:",
+    "options": [ "Ordered", "Disordered", "Energetic", "Complex" ],
+    "answer": "Disordered"
+  },
+  {
+    "question": "The coupling of an energetically favorable reaction to an energetically unfavorable one is a common strategy used by cells to:",
+    "options": [
+      "Generate heat.",
+      "Drive unfavorable reactions forward.",
+      "Increase the rate of all reactions.",
+      "Store energy."
+    ],
+    "answer": "Drive unfavorable reactions forward."
+  },
+  {
+    "question": "Which of the following is an example of a catabolic pathway?",
+    "options": [ "Photosynthesis", "Glycolysis", "DNA replication", "Protein synthesis" ],
+    "answer": "Glycolysis"
+  },
+  {
+    "question": "The reduction of a molecule involves the _____ of electrons.",
+    "options": [ "Gain", "Loss", "Sharing", "Transfer" ],
+    "answer": "Gain"
+  },
+  {
+    "question": "The energy released during the breakdown of food molecules is temporarily stored in:",
+    "options": [ "The nucleus", "The cell wall", "Activated carrier molecules", "The plasma membrane" ],
+    "answer": "Activated carrier molecules"
+  },
+  {
+    "question": "The synthesis of polysaccharides, proteins, and nucleic acids is an example of:",
+    "options": [ "Catabolism", "Anabolism", "Spontaneous reactions", "Reactions with a negative ΔG" ],
+    "answer": "Anabolism"
+  },
+  {
+    "question": "The specificity of an enzyme for its substrate is due to the:",
+    "options": [
+      "High temperature of the cell.",
+      "High concentration of the substrate.",
+      "Complementary shapes of the active site and the substrate.",
+      "Random chance."
+    ],
+    "answer": "Complementary shapes of the active site and the substrate."
+  },
+  {
+    "question": "The breakdown of glycogen into glucose is an example of a(n) _____ reaction.",
+    "options": [ "Anabolic", "Catabolic", "Unfavorable", "Energy-requiring" ],
+    "answer": "Catabolic"
+  }
+]

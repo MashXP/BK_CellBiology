@@ -1,0 +1,1325 @@
+{
+  "version": 2,
+  "parameters": {
+    "decodelevel": "generalized"
+  },
+  "outlines": [
+    {
+      "dest": [
+        "7 0 R",
+        "/FitH",
+        786
+      ],
+      "destpageposfrom1": 1,
+      "kids": [],
+      "object": "22 0 R",
+      "open": true,
+      "title": "Cover (Essential Cell Biology)\r"
+    },
+    {
+      "dest": [
+        "42 0 R",
+        "/FitH",
+        677
+      ],
+      "destpageposfrom1": 3,
+      "kids": [
+        {
+          "dest": [
+            "42 0 R",
+            "/FitH",
+            677
+          ],
+          "destpageposfrom1": 3,
+          "kids": [],
+          "object": "170 0 R",
+          "open": true,
+          "title": "Half Title"
+        },
+        {
+          "dest": [
+            "44 0 R",
+            "/FitH",
+            773
+          ],
+          "destpageposfrom1": 5,
+          "kids": [],
+          "object": "2155 0 R",
+          "open": true,
+          "title": "Title Page"
+        },
+        {
+          "dest": [
+            "45 0 R",
+            "/FitH",
+            727
+          ],
+          "destpageposfrom1": 6,
+          "kids": [],
+          "object": "3097 0 R",
+          "open": true,
+          "title": "Copyright"
+        },
+        {
+          "dest": [
+            "46 0 R",
+            "/FitH",
+            763
+          ],
+          "destpageposfrom1": 7,
+          "kids": [],
+          "object": "9239 0 R",
+          "open": true,
+          "title": "Preface "
+        },
+        {
+          "dest": [
+            "47 0 R",
+            "/FitH",
+            450
+          ],
+          "destpageposfrom1": 8,
+          "kids": [],
+          "object": "3099 0 R",
+          "open": true,
+          "title": "Acknowledgments "
+        },
+        {
+          "dest": [
+            "2135 0 R",
+            "/FitH",
+            818
+          ],
+          "destpageposfrom1": 12,
+          "kids": [],
+          "object": "2157 0 R",
+          "open": true,
+          "title": "About the Authors"
+        },
+        {
+          "dest": [
+            "2140 0 R",
+            "/FitH",
+            766
+          ],
+          "destpageposfrom1": 17,
+          "kids": [],
+          "object": "171 0 R",
+          "open": true,
+          "title": "Contents "
+        }
+      ],
+      "object": "55 0 R",
+      "open": false,
+      "title": "Front Matter\r"
+    },
+    {
+      "dest": [
+        "2176 0 R",
+        "/FitH",
+        708
+      ],
+      "destpageposfrom1": 35,
+      "kids": [
+        {
+          "dest": [
+            "2177 0 R",
+            "/FitH",
+            716
+          ],
+          "destpageposfrom1": 36,
+          "kids": [],
+          "object": "2159 0 R",
+          "open": true,
+          "title": "Unity and Diversity of Cells "
+        },
+        {
+          "dest": [
+            "2181 0 R",
+            "/FitH",
+            504
+          ],
+          "destpageposfrom1": 40,
+          "kids": [],
+          "object": "3101 0 R",
+          "open": true,
+          "title": "Cells Under the Microscope "
+        },
+        {
+          "dest": [
+            "2186 0 R",
+            "/FitH",
+            202
+          ],
+          "destpageposfrom1": 45,
+          "kids": [],
+          "object": "9242 0 R",
+          "open": true,
+          "title": "The Prokaryotic Cell "
+        },
+        {
+          "dest": [
+            "2191 0 R",
+            "/FitH",
+            753
+          ],
+          "destpageposfrom1": 50,
+          "kids": [],
+          "object": "3103 0 R",
+          "open": true,
+          "title": "The Eukaryotic Cell "
+        },
+        {
+          "dest": [
+            "2202 0 R",
+            "/FitH",
+            412
+          ],
+          "destpageposfrom1": 61,
+          "kids": [],
+          "object": "2160 0 R",
+          "open": true,
+          "title": "Model Organisms "
+        }
+      ],
+      "object": "172 0 R",
+      "open": false,
+      "title": "Chapter 1 - Cells: The Fundamental Units of Life "
+    },
+    {
+      "dest": [
+        "2214 0 R",
+        "/FitH",
+        677
+      ],
+      "destpageposfrom1": 73,
+      "kids": [
+        {
+          "dest": [
+            "2215 0 R",
+            "/FitH",
+            761
+          ],
+          "destpageposfrom1": 74,
+          "kids": [],
+          "object": "3105 0 R",
+          "open": true,
+          "title": "Chemical Bonds "
+        },
+        {
+          "dest": [
+            "2225 0 R",
+            "/FitH",
+            298
+          ],
+          "destpageposfrom1": 84,
+          "kids": [],
+          "object": "9246 0 R",
+          "open": true,
+          "title": "Small Molecules in Cells "
+        },
+        {
+          "dest": [
+            "2233 0 R",
+            "/FitH",
+            440
+          ],
+          "destpageposfrom1": 92,
+          "kids": [],
+          "object": "3106 0 R",
+          "open": true,
+          "title": "Macromolecules in Cells "
+        }
+      ],
+      "object": "2161 0 R",
+      "open": false,
+      "title": "Chapter 2 - Chemical Components of Cells "
+    },
+    {
+      "dest": [
+        "2256 0 R",
+        "/FitH",
+        766
+      ],
+      "destpageposfrom1": 115,
+      "kids": [
+        {
+          "dest": [
+            "2257 0 R",
+            "/FitH",
+            383
+          ],
+          "destpageposfrom1": 116,
+          "kids": [],
+          "object": "9249 0 R",
+          "open": true,
+          "title": "The Use of Energy by Cells "
+        },
+        {
+          "dest": [
+            "2263 0 R",
+            "/FitH",
+            119
+          ],
+          "destpageposfrom1": 122,
+          "kids": [],
+          "object": "11282 0 R",
+          "open": true,
+          "title": "Free Energy and Catalysis "
+        },
+        {
+          "dest": [
+            "2276 0 R",
+            "/FitH",
+            818
+          ],
+          "destpageposfrom1": 135,
+          "kids": [],
+          "object": "9250 0 R",
+          "open": true,
+          "title": "Activated Carriers and Biosynthesis "
+        }
+      ],
+      "object": "3107 0 R",
+      "open": false,
+      "title": "Chapter 3 - Energy, Catalysis, and Biosynthesis "
+    },
+    {
+      "dest": [
+        "2292 0 R",
+        "/FitH",
+        739
+      ],
+      "destpageposfrom1": 151,
+      "kids": [
+        {
+          "dest": [
+            "2294 0 R",
+            "/FitH",
+            708
+          ],
+          "destpageposfrom1": 153,
+          "kids": [],
+          "object": "11285 0 R",
+          "open": true,
+          "title": "The Shape and Structure of Proteins "
+        },
+        {
+          "dest": [
+            "2312 0 R",
+            "/FitH",
+            773
+          ],
+          "destpageposfrom1": 171,
+          "kids": [],
+          "object": "11523 0 R",
+          "open": true,
+          "title": "How Proteins Work "
+        },
+        {
+          "dest": [
+            "2324 0 R",
+            "/FitH",
+            425
+          ],
+          "destpageposfrom1": 183,
+          "kids": [],
+          "object": "11525 0 R",
+          "open": true,
+          "title": "How Proteins are Controlled "
+        },
+        {
+          "dest": [
+            "2333 0 R",
+            "/FitH",
+            543
+          ],
+          "destpageposfrom1": 192,
+          "kids": [],
+          "object": "11286 0 R",
+          "open": true,
+          "title": "How Proteins are Studied "
+        }
+      ],
+      "object": "9251 0 R",
+      "open": false,
+      "title": "Chapter 4 - Protein Structure and Function "
+    },
+    {
+      "dest": [
+        "2348 0 R",
+        "/FitH",
+        734
+      ],
+      "destpageposfrom1": 207,
+      "kids": [
+        {
+          "dest": [
+            "2349 0 R",
+            "/FitH",
+            270
+          ],
+          "destpageposfrom1": 208,
+          "kids": [],
+          "object": "11527 0 R",
+          "open": true,
+          "title": "The Structure of DNA"
+        },
+        {
+          "dest": [
+            "2353 0 R",
+            "/FitH",
+            482
+          ],
+          "destpageposfrom1": 212,
+          "kids": [],
+          "object": "11555 0 R",
+          "open": true,
+          "title": "The Structure of Eukaryotic Chromosomes "
+        },
+        {
+          "dest": [
+            "2363 0 R",
+            "/FitH",
+            773
+          ],
+          "destpageposfrom1": 222,
+          "kids": [],
+          "object": "11528 0 R",
+          "open": true,
+          "title": "The Regulation of Chromosome Structure "
+        }
+      ],
+      "object": "11287 0 R",
+      "open": false,
+      "title": "Chapter 5 - DNA and Chromosomes "
+    },
+    {
+      "dest": [
+        "2375 0 R",
+        "/FitH",
+        731
+      ],
+      "destpageposfrom1": 233,
+      "kids": [
+        {
+          "dest": [
+            "2376 0 R",
+            "/FitH",
+            641
+          ],
+          "destpageposfrom1": 234,
+          "kids": [],
+          "object": "11558 0 R",
+          "open": true,
+          "title": "DNA Replication"
+        },
+        {
+          "dest": [
+            "2391 0 R",
+            "/FitH",
+            699
+          ],
+          "destpageposfrom1": 249,
+          "kids": [],
+          "object": "11559 0 R",
+          "open": true,
+          "title": "DNA Repair "
+        }
+      ],
+      "object": "11529 0 R",
+      "open": false,
+      "title": "Chapter 6 - DNA Replication and Repair"
+    },
+    {
+      "dest": [
+        "2403 0 R",
+        "/FitH",
+        761
+      ],
+      "destpageposfrom1": 261,
+      "kids": [
+        {
+          "dest": [
+            "2404 0 R",
+            "/FitH",
+            475
+          ],
+          "destpageposfrom1": 262,
+          "kids": [],
+          "object": "11586 0 R",
+          "open": true,
+          "title": "From DNA to RNA"
+        },
+        {
+          "dest": [
+            "2419 0 R",
+            "/FitH",
+            242
+          ],
+          "destpageposfrom1": 277,
+          "kids": [],
+          "object": "11603 0 R",
+          "open": true,
+          "title": "From RNA to Protein "
+        },
+        {
+          "dest": [
+            "2435 0 R",
+            "/FitH",
+            723
+          ],
+          "destpageposfrom1": 293,
+          "kids": [],
+          "object": "11587 0 R",
+          "open": true,
+          "title": "RNA and the Origins of Life "
+        }
+      ],
+      "object": "11560 0 R",
+      "open": false,
+      "title": "Chapter 7 - From DNA to Protein: How Cells Read the Genome "
+    },
+    {
+      "dest": [
+        "2443 0 R",
+        "/FitH",
+        773
+      ],
+      "destpageposfrom1": 301,
+      "kids": [
+        {
+          "dest": [
+            "2444 0 R",
+            "/FitH",
+            455
+          ],
+          "destpageposfrom1": 302,
+          "kids": [],
+          "object": "11606 0 R",
+          "open": true,
+          "title": "An Overview of Gene Expression "
+        },
+        {
+          "dest": [
+            "2447 0 R",
+            "/FitH",
+            457
+          ],
+          "destpageposfrom1": 305,
+          "kids": [],
+          "object": "11622 0 R",
+          "open": true,
+          "title": "How Transcription Is Regulated "
+        },
+        {
+          "dest": [
+            "2454 0 R",
+            "/FitH",
+            363
+          ],
+          "destpageposfrom1": 312,
+          "kids": [],
+          "object": "11624 0 R",
+          "open": true,
+          "title": "Generating Specialized Cell Types "
+        },
+        {
+          "dest": [
+            "2463 0 R",
+            "/FitH",
+            422
+          ],
+          "destpageposfrom1": 321,
+          "kids": [],
+          "object": "11607 0 R",
+          "open": true,
+          "title": "Post-Transcriptional Controls "
+        }
+      ],
+      "object": "11588 0 R",
+      "open": false,
+      "title": "Chapter 8 - Control of Gene Expression "
+    },
+    {
+      "dest": [
+        "2473 0 R",
+        "/FitH",
+        781
+      ],
+      "destpageposfrom1": 331,
+      "kids": [
+        {
+          "dest": [
+            "2474 0 R",
+            "/FitH",
+            684
+          ],
+          "destpageposfrom1": 332,
+          "kids": [],
+          "object": "11626 0 R",
+          "open": true,
+          "title": "Generating Genetic Variation "
+        },
+        {
+          "dest": [
+            "2485 0 R",
+            "/FitH",
+            773
+          ],
+          "destpageposfrom1": 343,
+          "kids": [],
+          "object": "11644 0 R",
+          "open": true,
+          "title": "Reconstructing Life’s Family Tree "
+        },
+        {
+          "dest": [
+            "2491 0 R",
+            "/FitH",
+            696
+          ],
+          "destpageposfrom1": 349,
+          "kids": [],
+          "object": "11646 0 R",
+          "open": true,
+          "title": "Mobile Genetic Elements and Viruses "
+        },
+        {
+          "dest": [
+            "2496 0 R",
+            "/FitH",
+            293
+          ],
+          "destpageposfrom1": 354,
+          "kids": [],
+          "object": "11627 0 R",
+          "open": true,
+          "title": "Examining the Human Genome "
+        }
+      ],
+      "object": "11608 0 R",
+      "open": false,
+      "title": "Chapter 9 - How Genes and Genomes Evolve "
+    },
+    {
+      "dest": [
+        "2509 0 R",
+        "/FitH",
+        748
+      ],
+      "destpageposfrom1": 367,
+      "kids": [
+        {
+          "dest": [
+            "2510 0 R",
+            "/FitH",
+            619
+          ],
+          "destpageposfrom1": 368,
+          "kids": [],
+          "object": "11648 0 R",
+          "open": true,
+          "title": "Isolating and Cloning DNA Molecules "
+        },
+        {
+          "dest": [
+            "2517 0 R",
+            "/FitH",
+            369
+          ],
+          "destpageposfrom1": 375,
+          "kids": [],
+          "object": "11662 0 R",
+          "open": true,
+          "title": "DNA Cloning by PCR "
+        },
+        {
+          "dest": [
+            "2522 0 R",
+            "/FitH",
+            773
+          ],
+          "destpageposfrom1": 380,
+          "kids": [],
+          "object": "11664 0 R",
+          "open": true,
+          "title": "Sequencing DNA"
+        },
+        {
+          "dest": [
+            "2526 0 R",
+            "/FitH",
+            220
+          ],
+          "destpageposfrom1": 384,
+          "kids": [],
+          "object": "11649 0 R",
+          "open": true,
+          "title": "Exploring Gene Function "
+        }
+      ],
+      "object": "11628 0 R",
+      "open": false,
+      "title": "Chapter 10 - Analyzing the Structure and Function of Genes "
+    },
+    {
+      "dest": [
+        "2541 0 R",
+        "/FitH",
+        720
+      ],
+      "destpageposfrom1": 399,
+      "kids": [
+        {
+          "dest": [
+            "2543 0 R",
+            "/FitH",
+            577
+          ],
+          "destpageposfrom1": 401,
+          "kids": [],
+          "object": "11666 0 R",
+          "open": true,
+          "title": "The Lipid Bilayer "
+        },
+        {
+          "dest": [
+            "2551 0 R",
+            "/FitH",
+            618
+          ],
+          "destpageposfrom1": 409,
+          "kids": [],
+          "object": "11667 0 R",
+          "open": true,
+          "title": "Membrane Proteins "
+        }
+      ],
+      "object": "11650 0 R",
+      "open": false,
+      "title": "Chapter 11 - Membrane Structure "
+    },
+    {
+      "dest": [
+        "2565 0 R",
+        "/FitH",
+        780
+      ],
+      "destpageposfrom1": 423,
+      "kids": [
+        {
+          "dest": [
+            "2566 0 R",
+            "/FitH",
+            617
+          ],
+          "destpageposfrom1": 424,
+          "kids": [],
+          "object": "11657 0 R",
+          "open": true,
+          "title": "Principles of Transmembrane Transport "
+        },
+        {
+          "dest": [
+            "2571 0 R",
+            "/FitH",
+            476
+          ],
+          "destpageposfrom1": 429,
+          "kids": [],
+          "object": "11669 0 R",
+          "open": true,
+          "title": "Transporters and Their Functions "
+        },
+        {
+          "dest": [
+            "2579 0 R",
+            "/FitH",
+            543
+          ],
+          "destpageposfrom1": 437,
+          "kids": [],
+          "object": "11671 0 R",
+          "open": true,
+          "title": "Ion Channels and the Membrane Potential "
+        },
+        {
+          "dest": [
+            "2586 0 R",
+            "/FitH",
+            547
+          ],
+          "destpageposfrom1": 444,
+          "kids": [],
+          "object": "11658 0 R",
+          "open": true,
+          "title": "Ion Channels and Nerve Cell Signaling "
+        }
+      ],
+      "object": "11640 0 R",
+      "open": false,
+      "title": "Chapter 12 - Transport Across Cell Membranes "
+    },
+    {
+      "dest": [
+        "2603 0 R",
+        "/FitH",
+        728
+      ],
+      "destpageposfrom1": 461,
+      "kids": [
+        {
+          "dest": [
+            "2604 0 R",
+            "/FitH",
+            491
+          ],
+          "destpageposfrom1": 462,
+          "kids": [],
+          "object": "11638 0 R",
+          "open": true,
+          "title": "The Breakdown and Utilization of Sugars and Fats "
+        },
+        {
+          "dest": [
+            "2623 0 R",
+            "/FitH",
+            773
+          ],
+          "destpageposfrom1": 481,
+          "kids": [],
+          "object": "11639 0 R",
+          "open": true,
+          "title": "Regulation of Metabolism "
+        }
+      ],
+      "object": "11619 0 R",
+      "open": false,
+      "title": "Chapter 13 - How Cells Obtain Energy from Food "
+    },
+    {
+      "dest": [
+        "2631 0 R",
+        "/FitH",
+        808
+      ],
+      "destpageposfrom1": 489,
+      "kids": [
+        {
+          "dest": [
+            "2635 0 R",
+            "/FitH",
+            773
+          ],
+          "destpageposfrom1": 493,
+          "kids": [],
+          "object": "11617 0 R",
+          "open": true,
+          "title": "Mitochondria and Oxidative Phosphorylation "
+        },
+        {
+          "dest": [
+            "2645 0 R",
+            "/FitH",
+            433
+          ],
+          "destpageposfrom1": 503,
+          "kids": [],
+          "object": "11634 0 R",
+          "open": true,
+          "title": "Molecular Mechanisms of Electron Transport and Proton Pumping "
+        },
+        {
+          "dest": [
+            "2654 0 R",
+            "/FitH",
+            773
+          ],
+          "destpageposfrom1": 512,
+          "kids": [],
+          "object": "11636 0 R",
+          "open": true,
+          "title": "Chloroplasts and Photosynthesis "
+        },
+        {
+          "dest": [
+            "2664 0 R",
+            "/FitH",
+            684
+          ],
+          "destpageposfrom1": 522,
+          "kids": [],
+          "object": "11618 0 R",
+          "open": true,
+          "title": "The Evolution of Energy-Generating Systems "
+        }
+      ],
+      "object": "11601 0 R",
+      "open": false,
+      "title": "Chapter 14 - Energy Generation in Mitochondria and Chloroplasts "
+    },
+    {
+      "dest": [
+        "2671 0 R",
+        "/FitH",
+        723
+      ],
+      "destpageposfrom1": 529,
+      "kids": [
+        {
+          "dest": [
+            "2672 0 R",
+            "/FitH",
+            331
+          ],
+          "destpageposfrom1": 530,
+          "kids": [],
+          "object": "11599 0 R",
+          "open": true,
+          "title": "Membrane-Enclosed Organelles "
+        },
+        {
+          "dest": [
+            "2676 0 R",
+            "/FitH",
+            532
+          ],
+          "destpageposfrom1": 534,
+          "kids": [],
+          "object": "11613 0 R",
+          "open": true,
+          "title": "Protein Sorting "
+        },
+        {
+          "dest": [
+            "2687 0 R",
+            "/FitH",
+            467
+          ],
+          "destpageposfrom1": 545,
+          "kids": [],
+          "object": "11631 0 R",
+          "open": true,
+          "title": "Vesicular Transport "
+        },
+        {
+          "dest": [
+            "2691 0 R",
+            "/FitH",
+            331
+          ],
+          "destpageposfrom1": 549,
+          "kids": [],
+          "object": "11615 0 R",
+          "open": true,
+          "title": "Secretory Pathways "
+        },
+        {
+          "dest": [
+            "2699 0 R",
+            "/FitH",
+            595
+          ],
+          "destpageposfrom1": 557,
+          "kids": [],
+          "object": "11600 0 R",
+          "open": true,
+          "title": "Endocytic Pathways "
+        }
+      ],
+      "object": "11575 0 R",
+      "open": false,
+      "title": "Chapter 15 - Intracellular Compartments and Protein Transport "
+    },
+    {
+      "dest": [
+        "2709 0 R",
+        "/FitH",
+        744
+      ],
+      "destpageposfrom1": 567,
+      "kids": [
+        {
+          "dest": [
+            "2710 0 R",
+            "/FitH",
+            732
+          ],
+          "destpageposfrom1": 568,
+          "kids": [],
+          "object": "11573 0 R",
+          "open": true,
+          "title": "General Principles of Cell Signaling "
+        },
+        {
+          "dest": [
+            "2721 0 R",
+            "/FitH",
+            684
+          ],
+          "destpageposfrom1": 579,
+          "kids": [],
+          "object": "11596 0 R",
+          "open": true,
+          "title": "G-Protein-Coupled Receptors "
+        },
+        {
+          "dest": [
+            "2733 0 R",
+            "/FitH",
+            434
+          ],
+          "destpageposfrom1": 591,
+          "kids": [],
+          "object": "11574 0 R",
+          "open": true,
+          "title": "Enzyme-Coupled Receptors "
+        }
+      ],
+      "object": "11544 0 R",
+      "open": false,
+      "title": "Chapter 16 - Cell Signaling "
+    },
+    {
+      "dest": [
+        "2749 0 R",
+        "/FitH",
+        703
+      ],
+      "destpageposfrom1": 607,
+      "kids": [
+        {
+          "dest": [
+            "2751 0 R",
+            "/FitH",
+            773
+          ],
+          "destpageposfrom1": 609,
+          "kids": [],
+          "object": "11542 0 R",
+          "open": true,
+          "title": "Intermediate Filaments "
+        },
+        {
+          "dest": [
+            "2756 0 R",
+            "/FitH",
+            568
+          ],
+          "destpageposfrom1": 614,
+          "kids": [],
+          "object": "11569 0 R",
+          "open": true,
+          "title": "Microtubules "
+        },
+        {
+          "dest": [
+            "2768 0 R",
+            "/FitH",
+            386
+          ],
+          "destpageposfrom1": 626,
+          "kids": [],
+          "object": "11571 0 R",
+          "open": true,
+          "title": "Actin Filaments "
+        },
+        {
+          "dest": [
+            "2776 0 R",
+            "/FitH",
+            502
+          ],
+          "destpageposfrom1": 634,
+          "kids": [],
+          "object": "11543 0 R",
+          "open": true,
+          "title": "Muscle Contraction "
+        }
+      ],
+      "object": "11301 0 R",
+      "open": false,
+      "title": "Chapter 17 - Cytoskeleton "
+    },
+    {
+      "dest": [
+        "2785 0 R",
+        "/FitH",
+        712
+      ],
+      "destpageposfrom1": 643,
+      "kids": [
+        {
+          "dest": [
+            "2786 0 R",
+            "/FitH",
+            559
+          ],
+          "destpageposfrom1": 644,
+          "kids": [],
+          "object": "11299 0 R",
+          "open": true,
+          "title": "Overview of the Cell Cycle "
+        },
+        {
+          "dest": [
+            "2789 0 R",
+            "/FitH",
+            371
+          ],
+          "destpageposfrom1": 647,
+          "kids": [],
+          "object": "11538 0 R",
+          "open": true,
+          "title": "The Cell-Cycle Control System "
+        },
+        {
+          "dest": [
+            "2796 0 R",
+            "/FitH",
+            773
+          ],
+          "destpageposfrom1": 654,
+          "kids": [],
+          "object": "11565 0 R",
+          "open": true,
+          "title": "G1 Phase "
+        },
+        {
+          "dest": [
+            "2799 0 R",
+            "/FitH",
+            773
+          ],
+          "destpageposfrom1": 657,
+          "kids": [],
+          "object": "11590 0 R",
+          "open": true,
+          "title": "S Phase "
+        },
+        {
+          "dest": [
+            "2800 0 R",
+            "/FitH",
+            279
+          ],
+          "destpageposfrom1": 658,
+          "kids": [],
+          "object": "11592 0 R",
+          "open": true,
+          "title": "M Phase "
+        },
+        {
+          "dest": [
+            "2803 0 R",
+            "/FitH",
+            481
+          ],
+          "destpageposfrom1": 661,
+          "kids": [],
+          "object": "11567 0 R",
+          "open": true,
+          "title": "Mitosis "
+        },
+        {
+          "dest": [
+            "2812 0 R",
+            "/FitH",
+            496
+          ],
+          "destpageposfrom1": 670,
+          "kids": [],
+          "object": "11540 0 R",
+          "open": true,
+          "title": "Cytokinesis "
+        },
+        {
+          "dest": [
+            "2815 0 R",
+            "/FitH",
+            314
+          ],
+          "destpageposfrom1": 673,
+          "kids": [],
+          "object": "11300 0 R",
+          "open": true,
+          "title": "Control of Cell Numbers and Cell Size "
+        }
+      ],
+      "object": "9271 0 R",
+      "open": false,
+      "title": "Chapter 18 - The Cell-Division Cycle "
+    },
+    {
+      "dest": [
+        "2827 0 R",
+        "/FitH",
+        718
+      ],
+      "destpageposfrom1": 685,
+      "kids": [
+        {
+          "dest": [
+            "2828 0 R",
+            "/FitH",
+            773
+          ],
+          "destpageposfrom1": 686,
+          "kids": [],
+          "object": "9269 0 R",
+          "open": true,
+          "title": "The Benefits of Sex "
+        },
+        {
+          "dest": [
+            "2830 0 R",
+            "/FitH",
+            314
+          ],
+          "destpageposfrom1": 688,
+          "kids": [],
+          "object": "11295 0 R",
+          "open": true,
+          "title": "Meiosis and Fertilization "
+        },
+        {
+          "dest": [
+            "2840 0 R",
+            "/FitH",
+            773
+          ],
+          "destpageposfrom1": 698,
+          "kids": [],
+          "object": "11535 0 R",
+          "open": true,
+          "title": "Mendel and the Laws of Inheritance "
+        },
+        {
+          "dest": [
+            "2850 0 R",
+            "/FitH",
+            720
+          ],
+          "destpageposfrom1": 708,
+          "kids": [],
+          "object": "11297 0 R",
+          "open": true,
+          "title": "Genetics as an Experimental Tool "
+        },
+        {
+          "dest": [
+            "2854 0 R",
+            "/FitH",
+            267
+          ],
+          "destpageposfrom1": 712,
+          "kids": [],
+          "object": "9270 0 R",
+          "open": true,
+          "title": "Exploring Human Genetics "
+        }
+      ],
+      "object": "3128 0 R",
+      "open": false,
+      "title": "Chapter 19 - Sexual Reproduction and Genetics "
+    },
+    {
+      "dest": [
+        "2867 0 R",
+        "/FitH",
+        759
+      ],
+      "destpageposfrom1": 725,
+      "kids": [
+        {
+          "dest": [
+            "2868 0 R",
+            "/FitH",
+            416
+          ],
+          "destpageposfrom1": 726,
+          "kids": [],
+          "object": "3126 0 R",
+          "open": true,
+          "title": "Extracellular Matrix and Connective Tissues "
+        },
+        {
+          "dest": [
+            "2877 0 R",
+            "/FitH",
+            130
+          ],
+          "destpageposfrom1": 735,
+          "kids": [],
+          "object": "9265 0 R",
+          "open": true,
+          "title": "Epithelial Sheets and Cell Junctions "
+        },
+        {
+          "dest": [
+            "2885 0 R",
+            "/FitH",
+            539
+          ],
+          "destpageposfrom1": 743,
+          "kids": [],
+          "object": "9267 0 R",
+          "open": true,
+          "title": "Stem Cells and Tissue Renewal "
+        },
+        {
+          "dest": [
+            "2894 0 R",
+            "/FitH",
+            509
+          ],
+          "destpageposfrom1": 752,
+          "kids": [],
+          "object": "3127 0 R",
+          "open": true,
+          "title": "Cancer "
+        }
+      ],
+      "object": "2170 0 R",
+      "open": false,
+      "title": "Chapter 20 - Cell Communities: Tissues, Stem Cells, and Cancer "
+    },
+    {
+      "dest": [
+        "2912 0 R",
+        "/FitH",
+        766
+      ],
+      "destpageposfrom1": 769,
+      "kids": [],
+      "object": "175 0 R",
+      "open": true,
+      "title": "Answers "
+    },
+    {
+      "dest": [
+        "2168 0 R",
+        "/FitH",
+        766
+      ],
+      "destpageposfrom1": 825,
+      "kids": [],
+      "object": "57 0 R",
+      "open": true,
+      "title": "Glossary "
+    },
+    {
+      "dest": [
+        "173 0 R",
+        "/FitH",
+        729
+      ],
+      "destpageposfrom1": 843,
+      "kids": [],
+      "object": "23 0 R",
+      "open": true,
+      "title": "Index "
+    }
+  ]
+}

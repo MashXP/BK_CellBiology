@@ -1,0 +1,402 @@
+[
+  {
+    "question": "The process of synthesizing RNA from a DNA template is called:",
+    "options": [
+      "Translation",
+      "Replication",
+      "Transcription",
+      "Transformation"
+    ],
+    "answer": "Transcription"
+  },
+  {
+    "question": "Which of the following is a key difference between RNA and DNA?",
+    "options": [
+      "RNA is double-stranded, while DNA is single-stranded.",
+      "RNA contains the sugar deoxyribose, while DNA contains ribose.",
+      "RNA contains the base uracil (U) instead of thymine (T).",
+      "RNA is more stable than DNA."
+    ],
+    "answer": "RNA contains the base uracil (U) instead of thymine (T)."
+  },
+  {
+    "question": "In eukaryotes, noncoding sequences that are removed from pre-mRNA are called:",
+    "options": [
+      "Exons",
+      "Introns",
+      "Codons",
+      "Promoters"
+    ],
+    "answer": "Introns"
+  },
+  {
+    "question": "What is a codon?",
+    "options": [
+      "A sequence of three nucleotides in DNA that codes for a protein.",
+      "A sequence of three nucleotides in mRNA that specifies a particular amino acid.",
+      "A type of RNA that catalyzes chemical reactions.",
+      "The part of a tRNA molecule that binds to an amino acid."
+    ],
+    "answer": "A sequence of three nucleotides in mRNA that specifies a particular amino acid."
+  },
+  {
+    "question": "What is the function of tRNA in translation?",
+    "options": [
+      "It carries the genetic code from the nucleus to the ribosome.",
+      "It acts as an adaptor, matching a specific codon in mRNA to a specific amino acid.",
+      "It forms the catalytic core of the ribosome.",
+      "It helps to splice introns out of pre-mRNA."
+    ],
+    "answer": "It acts as an adaptor, matching a specific codon in mRNA to a specific amino acid."
+  },
+  {
+    "question": "The macromolecular machine that carries out protein synthesis is the:",
+    "options": [
+      "Spliceosome",
+      "Proteasome",
+      "Ribosome",
+      "Polymerase"
+    ],
+    "answer": "Ribosome"
+  },
+  {
+    "question": "Which of the following is NOT a standard processing step for eukaryotic pre-mRNA?",
+    "options": [
+      "5' capping",
+      "RNA splicing",
+      "3' polyadenylation",
+      "Replication"
+    ],
+    "answer": "Replication"
+  },
+  {
+    "question": "The genetic code is said to be 'redundant' because:",
+    "options": [
+      "A single codon can specify multiple amino acids.",
+      "Multiple codons can specify the same amino acid.",
+      "The code is different in different organisms.",
+      "There are more amino acids than codons."
+    ],
+    "answer": "Multiple codons can specify the same amino acid."
+  },
+  {
+    "question": "Translation in eukaryotes typically begins at which start codon?",
+    "options": [
+      "UAA",
+      "UAG",
+      "UGA",
+      "AUG"
+    ],
+    "answer": "AUG"
+  },
+  {
+    "question": "The 'RNA world' hypothesis suggests that early life was based on RNA because:",
+    "options": [
+      "RNA is more stable than DNA.",
+      "RNA can both store genetic information and catalyze chemical reactions.",
+      "RNA is the only molecule that can form a double helix.",
+      "RNA is simpler to synthesize than protein."
+    ],
+    "answer": "RNA can both store genetic information and catalyze chemical reactions."
+  },
+  {
+    "question": "A mutation changes a codon in the middle of an mRNA from UAC (Tyrosine) to UAA. What is the most likely consequence?",
+    "options": [
+      "A different amino acid will be inserted.",
+      "The resulting polypeptide will be shorter than normal (truncated).",
+      "The polypeptide will be longer than normal.",
+      "There will be no effect on the polypeptide."
+    ],
+    "answer": "The resulting polypeptide will be shorter than normal (truncated)."
+  },
+  {
+    "question": "What is the role of aminoacyl-tRNA synthetases?",
+    "options": [
+      "They form the peptide bonds between amino acids.",
+      "They correctly attach amino acids to their corresponding tRNA molecules.",
+      "They help the ribosome find the start codon.",
+      "They remove introns from pre-mRNA."
+    ],
+    "answer": "They correctly attach amino acids to their corresponding tRNA molecules."
+  },
+  {
+    "question": "What is the catalytic component of the ribosome?",
+    "options": [
+      "The ribosomal proteins.",
+      "The mRNA molecule.",
+      "The ribosomal RNA (rRNA).",
+      "The tRNA molecules."
+    ],
+    "answer": "The ribosomal RNA (rRNA)."
+  },
+  {
+    "question": "A scientist states that for any given gene, either of the two DNA strands can be used as a template for transcription. Why is this incorrect?",
+    "options": [
+      "RNA polymerase can only bind to one specific strand.",
+      "The promoter sequence orients RNA polymerase in a specific direction, defining which strand is the template.",
+      "The two DNA strands are identical, so it doesn't matter which is used.",
+      "Using the other strand would produce an identical mRNA."
+    ],
+    "answer": "The promoter sequence orients RNA polymerase in a specific direction, defining which strand is the template."
+  },
+  {
+    "question": "What is the function of the poly-A tail on a eukaryotic mRNA?",
+    "options": [
+      "It marks the start of translation.",
+      "It helps stabilize the mRNA and facilitates its export from the nucleus.",
+      "It helps in the splicing of introns.",
+      "It encodes for a long chain of lysine amino acids."
+    ],
+    "answer": "It helps stabilize the mRNA and facilitates its export from the nucleus."
+  },
+  {
+    "question": "The process of 'alternative splicing' allows for:",
+    "options": [
+      "The production of different proteins from the same gene.",
+      "The correction of mutations in the DNA.",
+      "The synthesis of RNA from a protein template.",
+      "The removal of exons from a pre-mRNA."
+    ],
+    "answer": "The production of different proteins from the same gene."
+  },
+  {
+    "question": "How does the initiation of transcription differ between prokaryotes and eukaryotes?",
+    "options": [
+      "Prokaryotes use RNA polymerase, while eukaryotes use DNA polymerase.",
+      "Prokaryotes use a single sigma factor to recognize the promoter, while eukaryotes use a set of general transcription factors.",
+      "Eukaryotic transcription occurs in the cytoplasm, while prokaryotic transcription occurs in the nucleus.",
+      "Prokaryotes have introns that must be spliced out."
+    ],
+    "answer": "Prokaryotes use a single sigma factor to recognize the promoter, while eukaryotes use a set of general transcription factors."
+  },
+  {
+    "question": "What happens at the E site of a ribosome?",
+    "options": [
+      "The incoming charged tRNA binds.",
+      "The peptide bond is formed.",
+      "The spent, uncharged tRNA is ejected.",
+      "The mRNA is checked for errors."
+    ],
+    "answer": "The spent, uncharged tRNA is ejected."
+  },
+  {
+    "question": "A mutation in a gene's intron prevents a splice site from being recognized. What is a likely outcome?",
+    "options": [
+      "The intron may be left in the mRNA, or an entire exon may be skipped.",
+      "The mutation will be corrected by the ribosome.",
+      "The gene will be transcribed at a much higher rate.",
+      "The protein will be unaffected because the mutation is in a noncoding region."
+    ],
+    "answer": "The intron may be left in the mRNA, or an entire exon may be skipped."
+  },
+  {
+    "question": "Unlike DNA polymerase, RNA polymerase can:",
+    "options": [
+      "Synthesize in the 3'-to-5' direction.",
+      "Proofread its work.",
+      "Initiate a new polynucleotide chain without a primer.",
+      "Synthesize a DNA strand."
+    ],
+    "answer": "Initiate a new polynucleotide chain without a primer."
+  },
+  {
+    "question": "The enzyme that synthesizes RNA is called:",
+    "options": [ "DNA polymerase", "RNA polymerase", "Ribosome", "Primase" ],
+    "answer": "RNA polymerase"
+  },
+  {
+    "question": "The sequence of DNA where RNA polymerase binds to initiate transcription is called the:",
+    "options": [ "Promoter", "Enhancer", "Terminator", "Operator" ],
+    "answer": "Promoter"
+  },
+  {
+    "question": "Which type of RNA carries the genetic information from the nucleus to the cytoplasm?",
+    "options": [ "mRNA (messenger RNA)", "tRNA (transfer RNA)", "rRNA (ribosomal RNA)", "miRNA (microRNA)" ],
+    "answer": "mRNA (messenger RNA)"
+  },
+  {
+    "question": "The process of protein synthesis is also known as:",
+    "options": [ "Transcription", "Replication", "Translation", "Splicing" ],
+    "answer": "Translation"
+  },
+  {
+    "question": "The anticodon is a sequence of three nucleotides found on a(n) _____ molecule.",
+    "options": [ "mRNA", "tRNA", "rRNA", "DNA" ],
+    "answer": "tRNA"
+  },
+  {
+    "question": "The wobble hypothesis explains why:",
+    "options": [
+      "Some tRNAs can recognize more than one codon.",
+      "The genetic code is redundant.",
+      "The ribosome can move along the mRNA.",
+      "RNA is less stable than DNA."
+    ],
+    "answer": "Some tRNAs can recognize more than one codon."
+  },
+  {
+    "question": "The large and small subunits of a ribosome are composed of:",
+    "options": [ "mRNA and protein", "tRNA and protein", "rRNA and protein", "DNA and protein" ],
+    "answer": "rRNA and protein"
+  },
+  {
+    "question": "The termination of translation occurs when the ribosome encounters a:",
+    "options": [ "Start codon", "Stop codon", "Promoter", "Terminator" ],
+    "answer": "Stop codon"
+  },
+  {
+    "question": "A polyribosome (or polysome) is a complex of:",
+    "options": [
+      "A single ribosome translating multiple mRNAs.",
+      "Multiple ribosomes translating the same mRNA simultaneously.",
+      "A ribosome and a spliceosome.",
+      "A ribosome and a proteasome."
+    ],
+    "answer": "Multiple ribosomes translating the same mRNA simultaneously."
+  },
+  {
+    "question": "The degradation of proteins is carried out by a large protein complex called the:",
+    "options": [ "Ribosome", "Spliceosome", "Proteasome", "Polymerase" ],
+    "answer": "Proteasome"
+  },
+  {
+    "question": "Proteins destined for degradation are marked by the covalent attachment of:",
+    "options": [ "Phosphate", "Ubiquitin", "Acetyl groups", "Methyl groups" ],
+    "answer": "Ubiquitin"
+  },
+  {
+    "question": "The ability of RNA to fold into complex three-dimensional structures is due to:",
+    "options": [
+      "Its double-stranded nature.",
+      "The presence of thymine instead of uracil.",
+      "Its ability to form base pairs with itself.",
+      "The absence of a 2'-hydroxyl group on the ribose sugar."
+    ],
+    "answer": "Its ability to form base pairs with itself."
+  },
+  {
+    "question": "In eukaryotes, the general transcription factor that recognizes the TATA box is:",
+    "options": [ "TFIID", "TFIIB", "TFIIH", "Sigma factor" ],
+    "answer": "TFIID"
+  },
+  {
+    "question": "The function of TFIIH in transcription initiation is to:",
+    "options": [
+      "Bind to the TATA box.",
+      "Recruit RNA polymerase II to the promoter.",
+      "Unwind the DNA at the start site and phosphorylate the tail of RNA polymerase II.",
+      "Stabilize the binding of other transcription factors."
+    ],
+    "answer": "Unwind the DNA at the start site and phosphorylate the tail of RNA polymerase II."
+  },
+  {
+    "question": "The spliceosome, which carries out RNA splicing, is composed of:",
+    "options": [ "rRNAs and proteins", "snRNAs and proteins (snRNPs)", "mRNAs and proteins", "tRNAs and proteins" ],
+    "answer": "snRNAs and proteins (snRNPs)"
+  },
+  {
+    "question": "The 'reading frame' of an mRNA is established by the:",
+    "options": [ "Start codon", "Stop codon", "5' cap", "Poly-A tail" ],
+    "answer": "Start codon"
+  },
+  {
+    "question": "A frameshift mutation is caused by:",
+    "options": [
+      "The insertion or deletion of a single nucleotide.",
+      "A change in a single nucleotide that does not change the amino acid.",
+      "A change in a single nucleotide that results in a stop codon.",
+      "The substitution of one amino acid for another."
+    ],
+    "answer": "The insertion or deletion of a single nucleotide."
+  },
+  {
+    "question": "The charging of a tRNA molecule with its correct amino acid is a two-step process that requires the hydrolysis of:",
+    "options": [ "ATP", "GTP", "CTP", "UTP" ],
+    "answer": "ATP"
+  },
+  {
+    "question": "The peptidyl transferase reaction, which forms the peptide bond, is catalyzed by:",
+    "options": [ "A protein in the large ribosomal subunit.", "An rRNA molecule in the large ribosomal subunit.", "A protein in the small ribosomal subunit.", "An rRNA molecule in the small ribosomal subunit." ],
+    "answer": "An rRNA molecule in the large ribosomal subunit."
+  },
+  {
+    "question": "The translocation of the ribosome along the mRNA is driven by the hydrolysis of:",
+    "options": [ "ATP", "GTP", "CTP", "UTP" ],
+    "answer": "GTP"
+  },
+  {
+    "question": "Release factors are proteins that:",
+    "options": [
+      "Bind to stop codons and terminate translation.",
+      "Help the ribosome initiate translation.",
+      "Carry amino acids to the ribosome.",
+      "Help proteins fold correctly."
+    ],
+    "answer": "Bind to stop codons and terminate translation."
+  },
+  {
+    "question": "The half-life of a protein can be regulated by:",
+    "options": [
+      "The sequence of its N-terminus.",
+      "The length of its poly-A tail.",
+      "The number of introns it contains.",
+      "The speed at which it is synthesized."
+    ],
+    "answer": "The sequence of its N-terminus."
+  },
+  {
+    "question": "The discovery of ribozymes provided strong support for the:",
+    "options": [ "Central dogma", "RNA world hypothesis", "Theory of evolution", "Cell theory" ],
+    "answer": "RNA world hypothesis"
+  },
+  {
+    "question": "Which of the following is NOT a type of RNA produced in cells?",
+    "options": [ "mRNA", "tRNA", "rRNA", "pRNA (protein RNA)" ],
+    "answer": "pRNA (protein RNA)"
+  },
+  {
+    "question": "The genetic code is described as 'universal' because:",
+    "options": [
+      "It is the same in all organisms, with a few minor exceptions.",
+      "It can be read in any direction.",
+      "All codons specify an amino acid.",
+      "It is written in the language of nucleotides."
+    ],
+    "answer": "It is the same in all organisms, with a few minor exceptions."
+  },
+  {
+    "question": "The process of transcription is similar to DNA replication in that:",
+    "options": [
+      "It uses a DNA template to synthesize a new polynucleotide chain.",
+      "The entire DNA molecule is copied.",
+      "The product is a double-stranded molecule.",
+      "It requires a primer to begin."
+    ],
+    "answer": "It uses a DNA template to synthesize a new polynucleotide chain."
+  },
+  {
+    "question": "The consensus sequence at the -10 position in a bacterial promoter is:",
+    "options": [ "TATAAT", "TTGACA", "AUG", "UAA" ],
+    "answer": "TATAAT"
+  },
+  {
+    "question": "The export of mRNA from the nucleus to the cytoplasm is a regulated process that requires the mRNA to be:",
+    "options": [
+      "Bound to specific proteins, such as the cap-binding complex and poly-A-binding proteins.",
+      "Completely unfolded.",
+      "Free of any bound proteins.",
+      "Translated into protein first."
+    ],
+    "answer": "Bound to specific proteins, such as the cap-binding complex and poly-A-binding proteins."
+  },
+  {
+    "question": "The accuracy of translation is dependent on:",
+    "options": [
+      "The correct charging of tRNA molecules by aminoacyl-tRNA synthetases and the correct base pairing between the codon and anticodon.",
+      "The speed of the ribosome.",
+      "The stability of the mRNA.",
+      "The concentration of amino acids."
+    ],
+    "answer": "The correct charging of tRNA molecules by aminoacyl-tRNA synthetases and the correct base pairing between the codon and anticodon."
+  }
+]
