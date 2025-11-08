@@ -1,0 +1,392 @@
+[
+  {
+    "question": "The process by which both mitochondria and chloroplasts generate ATP is called:",
+    "options": [
+      "Glycolysis",
+      "Substrate-level phosphorylation",
+      "Chemiosmotic coupling",
+      "Fermentation"
+    ],
+    "answer": "Chemiosmotic coupling"
+  },
+  {
+    "question": "In mitochondria, where is the electron-transport chain (ETC) and ATP synthase located?",
+    "options": [
+      "Outer membrane",
+      "Inner membrane",
+      "Mitochondrial matrix",
+      "Intermembrane space"
+    ],
+    "answer": "Inner membrane"
+  },
+  {
+    "question": "What is the final electron acceptor in the mitochondrial electron-transport chain?",
+    "options": [
+      "NADH",
+      "Water",
+      "ATP",
+      "Oxygen (O₂)"
+    ],
+    "answer": "Oxygen (O₂)"
+  },
+  {
+    "question": "The energy released by the transfer of electrons along the ETC is used to:",
+    "options": [
+      "Pump protons (H⁺) across the inner membrane, creating a gradient.",
+      "Directly phosphorylate ADP to ATP.",
+      "Split water molecules.",
+      "Synthesize glucose."
+    ],
+    "answer": "Pump protons (H⁺) across the inner membrane, creating a gradient."
+  },
+  {
+    "question": "What is the name of the enzyme that uses the proton gradient to synthesize ATP?",
+    "options": [
+      "Helicase",
+      "Rubisco",
+      "ATP synthase",
+      "DNA polymerase"
+    ],
+    "answer": "ATP synthase"
+  },
+  {
+    "question": "What are the two main stages of photosynthesis?",
+    "options": [
+      "Glycolysis and the Citric Acid Cycle",
+      "Light Reactions and Carbon Fixation (Calvin Cycle)",
+      "ETC and Oxidative Phosphorylation",
+      "Digestion and Catabolism"
+    ],
+    "answer": "Light Reactions and Carbon Fixation (Calvin Cycle)"
+  },
+  {
+    "question": "In chloroplasts, where do the light reactions take place?",
+    "options": [
+      "Stroma",
+      "Outer membrane",
+      "Thylakoid membrane",
+      "Inner membrane"
+    ],
+    "answer": "Thylakoid membrane"
+  },
+  {
+    "question": "The light reactions of photosynthesis produce which two essential molecules for the carbon-fixation cycle?",
+    "options": [
+      "CO₂ and H₂O",
+      "Glucose and O₂",
+      "ATP and NADPH",
+      "Light and Chlorophyll"
+    ],
+    "answer": "ATP and NADPH"
+  },
+  {
+    "question": "The source of the electrons that pass through the photosynthetic electron transport chain is:",
+    "options": [
+      "NADH",
+      "Glucose",
+      "CO₂",
+      "Water (H₂O)"
+    ],
+    "answer": "Water (H₂O)"
+  },
+  {
+    "question": "The enzyme Rubisco is responsible for:",
+    "options": [
+      "Splitting water to release oxygen.",
+      "Synthesizing ATP.",
+      "Fixing atmospheric CO₂ onto an organic molecule.",
+      "Absorbing light energy."
+    ],
+    "answer": "Fixing atmospheric CO₂ onto an organic molecule."
+  },
+  {
+    "question": "A poison like dinitrophenol (DNP) makes the inner mitochondrial membrane permeable to protons. What is the most direct consequence?",
+    "options": [
+      "The electron transport chain stops.",
+      "The proton gradient dissipates, and ATP synthesis stops.",
+      "Oxygen is no longer consumed.",
+      "The mitochondrial matrix becomes highly acidic."
+    ],
+    "answer": "The proton gradient dissipates, and ATP synthesis stops."
+  },
+  {
+    "question": "Why do mitochondria in heart muscle cells have a much higher density of cristae?",
+    "options": [
+      "To store more calcium.",
+      "To increase the surface area of the inner membrane for greater ATP production.",
+      "To make the mitochondria more rigid.",
+      "To facilitate faster cell division."
+    ],
+    "answer": "To increase the surface area of the inner membrane for greater ATP production."
+  },
+  {
+    "question": "What is the fundamental difference in the source of high-energy electrons for the ETC in mitochondria versus chloroplasts?",
+    "options": [
+      "Mitochondria use electrons from O₂, while chloroplasts use electrons from CO₂.",
+      "Mitochondria use electrons from food molecules (NADH), while chloroplasts use electrons from water energized by light.",
+      "Both use electrons from glucose.",
+      "Mitochondria use electrons from light, while chloroplasts use electrons from food."
+    ],
+    "answer": "Mitochondria use electrons from food molecules (NADH), while chloroplasts use electrons from water energized by light."
+  },
+  {
+    "question": "Why is it incorrect to say that plants do not need mitochondria?",
+    "options": [
+      "Mitochondria are required for photosynthesis.",
+      "All plant cells, especially non-photosynthetic ones, require mitochondria to produce ATP from sugars.",
+      "Mitochondria are the only source of NADPH for the cell.",
+      "Mitochondria are required for cell wall synthesis."
+    ],
+    "answer": "All plant cells, especially non-photosynthetic ones, require mitochondria to produce ATP from sugars."
+  },
+  {
+    "question": "Redox potential is a measure of a molecule's affinity for electrons. In the ETC, electrons flow from carriers with a _______ redox potential to carriers with a _______ redox potential.",
+    "options": [
+      "low; high",
+      "high; low",
+      "positive; negative",
+      "neutral; charged"
+    ],
+    "answer": "low; high"
+  },
+  {
+    "question": "Why can a larger pH gradient be established across the thylakoid membrane in chloroplasts than across the inner mitochondrial membrane?",
+    "options": [
+      "Chloroplasts are larger than mitochondria.",
+      "The thylakoid space is a small, dedicated compartment, allowing for a higher concentration of protons.",
+      "Chloroplasts have more proton pumps.",
+      "Mitochondria actively pump protons out of the matrix."
+    ],
+    "answer": "The thylakoid space is a small, dedicated compartment, allowing for a higher concentration of protons."
+  },
+  {
+    "question": "The evolution of photosynthesis in cyanobacteria had what major impact on the Earth's atmosphere?",
+    "options": [
+      "It decreased the amount of nitrogen.",
+      "It increased the amount of carbon dioxide.",
+      "It gradually filled the atmosphere with oxygen (O₂).",
+      "It made the atmosphere much colder."
+    ],
+    "answer": "It gradually filled the atmosphere with oxygen (O₂)."
+  },
+  {
+    "question": "The carbon-fixation cycle (Calvin cycle) takes place in the:",
+    "options": [
+      "Thylakoid space",
+      "Chloroplast stroma",
+      "Cytosol",
+      "Mitochondrial matrix"
+    ],
+    "answer": "Chloroplast stroma"
+  },
+  {
+    "question": "The endosymbiotic theory proposes that mitochondria and chloroplasts evolved from:",
+    "options": [
+      "Invaginations of the plasma membrane.",
+      "The Golgi apparatus.",
+      "Engulfed bacteria.",
+      "The nucleus."
+    ],
+    "answer": "Engulfed bacteria."
+  },
+  {
+    "question": "What is the role of the three respiratory enzyme complexes in the mitochondrial ETC?",
+    "options": [
+      "They directly synthesize ATP.",
+      "They act as mobile electron carriers.",
+      "They pump protons across the inner membrane as electrons are transferred through them.",
+      "They split water to produce oxygen."
+    ],
+    "answer": "They pump protons across the inner membrane as electrons are transferred through them."
+  },
+  {
+    "question": "The proton-motive force across the inner mitochondrial membrane consists of two components: a membrane potential and a:",
+    "options": [ "Temperature gradient", "pH gradient (H+ concentration gradient)", "Na+ gradient", "Water potential" ],
+    "answer": "pH gradient (H+ concentration gradient)"
+  },
+  {
+    "question": "Which of the following is a mobile electron carrier in the mitochondrial ETC?",
+    "options": [ "NADH dehydrogenase complex", "Cytochrome c reductase", "Ubiquinone (Coenzyme Q)", "ATP synthase" ],
+    "answer": "Ubiquinone (Coenzyme Q)"
+  },
+  {
+    "question": "The F1 portion of ATP synthase is located in the _____ and is responsible for _____.",
+    "options": [
+      "Intermembrane space, proton pumping",
+      "Mitochondrial matrix, ATP synthesis",
+      "Inner membrane, electron transport",
+      "Outer membrane, substrate transport"
+    ],
+    "answer": "Mitochondrial matrix, ATP synthesis"
+  },
+  {
+    "question": "The F0 portion of ATP synthase is located in the _____ and is responsible for _____.",
+    "options": [
+      "Mitochondrial matrix, ATP synthesis",
+      "Intermembrane space, electron transport",
+      "Inner membrane, proton translocation",
+      "Outer membrane, substrate transport"
+    ],
+    "answer": "Inner membrane, proton translocation"
+  },
+  {
+    "question": "The complete oxidation of glucose yields approximately 30 ATP. Most of this ATP is produced by:",
+    "options": [ "Glycolysis", "The citric acid cycle", "Oxidative phosphorylation", "Fermentation" ],
+    "answer": "Oxidative phosphorylation"
+  },
+  {
+    "question": "Chlorophyll molecules absorb light energy, which excites a(n) _____ to a higher energy level.",
+    "options": [ "Proton", "Neutron", "Electron", "Photon" ],
+    "answer": "Electron"
+  },
+  {
+    "question": "A photosystem consists of a reaction center and a(n):",
+    "options": [ "ATP synthase", "Antenna complex", "Electron transport chain", "Rubisco" ],
+    "answer": "Antenna complex"
+  },
+  {
+    "question": "In the light reactions of photosynthesis, what is the function of the antenna complex?",
+    "options": [
+      "To split water.",
+      "To fix CO2.",
+      "To capture light energy and funnel it to the reaction center.",
+      "To synthesize ATP."
+    ],
+    "answer": "To capture light energy and funnel it to the reaction center."
+  },
+  {
+    "question": "The oxygen released during photosynthesis comes from the splitting of:",
+    "options": [ "CO2", "H2O", "Glucose", "ATP" ],
+    "answer": "H2O"
+  },
+  {
+    "question": "The Calvin cycle (carbon fixation) uses ATP and NADPH from the light reactions to convert _____ into sugar.",
+    "options": [ "O2", "H2O", "CO2", "N2" ],
+    "answer": "CO2"
+  },
+  {
+    "question": "The first step of the Calvin cycle is the attachment of CO2 to:",
+    "options": [ "Glyceraldehyde 3-phosphate (G3P)", "Ribulose 1,5-bisphosphate (RuBP)", "3-phosphoglycerate", "Glucose" ],
+    "answer": "Ribulose 1,5-bisphosphate (RuBP)"
+  },
+  {
+    "question": "For every 3 molecules of CO2 that enter the Calvin cycle, one molecule of _____ is produced.",
+    "options": [ "Glucose", "Glyceraldehyde 3-phosphate (G3P)", "Pyruvate", "Acetyl CoA" ],
+    "answer": "Glyceraldehyde 3-phosphate (G3P)"
+  },
+  {
+    "question": "The process of photorespiration, where Rubisco binds O2 instead of CO2, is wasteful because it:",
+    "options": [
+      "Produces extra ATP.",
+      "Releases previously fixed carbon as CO2.",
+      "Consumes oxygen.",
+      "Produces toxic byproducts."
+    ],
+    "answer": "Releases previously fixed carbon as CO2."
+  },
+  {
+    "question": "C4 plants, such as corn and sugarcane, have evolved a mechanism to reduce photorespiration by:",
+    "options": [
+      "Keeping their stomata closed at all times.",
+      "Concentrating CO2 in the bundle-sheath cells where the Calvin cycle occurs.",
+      "Using a different enzyme to fix carbon.",
+      "Growing only in cool, moist climates."
+    ],
+    "answer": "Concentrating CO2 in the bundle-sheath cells where the Calvin cycle occurs."
+  },
+  {
+    "question": "The ATP synthase is a reversible enzyme. If the proton gradient is reversed, it can:",
+    "options": [ "Hydrolyze ATP to pump protons.", "Synthesize ATP from ADP and Pi.", "Transport electrons.", "Split water." ],
+    "answer": "Hydrolyze ATP to pump protons."
+  },
+  {
+    "question": "The redox potential of a molecule is a measure of its:",
+    "options": [ "Acidity", "Affinity for electrons", "Size", "Solubility" ],
+    "answer": "Affinity for electrons"
+  },
+  {
+    "question": "In the mitochondrial ETC, electrons from FADH2 enter the chain at a lower energy level than electrons from NADH. As a result, the oxidation of FADH2 yields:",
+    "options": [ "More ATP than NADH", "Less ATP than NADH", "The same amount of ATP as NADH", "No ATP" ],
+    "answer": "Less ATP than NADH"
+  },
+  {
+    "question": "The cytochrome c oxidase complex is the final enzyme complex in the mitochondrial ETC. It is responsible for:",
+    "options": [
+      "Transferring electrons to oxygen.",
+      "Pumping protons.",
+      "Synthesizing ATP.",
+      "Splitting water."
+    ],
+    "answer": "Transferring electrons to oxygen."
+  },
+  {
+    "question": "The poison cyanide is a potent inhibitor of the cytochrome c oxidase complex. Its effect is to:",
+    "options": [
+      "Block the flow of electrons to oxygen, halting the ETC and ATP synthesis.",
+      "Make the inner mitochondrial membrane permeable to protons.",
+      "Uncouple electron transport from ATP synthesis.",
+      "Inhibit glycolysis."
+    ],
+    "answer": "Block the flow of electrons to oxygen, halting the ETC and ATP synthesis."
+  },
+  {
+    "question": "The structure of a chloroplast includes all of the following EXCEPT:",
+    "options": [ "Outer membrane", "Inner membrane", "Thylakoids", "Cristae" ],
+    "answer": "Cristae"
+  },
+  {
+    "question": "The stacks of thylakoids in a chloroplast are called:",
+    "options": [ "Stroma", "Grana", "Lamellae", "Vesicles" ],
+    "answer": "Grana"
+  },
+  {
+    "question": "The two photosystems in the light reactions of photosynthesis, PSI and PSII, work in series. Which one comes first in the Z-scheme?",
+    "options": [ "Photosystem I", "Photosystem II", "They work in parallel", "It varies" ],
+    "answer": "Photosystem II"
+  },
+  {
+    "question": "The reaction center of Photosystem II replaces its lost electron by taking one from:",
+    "options": [ "Photosystem I", "Water", "NADPH", "CO2" ],
+    "answer": "Water"
+  },
+  {
+    "question": "The reaction center of Photosystem I receives an electron from _____ and uses it to reduce NADP+ to NADPH.",
+    "options": [ "Water", "The photosynthetic electron transport chain", "CO2", "ATP" ],
+    "answer": "The photosynthetic electron transport chain"
+  },
+  {
+    "question": "The ATP and NADPH produced during the light reactions are used in the stroma to:",
+    "options": [ "Power the Calvin cycle.", "Synthesize chlorophyll.", "Pump protons.", "Split water." ],
+    "answer": "Power the Calvin cycle."
+  },
+  {
+    "question": "The overall equation for photosynthesis is the reverse of the overall equation for:",
+    "options": [ "Cellular respiration", "Glycolysis", "Fermentation", "The citric acid cycle" ],
+    "answer": "Cellular respiration"
+  },
+  {
+    "question": "The evolution of chemiosmotic coupling is thought to be ancient, with similar mechanisms found in:",
+    "options": [ "Mitochondria", "Chloroplasts", "Bacteria and archaea", "All of the above" ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "The movement of protons through the F0 part of ATP synthase causes the _____ to rotate, which in turn drives the synthesis of ATP in the F1 part.",
+    "options": [ "Stator", "Rotor", "Head", "Base" ],
+    "answer": "Rotor"
+  },
+  {
+    "question": "The quinone pool (ubiquinone in mitochondria, plastoquinone in chloroplasts) is a collection of lipid-soluble molecules that:",
+    "options": [
+      "Pump protons.",
+      "Transfer electrons between large, fixed protein complexes in the membrane.",
+      "Synthesize ATP.",
+      "Absorb light."
+    ],
+    "answer": "Transfer electrons between large, fixed protein complexes in the membrane."
+  },
+  {
+    "question": "The ultimate source of energy for almost all life on Earth is:",
+    "options": [ "The sun", "Geothermal vents", "Glucose", "ATP" ],
+    "answer": "The sun"
+  }
+]

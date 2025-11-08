@@ -1,0 +1,407 @@
+[
+  {
+    "question": "DNA replication is described as semiconservative because:",
+    "options": [
+      "Each new DNA molecule consists of two new strands.",
+      "Each new DNA molecule consists of one old strand and one new strand.",
+      "The process conserves half the energy required for replication.",
+      "Each new DNA molecule is half the length of the original."
+    ],
+    "answer": "Each new DNA molecule consists of one old strand and one new strand."
+  },
+  {
+    "question": "In which direction does DNA polymerase synthesize a new DNA strand?",
+    "options": [
+      "3' to 5'",
+      "5' to 3'",
+      "In both directions simultaneously",
+      "From the centromere to the telomere"
+    ],
+    "answer": "5' to 3'"
+  },
+  {
+    "question": "The lagging strand of DNA is synthesized discontinuously in short pieces called:",
+    "options": [
+      "Replication fragments",
+      "Primers",
+      "Okazaki fragments",
+      "Telomeres"
+    ],
+    "answer": "Okazaki fragments"
+  },
+  {
+    "question": "What is the function of DNA helicase in replication?",
+    "options": [
+      "To join DNA fragments together.",
+      "To synthesize RNA primers.",
+      "To unwind the DNA double helix at the replication fork.",
+      "To proofread the newly synthesized DNA."
+    ],
+    "answer": "To unwind the DNA double helix at the replication fork."
+  },
+  {
+    "question": "The enzyme that joins the Okazaki fragments together on the lagging strand is:",
+    "options": [
+      "DNA polymerase",
+      "Primase",
+      "Helicase",
+      "DNA ligase"
+    ],
+    "answer": "DNA ligase"
+  },
+  {
+    "question": "What is the function of primase?",
+    "options": [
+      "To synthesize a short RNA primer to provide a 3'-OH end for DNA polymerase.",
+      "To remove the RNA primers after they are used.",
+      "To unwind the DNA.",
+      "To relieve torsional stress in the DNA."
+    ],
+    "answer": "To synthesize a short RNA primer to provide a 3'-OH end for DNA polymerase."
+  },
+  {
+    "question": "The 3'-to-5' exonuclease activity of DNA polymerase is critical for:",
+    "options": [
+      "Synthesizing the lagging strand.",
+      "Starting a new DNA strand.",
+      "The proofreading of newly synthesized DNA.",
+      "Unwinding the DNA helix."
+    ],
+    "answer": "The proofreading of newly synthesized DNA."
+  },
+  {
+    "question": "Which of the following is a common type of spontaneous DNA damage?",
+    "options": [
+      "Replication",
+      "Transcription",
+      "Deamination and depurination",
+      "Translation"
+    ],
+    "answer": "Deamination and depurination"
+  },
+  {
+    "question": "The basic mechanism of DNA repair that removes a damaged base or nucleotide is called:",
+    "options": [
+      "Homologous recombination",
+      "Nonhomologous end joining",
+      "Excision repair",
+      "Mismatch repair"
+    ],
+    "answer": "Excision repair"
+  },
+  {
+    "question": "What is the function of telomerase?",
+    "options": [
+      "To initiate DNA replication at origins.",
+      "To repair double-strand breaks in DNA.",
+      "To extend the ends of linear chromosomes, preventing them from shortening.",
+      "To connect Okazaki fragments."
+    ],
+    "answer": "To extend the ends of linear chromosomes, preventing them from shortening."
+  },
+  {
+    "question": "A cell has a mutation that inactivates the gene for the sliding clamp. What is the most likely consequence for DNA replication?",
+    "options": [
+      "Replication will be much faster.",
+      "The DNA will not unwind.",
+      "DNA polymerase will frequently dissociate from the template, making replication very inefficient.",
+      "RNA primers will not be synthesized."
+    ],
+    "answer": "DNA polymerase will frequently dissociate from the template, making replication very inefficient."
+  },
+  {
+    "question": "Why must DNA mismatch repair systems be able to distinguish the newly synthesized strand from the template strand?",
+    "options": [
+      "To ensure that the mutation is corrected on the new strand, not the original template.",
+      "To know which direction to move along the DNA.",
+      "Because the new strand is more prone to breaking.",
+      "Because the old strand cannot be repaired."
+    ],
+    "answer": "To ensure that the mutation is corrected on the new strand, not the original template."
+  },
+  {
+    "question": "Which method of repairing double-strand DNA breaks is error-prone and often results in the loss of nucleotides?",
+    "options": [
+      "Homologous recombination",
+      "Excision repair",
+      "Mismatch repair",
+      "Nonhomologous end joining"
+    ],
+    "answer": "Nonhomologous end joining"
+  },
+  {
+    "question": "Why is it not feasible for a high-fidelity, proofreading DNA polymerase to synthesize primers from scratch?",
+    "options": [
+      "DNA polymerase cannot synthesize RNA.",
+      "Starting a new strand is inherently inaccurate, and a proofreading enzyme would likely stall.",
+      "The cell does not have enough DNA polymerase to make primers.",
+      "Primers must be made of RNA for the ribosome to recognize them."
+    ],
+    "answer": "Starting a new strand is inherently inaccurate, and a proofreading enzyme would likely stall."
+  },
+  {
+    "question": "Why does DNA contain thymine (T) instead of uracil (U)?",
+    "options": [
+      "Thymine is more stable than uracil.",
+      "Uracil cannot base-pair with adenine.",
+      "To allow the cell to distinguish between a legitimate uracil and one that arises from the deamination of cytosine.",
+      "Thymine is easier for DNA polymerase to incorporate."
+    ],
+    "answer": "To allow the cell to distinguish between a legitimate uracil and one that arises from the deamination of cytosine."
+  },
+  {
+    "question": "A failure to repair DNA damage before the next round of replication results in a:",
+    "options": [
+      "Permanent mutation",
+      "Temporary change in the genetic code",
+      "Successful adaptation",
+      "Silent phenotype"
+    ],
+    "answer": "Permanent mutation"
+  },
+  {
+    "question": "The 'end-replication problem' refers to the challenge of:",
+    "options": [
+      "Replicating the circular chromosome of bacteria.",
+      "Joining the final Okazaki fragment on the leading strand.",
+      "Fully replicating the lagging strand at the ends of linear chromosomes.",
+      "Repairing DNA damage at the telomeres."
+    ],
+    "answer": "Fully replicating the lagging strand at the ends of linear chromosomes."
+  },
+  {
+    "question": "What is the role of single-strand DNA-binding proteins in replication?",
+    "options": [
+      "They bind to the double helix to mark the origin of replication.",
+      "They bind to unwound DNA and prevent it from re-forming a double helix.",
+      "They are enzymes that repair single-strand breaks.",
+      "They help DNA polymerase attach to the template."
+    ],
+    "answer": "They bind to unwound DNA and prevent it from re-forming a double helix."
+  },
+  {
+    "question": "The Meselson-Stahl experiment, using heavy and light isotopes of nitrogen, provided evidence for what model of DNA replication?",
+    "options": [
+      "Conservative",
+      "Semiconservative",
+      "Dispersive",
+      "Progressive"
+    ],
+    "answer": "Semiconservative"
+  },
+  {
+    "question": "A cell with a defective DNA topoisomerase would have difficulty:",
+    "options": [
+      "Synthesizing RNA primers.",
+      "Joining Okazaki fragments.",
+      "Relieving the torsional stress and supercoiling ahead of the replication fork.",
+      "Proofreading the new DNA strand."
+    ],
+    "answer": "Relieving the torsional stress and supercoiling ahead of the replication fork."
+  },
+  {
+    "question": "The sites where DNA replication begins are called:",
+    "options": [ "Telomeres", "Centromeres", "Replication origins", "Promoters" ],
+    "answer": "Replication origins"
+  },
+  {
+    "question": "The leading strand is synthesized:",
+    "options": [
+      "Continuously in the 5' to 3' direction.",
+      "Discontinuously in the 5' to 3' direction.",
+      "Continuously in the 3' to 5' direction.",
+      "Discontinuously in the 3' to 5' direction."
+    ],
+    "answer": "Continuously in the 5' to 3' direction."
+  },
+  {
+    "question": "The energy for DNA polymerization is provided by the hydrolysis of:",
+    "options": [
+      "ATP",
+      "GTP",
+      "The incoming nucleoside triphosphate (dATP, dGTP, dCTP, dTTP)",
+      "The phosphodiester bond in the DNA backbone"
+    ],
+    "answer": "The incoming nucleoside triphosphate (dATP, dGTP, dCTP, dTTP)"
+  },
+  {
+    "question": "The enzyme that removes the RNA primers from the lagging strand is:",
+    "options": [ "DNA polymerase I", "DNA polymerase III", "Primase", "DNA ligase" ],
+    "answer": "DNA polymerase I"
+  },
+  {
+    "question": "A thymine dimer is a type of DNA damage caused by:",
+    "options": [ "X-rays", "UV radiation", "Spontaneous chemical reactions", "Replication errors" ],
+    "answer": "UV radiation"
+  },
+  {
+    "question": "The process of homologous recombination is used to repair:",
+    "options": [
+      "Single-strand breaks",
+      "Mismatched bases",
+      "Double-strand breaks accurately, using a homologous chromosome as a template",
+      "Depurination"
+    ],
+    "answer": "Double-strand breaks accurately, using a homologous chromosome as a template"
+  },
+  {
+    "question": "A mutation in the gene for DNA ligase would most directly affect:",
+    "options": [
+      "The synthesis of the leading strand.",
+      "The joining of Okazaki fragments on the lagging strand.",
+      "The unwinding of the DNA helix.",
+      "The proofreading of the new DNA strand."
+    ],
+    "answer": "The joining of Okazaki fragments on the lagging strand."
+  },
+  {
+    "question": "The fidelity of DNA replication is extremely high due to:",
+    "options": [
+      "The speed of DNA polymerase.",
+      "The presence of multiple origins of replication.",
+      "The combination of base pairing and proofreading by DNA polymerase.",
+      "The use of RNA primers."
+    ],
+    "answer": "The combination of base pairing and proofreading by DNA polymerase."
+  },
+  {
+    "question": "The loss of a purine base from DNA is called:",
+    "options": [ "Depurination", "Deamination", "Thymine dimer formation", "Oxidative damage" ],
+    "answer": "Depurination"
+  },
+  {
+    "question": "The conversion of a cytosine base to a uracil base in DNA is an example of:",
+    "options": [ "Depurination", "Deamination", "Thymine dimer formation", "Oxidative damage" ],
+    "answer": "Deamination"
+  },
+  {
+    "question": "The enzyme uracil DNA glycosylase is important for:",
+    "options": [
+      "Removing uracil from DNA that has arisen from the deamination of cytosine.",
+      "Incorporating uracil into DNA.",
+      "Synthesizing uracil.",
+      "Repairing thymine dimers."
+    ],
+    "answer": "Removing uracil from DNA that has arisen from the deamination of cytosine."
+  },
+  {
+    "question": "In bacteria, how is the newly synthesized DNA strand distinguished from the template strand for mismatch repair?",
+    "options": [
+      "By the presence of RNA primers.",
+      "By the presence of nicks (unsealed phosphodiester bonds).",
+      "By the absence of methylation on the new strand.",
+      "By the direction of DNA polymerase movement."
+    ],
+    "answer": "By the absence of methylation on the new strand."
+  },
+  {
+    "question": "Homologous recombination can lead to:",
+    "options": [
+      "The exchange of genetic information between homologous chromosomes (crossing-over).",
+      "The loss of genetic information.",
+      "The introduction of mutations.",
+      "The formation of a circular chromosome."
+    ],
+    "answer": "The exchange of genetic information between homologous chromosomes (crossing-over)."
+  },
+  {
+    "question": "A Holliday junction is an intermediate structure in:",
+    "options": [ "DNA replication", "Mismatch repair", "Homologous recombination", "Nonhomologous end joining" ],
+    "answer": "Homologous recombination"
+  },
+  {
+    "question": "The activity of telomerase is typically high in:",
+    "options": [ "Most somatic cells", "Cancer cells and stem cells", "Cells that have stopped dividing", "Bacterial cells" ],
+    "answer": "Cancer cells and stem cells"
+  },
+  {
+    "question": "The replication fork is asymmetrical because:",
+    "options": [
+      "The two template strands are identical.",
+      "The two template strands are antiparallel, and DNA polymerase can only synthesize in one direction.",
+      "One strand is synthesized by DNA polymerase, and the other by RNA polymerase.",
+      "The leading strand is longer than the lagging strand."
+    ],
+    "answer": "The two template strands are antiparallel, and DNA polymerase can only synthesize in one direction."
+  },
+  {
+    "question": "The enzyme that synthesizes DNA using an RNA template is called:",
+    "options": [ "DNA polymerase", "RNA polymerase", "Reverse transcriptase", "DNA ligase" ],
+    "answer": "Reverse transcriptase"
+  },
+  {
+    "question": "Telomerase is a type of:",
+    "options": [ "DNA polymerase", "RNA polymerase", "Reverse transcriptase", "DNA ligase" ],
+    "answer": "Reverse transcriptase"
+  },
+  {
+    "question": "The process of DNA replication is initiated by:",
+    "options": [
+      "The binding of DNA polymerase to the DNA.",
+      "The binding of initiator proteins to the replication origin.",
+      "The unwinding of the entire chromosome.",
+      "The synthesis of a long RNA primer."
+    ],
+    "answer": "The binding of initiator proteins to the replication origin."
+  },
+  {
+    "question": "The sliding clamp is loaded onto the DNA by a:",
+    "options": [ "Clamp loader protein", "Helicase", "Primase", "DNA polymerase" ],
+    "answer": "Clamp loader protein"
+  },
+  {
+    "question": "The proofreading function of DNA polymerase reduces the error rate of DNA replication by a factor of about:",
+    "options": [ "10", "100", "1,000", "10,000" ],
+    "answer": "100"
+  },
+  {
+    "question": "The overall accuracy of DNA replication is about 1 error in every _____ nucleotides.",
+    "options": [ "10^5", "10^7", "10^9", "10^11" ],
+    "answer": "10^9"
+  },
+  {
+    "question": "A single-strand break in the DNA backbone can be repaired by:",
+    "options": [ "DNA ligase", "DNA polymerase", "Homologous recombination", "Nonhomologous end joining" ],
+    "answer": "DNA ligase"
+  },
+  {
+    "question": "The repair of a double-strand break by nonhomologous end joining often results in a(n):",
+    "options": [ "Perfect repair", "Deletion of nucleotides at the repair site", "Insertion of new nucleotides", "Reversion of the mutation" ],
+    "answer": "Deletion of nucleotides at the repair site"
+  },
+  {
+    "question": "The ability of a cell to survive and proliferate in the face of a constantly changing environment is made possible by:",
+    "options": [
+      "The complete absence of mutations.",
+      "A combination of genetic stability and the ability to generate limited mutations.",
+      "The rapid degradation of all damaged DNA.",
+      "The inactivation of all DNA repair pathways."
+    ],
+    "answer": "A combination of genetic stability and the ability to generate limited mutations."
+  },
+  {
+    "question": "Sickle-cell anemia is caused by a:",
+    "options": [
+      "Single nucleotide change in a gene.",
+      "Large deletion of a chromosome.",
+      "Duplication of a gene.",
+      "Viral infection."
+    ],
+    "answer": "Single nucleotide change in a gene."
+  },
+  {
+    "question": "The process of DNA replication occurs during which phase of the cell cycle?",
+    "options": [ "G1 phase", "S phase", "G2 phase", "M phase" ],
+    "answer": "S phase"
+  },
+  {
+    "question": "The replication of the two DNA strands at a replication fork is:",
+    "options": [ "Symmetrical", "Asymmetrical", "Conservative", "Dispersive" ],
+    "answer": "Asymmetrical"
+  },
+  {
+    "question": "The energy required for DNA ligase to join two DNA fragments comes from the hydrolysis of:",
+    "options": [ "ATP or NAD+", "GTP", "The DNA backbone", "The incoming nucleotide" ],
+    "answer": "ATP or NAD+"
+  }
+]

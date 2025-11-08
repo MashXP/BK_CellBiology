@@ -1,0 +1,447 @@
+[
+  {
+    "question": "What is the primary component of plant cell walls that provides tensile strength?",
+    "options": [
+      "Collagen",
+      "Cellulose",
+      "Pectin",
+      "Lignin"
+    ],
+    "answer": "Cellulose"
+  },
+  {
+    "question": "In animal connective tissues, the most abundant protein, which provides tensile strength, is:",
+    "options": [
+      "Elastin",
+      "Fibronectin",
+      "Keratin",
+      "Collagen"
+    ],
+    "answer": "Collagen"
+  },
+  {
+    "question": "Which type of cell junction seals the gap between epithelial cells, preventing the leakage of molecules?",
+    "options": [
+      "Adherens junction",
+      "Desmosome",
+      "Tight junction",
+      "Gap junction"
+    ],
+    "answer": "Tight junction"
+  },
+  {
+    "question": "Which type of cell junction connects the intermediate filaments of one cell to those of its neighbor?",
+    "options": [
+      "Adherens junction",
+      "Desmosome",
+      "Tight junction",
+      "Hemidesmosome"
+    ],
+    "answer": "Desmosome"
+  },
+  {
+    "question": "What are the two defining properties of a stem cell?",
+    "options": [
+      "They are terminally differentiated and can divide.",
+      "They can divide indefinitely and can differentiate into other cell types.",
+      "They are found only in embryos.",
+      "They are large and immobile."
+    ],
+    "answer": "They can divide indefinitely and can differentiate into other cell types."
+  },
+  {
+    "question": "The two key properties that define cancer cells are uncontrolled proliferation and:",
+    "options": [
+      "The ability to differentiate.",
+      "Invasion and metastasis.",
+      "The ability to self-renew.",
+      "Genetic stability."
+    ],
+    "answer": "Invasion and metastasis."
+  },
+  {
+    "question": "A gene that, when activated by a gain-of-function mutation, can drive a cell toward cancer is called a(n):",
+    "options": [
+      "Tumor suppressor gene",
+      "Proto-oncogene",
+      "Oncogene",
+      "Mutator gene"
+    ],
+    "answer": "Oncogene"
+  },
+  {
+    "question": "A gene like p53, which normally functions to inhibit cell proliferation and whose loss can contribute to cancer, is a(n):",
+    "options": [
+      "Tumor suppressor gene",
+      "Proto-oncogene",
+      "Oncogene",
+      "Stem cell gene"
+    ],
+    "answer": "Tumor suppressor gene"
+  },
+  {
+    "question": "The specialized layer of extracellular matrix that epithelial sheets rest on is called the:",
+    "options": [
+      "Cell wall",
+      "Apical surface",
+      "Basal lamina",
+      "Connective tissue"
+    ],
+    "answer": "Basal lamina"
+  },
+  {
+    "question": "Which type of cell junction allows for the passage of small molecules and ions between the cytosols of adjacent cells?",
+    "options": [
+      "Tight junction",
+      "Adherens junction",
+      "Desmosome",
+      "Gap junction"
+    ],
+    "answer": "Gap junction"
+  },
+  {
+    "question": "Why is a mutation in a single copy of a collagen gene often dominant and detrimental?",
+    "options": [
+      "Because the mutant protein is overactive.",
+      "Because the single defective collagen chain can disrupt the assembly of the entire triple helix.",
+      "Because collagen is a tumor suppressor gene.",
+      "Because the cell cannot degrade the mutant protein."
+    ],
+    "answer": "Because the single defective collagen chain can disrupt the assembly of the entire triple helix."
+  },
+  {
+    "question": "How do integrin proteins link the cytoskeleton to the extracellular matrix?",
+    "options": [
+      "They bind directly to collagen inside the cell.",
+      "They are secreted from the cell to form the matrix.",
+      "They are transmembrane proteins that bind to the cytoskeleton inside and ECM components (like fibronectin) outside.",
+      "They form tight junctions between cells."
+    ],
+    "answer": "They are transmembrane proteins that bind to the cytoskeleton inside and ECM components (like fibronectin) outside."
+  },
+  {
+    "question": "Why are neurons typically long-lived, while epithelial cells of the gut are rapidly replaced?",
+    "options": [
+      "Neurons cannot divide, while gut cells can.",
+      "Neurons live in a protected environment with stable connections; gut cells are exposed to a harsh, damaging environment.",
+      "Gut cells are more prone to mutations.",
+      "Neurons have better DNA repair mechanisms."
+    ],
+    "answer": "Neurons live in a protected environment with stable connections; gut cells are exposed to a harsh, damaging environment."
+  },
+  {
+    "question": "What is the key difference between embryonic stem (ES) cells and induced pluripotent stem (iPS) cells?",
+    "options": [
+      "ES cells are pluripotent, while iPS cells are not.",
+      "ES cells are derived from embryos, while iPS cells are adult cells reprogrammed to a pluripotent state.",
+      "iPS cells are found in adult tissues, while ES cells are not.",
+      "iPS cells can only differentiate into one cell type."
+    ],
+    "answer": "ES cells are derived from embryos, while iPS cells are adult cells reprogrammed to a pluripotent state."
+  },
+  {
+    "question": "Why does the incidence of cancer increase so dramatically with age?",
+    "options": [
+      "The mutation rate increases with age.",
+      "The immune system weakens with age.",
+      "Cancer is caused by the accumulation of multiple mutations over time in a single cell lineage.",
+      "Older people are more exposed to carcinogens."
+    ],
+    "answer": "Cancer is caused by the accumulation of multiple mutations over time in a single cell lineage."
+  },
+  {
+    "question": "A person who inherits one non-functional copy of a tumor suppressor gene like APC is at a much higher risk for cancer because:",
+    "options": [
+      "The single functional copy is not enough to prevent cancer.",
+      "Their cells only need to acquire one additional mutation (a 'second hit') in the good copy to lose the gene's function entirely.",
+      "The mutant allele is dominant.",
+      "The inherited mutation makes them more susceptible to viruses."
+    ],
+    "answer": "Their cells only need to acquire one additional mutation (a 'second hit') in the good copy to lose the gene's function entirely."
+  },
+  {
+    "question": "The Wnt signaling pathway is crucial for:",
+    "options": [
+      "Maintaining the stem-cell population in the intestinal crypt.",
+      "Causing cancer cells to metastasize.",
+      "Attaching epithelial cells to the basal lamina.",
+      "Forming collagen fibers."
+    ],
+    "answer": "Maintaining the stem-cell population in the intestinal crypt."
+  },
+  {
+    "question": "Which statement accurately compares a desmosome and a hemidesmosome?",
+    "options": [
+      "Both connect actin filaments between cells.",
+      "A desmosome connects cells to each other, while a hemidesmosome connects a cell to the extracellular matrix.",
+      "Both use integrins to link to the cytoskeleton.",
+      "A hemidesmosome connects cells to each other, while a desmosome connects a cell to the extracellular matrix."
+    ],
+    "answer": "A desmosome connects cells to each other, while a hemidesmosome connects a cell to the extracellular matrix."
+  },
+  {
+    "question": "The gel-like properties of proteoglycans in the ECM are due to:",
+    "options": [
+      "Their high protein content.",
+      "Their ability to form strong covalent bonds.",
+      "The abundance of negative charges on their sugar chains, which attract large amounts of water.",
+      "Their direct linkage to collagen fibers."
+    ],
+    "answer": "The abundance of negative charges on their sugar chains, which attract large amounts of water."
+  },
+  {
+    "question": "In plants, the direction of cell elongation is determined by the orientation of:",
+    "options": [
+      "Actin filaments in the cell cortex.",
+      "Cellulose microfibrils in the cell wall.",
+      "Intermediate filaments in the cytoplasm.",
+      "The mitotic spindle."
+    ],
+    "answer": "Cellulose microfibrils in the cell wall."
+  },
+  {
+    "question": "The extracellular matrix (ECM) in animal tissues is primarily composed of:",
+    "options": [ "Proteins and polysaccharides", "Lipids and nucleic acids", "Cellulose and pectin", "Actin and myosin" ],
+    "answer": "Proteins and polysaccharides"
+  },
+  {
+    "question": "Fibroblasts are cells that:",
+    "options": [
+      "Secrete the components of the extracellular matrix.",
+      "Form tight junctions.",
+      "Are a type of stem cell.",
+      "Are responsible for muscle contraction."
+    ],
+    "answer": "Secrete the components of the extracellular matrix."
+  },
+  {
+    "question": "The protein fibronectin is important for:",
+    "options": [
+      "Providing tensile strength to the ECM.",
+      "Linking cells to the ECM via integrins.",
+      "Forming the basal lamina.",
+      "Providing elasticity to tissues."
+    ],
+    "answer": "Linking cells to the ECM via integrins."
+  },
+  {
+    "question": "An adherens junction connects:",
+    "options": [
+      "The actin filaments of one cell to the actin filaments of another cell.",
+      "The intermediate filaments of one cell to the intermediate filaments of another cell.",
+      "A cell to the basal lamina.",
+      "The cytosols of adjacent cells."
+    ],
+    "answer": "The actin filaments of one cell to the actin filaments of another cell."
+  },
+  {
+    "question": "The proteins that form the main structural component of adherens junctions and desmosomes are from the _____ family.",
+    "options": [ "Integrin", "Cadherin", "Collagen", "Actin" ],
+    "answer": "Cadherin"
+  },
+  {
+    "question": "The channels that pass through the cell walls of adjacent plant cells, connecting their cytoplasm, are called:",
+    "options": [ "Gap junctions", "Plasmodesmata", "Tight junctions", "Desmosomes" ],
+    "answer": "Plasmodesmata"
+  },
+  {
+    "question": "A terminally differentiated cell is a cell that:",
+    "options": [
+      "Can divide indefinitely.",
+      "Is specialized and has lost the ability to divide.",
+      "Is about to undergo apoptosis.",
+      "Is a type of stem cell."
+    ],
+    "answer": "Is specialized and has lost the ability to divide."
+  },
+  {
+    "question": "The process of tissue renewal is maintained by:",
+    "options": [ "The division of terminally differentiated cells.", "The proliferation of stem cells.", "The fusion of existing cells.", "The import of cells from other tissues." ],
+    "answer": "The proliferation of stem cells."
+  },
+  {
+    "question": "Embryonic stem (ES) cells are described as pluripotent because they can:",
+    "options": [
+      "Give rise to all the different cell types in the body.",
+      "Only give rise to a limited number of cell types.",
+      "Divide indefinitely.",
+      "Form a complete organism on their own."
+    ],
+    "answer": "Give rise to all the different cell types in thebody."
+  },
+  {
+    "question": "The use of a patient's own cells to create iPS cells for therapeutic purposes is a major advantage because it:",
+    "options": [
+      "Is much cheaper than using ES cells.",
+      "Avoids the problem of immune rejection.",
+      "Is technically easier.",
+      "Does not require any genetic modification."
+    ],
+    "answer": "Avoids the problem of immune rejection."
+  },
+  {
+    "question": "A benign tumor is one that:",
+    "options": [
+      "Has invaded the surrounding tissue.",
+      "Has metastasized to other parts of the body.",
+      "Is not cancerous and has not invaded the surrounding tissue.",
+      "Is composed of stem cells."
+    ],
+    "answer": "Is not cancerous and has not invaded the surrounding tissue."
+  },
+  {
+    "question": "A malignant tumor is one that:",
+    "options": [
+      "Is encapsulated and does not spread.",
+      "Is capable of invading surrounding tissues and metastasizing.",
+      "Is composed of terminally differentiated cells.",
+      "Is easily treated with surgery alone."
+    ],
+    "answer": "Is capable of invading surrounding tissues and metastasizing."
+  },
+  {
+    "question": "The process by which cancer cells spread from a primary tumor to form secondary tumors at other sites in the body is called:",
+    "options": [ "Metastasis", "Angiogenesis", "Proliferation", "Differentiation" ],
+    "answer": "Metastasis"
+  },
+  {
+    "question": "Cancer cells often have a high mutation rate, a property known as:",
+    "options": [ "Genetic stability", "Genetic instability", "Aneuploidy", "Polyploidy" ],
+    "answer": "Genetic instability"
+  },
+  {
+    "question": "A proto-oncogene is a normal gene that:",
+    "options": [
+      "Inhibits cell proliferation.",
+      "Is involved in DNA repair.",
+      "Promotes cell growth and division.",
+      "Is only found in cancer cells."
+    ],
+    "answer": "Promotes cell growth and division."
+  },
+  {
+    "question": "The conversion of a proto-oncogene to an oncogene can occur through:",
+    "options": [
+      "A point mutation that makes the protein hyperactive.",
+      "Gene amplification, leading to an overproduction of the protein.",
+      "A chromosome rearrangement that places the gene under the control of a more active promoter.",
+      "All of the above."
+    ],
+    "answer": "All of the above."
+  },
+  {
+    "question": "The tumor suppressor gene APC is involved in the _____ signaling pathway.",
+    "options": [ "Ras-MAP kinase", "PI 3-kinase/Akt", "Wnt", "Notch" ],
+    "answer": "Wnt"
+  },
+  {
+    "question": "The development of colorectal cancer is a multi-step process that involves the accumulation of mutations in several key genes, including:",
+    "options": [ "APC, Ras, and p53", "Collagen and fibronectin", "Actin and myosin", "Hemoglobin and myoglobin" ],
+    "answer": "APC, Ras, and p53"
+  },
+  {
+    "question": "The ability of cancer cells to stimulate the formation of new blood vessels is called:",
+    "options": [ "Metastasis", "Angiogenesis", "Apoptosis", "Senescence" ],
+    "answer": "Angiogenesis"
+  },
+  {
+    "question": "Many cancer therapies, such as radiation and chemotherapy, work by:",
+    "options": [
+      "Damaging the DNA of rapidly dividing cells, causing them to undergo apoptosis.",
+      "Specifically targeting cancer cells while leaving normal cells unharmed.",
+      "Boosting the immune system.",
+      "Inhibiting angiogenesis."
+    ],
+    "answer": "Damaging the DNA of rapidly dividing cells, causing them to undergo apoptosis."
+  },
+  {
+    "question": "The development of more targeted cancer therapies is based on:",
+    "options": [
+      "Identifying the specific mutations that are driving the growth of a particular tumor.",
+      "Using higher doses of radiation.",
+      "Combining multiple chemotherapy drugs.",
+      "Surgery."
+    ],
+    "answer": "Identifying the specific mutations that are driving the growth of a particular tumor."
+  },
+  {
+    "question": "The four major types of tissues in animals are:",
+    "options": [
+      "Epithelial, connective, nervous, and muscle tissue.",
+      "Bone, blood, skin, and fat.",
+      "Stem cells, terminally differentiated cells, cancer cells, and somatic cells.",
+      "Collagen, elastin, fibronectin, and laminin."
+    ],
+    "answer": "Epithelial, connective, nervous, and muscle tissue."
+  },
+  {
+    "question": "Epithelial tissues are polarized, meaning they have:",
+    "options": [
+      "A positive and a negative charge.",
+      "An apical surface that faces the outside world or a lumen, and a basal surface that rests on the basal lamina.",
+      "The ability to move.",
+      "A high rate of mutation."
+    ],
+    "answer": "An apical surface that faces the outside world or a lumen, and a basal surface that rests on the basal lamina."
+  },
+  {
+    "question": "The mechanical strength of a tissue is provided by:",
+    "options": [
+      "The cells themselves.",
+      "The extracellular matrix.",
+      "The cell junctions that link the cytoskeletons of the cells together.",
+      "Both B and C."
+    ],
+    "answer": "Both B and C."
+  },
+  {
+    "question": "The ability of a tissue to be repaired and renewed depends on:",
+    "options": [ "The presence of stem cells.", "The rate of apoptosis.", "The amount of extracellular matrix.", "The number of cell junctions." ],
+    "answer": "The presence of stem cells."
+  },
+  {
+    "question": "The study of how cells and tissues are organized to form a complete organism is called:",
+    "options": [ "Developmental biology", "Cell biology", "Molecular biology", "Genetics" ],
+    "answer": "Developmental biology"
+  },
+  {
+    "question": "The discovery of iPS cells has opened up new possibilities for:",
+    "options": [
+      "Studying diseases in a dish.",
+      "Developing new drugs.",
+      "Regenerative medicine.",
+      "All of the above."
+    ],
+    "answer": "All of the above."
+  },
+  {
+    "question": "The fact that cancer is a disease of aging suggests that it is a:",
+    "options": [
+      "Simple, single-step process.",
+      "Complex, multi-step process that requires the accumulation of multiple mutations.",
+      "Disease that is not influenced by genetics.",
+      "Disease that is always inherited."
+    ],
+    "answer": "Complex, multi-step process that requires the accumulation of multiple mutations."
+  },
+  {
+    "question": "The understanding of the molecular basis of cancer has led to the development of:",
+    "options": [
+      "New diagnostic tools.",
+      "New targeted therapies.",
+      "New strategies for cancer prevention.",
+      "All of the above."
+    ],
+    "answer": "All of the above."
+  },
+  {
+    "question": "The future of cancer treatment is likely to involve:",
+    "options": [
+      "A one-size-fits-all approach.",
+      "Personalized medicine, where treatment is tailored to the specific mutations in a patient's tumor.",
+      "The use of only surgery and radiation.",
+      "The complete eradication of all cancer cells."
+    ],
+    "answer": "Personalized medicine, where treatment is tailored to the specific mutations in a patient's tumor."
+  }
+]
