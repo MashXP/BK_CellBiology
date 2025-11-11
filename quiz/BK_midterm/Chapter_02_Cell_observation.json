@@ -1,0 +1,182 @@
+[
+  {
+    "question": "What is the primary advantage of using enzymatic methods over mechanical methods for tissue disaggregation?",
+    "options": [
+      "It is faster and works on all tissue types.",
+      "It uses physical disruption, which is more effective.",
+      "It is a milder method that yields a higher number of viable cells.",
+      "It is the only method that works for plant tissues."
+    ],
+    "answer": "It is a milder method that yields a higher number of viable cells."
+  },
+  {
+    "question": "Which enzyme would you use to disaggregate animal connective tissue, which is rich in collagen?",
+    "options": [
+      "Collagenase",
+      "Pectinase",
+      "Cellulase",
+      "Lignase"
+    ],
+    "answer": "Collagenase"
+  },
+  {
+    "question": "Which cell sorting method separates cells based on their density by spinning them in a centrifuge?",
+    "options": [
+      "Filtration",
+      "Density Gradient Centrifugation",
+      "MACS",
+      "FACS"
+    ],
+    "answer": "Density Gradient Centrifugation"
+  },
+  {
+    "question": "Fluorescence-Activated Cell Sorting (FACS) works by sorting cells based on what property?",
+    "options": [
+      "Their size",
+      "Their density",
+      "Their magnetic properties",
+      "Their fluorescence after being labeled"
+    ],
+    "answer": "Their fluorescence after being labeled"
+  },
+  {
+    "question": "What is the main purpose of cell fixation?",
+    "options": [
+      "To sort the cells into different populations.",
+      "To prevent autolysis and preserve cells in a life-like state.",
+      "To increase the contrast of living cells.",
+      "To mechanically break down the extracellular matrix."
+    ],
+    "answer": "To prevent autolysis and preserve cells in a life-like state."
+  },
+  {
+    "question": "Which term describes the ability of a microscope to distinguish between two closely spaced objects?",
+    "options": [
+      "Magnification",
+      "Resolution",
+      "Fixation",
+      "Staining"
+    ],
+    "answer": "Resolution"
+  },
+  {
+    "question": "Which type of microscope is specifically designed for observing live cells in culture vessels (like flasks or petri dishes)?",
+    "options": [
+      "Stereo Microscope",
+      "Compound Microscope",
+      "Inverted Microscope",
+      "Scanning Electron Microscope (SEM)"
+    ],
+    "answer": "Inverted Microscope"
+  },
+  {
+    "question": "Which type of microscope would you use to create a detailed, 3D-like image of the *surface* of a cell?",
+    "options": [
+      "Transmission Electron Microscope (TEM)",
+      "Scanning Electron Microscope (SEM)",
+      "Phase-contrast Microscope",
+      "Fluorescence Microscope"
+    ],
+    "answer": "Scanning Electron Microscope (SEM)"
+  },
+  {
+    "question": "To observe the *internal structure* of organelles at very high resolution, which microscope is necessary?",
+    "options": [
+      "Transmission Electron Microscope (TEM)",
+      "Scanning Electron Microscope (SEM)",
+      "Compound Microscope",
+      "Dark-field Microscope"
+    ],
+    "answer": "Transmission Electron Microscope (TEM)"
+  },
+  {
+    "question": "[HARD] A researcher wants to study living, unstained bacterial cells, which are transparent and have low contrast. Which TWO light microscopy techniques are best suited for this?",
+    "options": [
+      "TEM and SEM",
+      "Fluorescence and Compound",
+      "Phase-contrast and Dark-field",
+      "Stereo and Inverted"
+    ],
+    "answer": "Phase-contrast and Dark-field"
+  },
+  {
+    "question": "[HARD] What is the fundamental difference in the mechanism of MACS vs. FACS?",
+    "options": [
+      "MACS uses size, FACS uses density.",
+      "MACS uses antibodies, FACS does not.",
+      "MACS uses magnetic beads for separation, while FACS uses fluorescent labels and sorts cells one by one.",
+      "MACS is for animal cells, FACS is for plant cells."
+    ],
+    "answer": "MACS uses magnetic beads for separation, while FACS uses fluorescent labels and sorts cells one by one."
+  },
+  {
+    "question": "[HARD] Why is cell fixation an essential step before most staining procedures that visualizes *internal* structures?",
+    "options": [
+      "Fixation makes the cell fluorescent.",
+      "Fixation kills the cell and cross-links proteins, which stabilizes the structures and makes the membrane permeable to dyes.",
+      "Fixation separates the cells using a magnetic field.",
+      "Fixation only works on plant cells, not animal cells."
+    ],
+    "answer": "Fixation kills the cell and cross-links proteins, which stabilizes the structures and makes the membrane permeable to dyes."
+  },
+  {
+    "question": "[VERY HARD] A scientist is studying β-amyloid plaques in brain tissue. Which specific dye, mentioned in the notes, would be used to stain for these structures?",
+    "options": [
+      "Fluorescein",
+      "Trypsin",
+      "Congo Red",
+      "Pectinase"
+    ],
+    "answer": "Congo Red"
+  },
+  {
+    "question": "[VERY HARD] A researcher needs to isolate a pure population of live T-cells from blood, which are defined by a specific surface protein. They must also simultaneously quantify the expression of two *internal* proteins. Which method is the only one that can achieve all this?",
+    "options": [
+      "MACS",
+      "FACS (after fixation and permeabilization for the internal proteins)",
+      "Density Gradient Centrifugation",
+      "Filtration"
+    ],
+    "answer": "FACS (after fixation and permeabilization for the internal proteins)"
+  },
+  {
+    "question": "According to the notes, what is a primary reason for isolating specific cell populations from a mixed sample?",
+    "options": [
+      "To increase the total volume of the sample.",
+      "To minimize interference in experiments and obtain a large number of a specific cell type.",
+      "To observe the cells only with an electron microscope.",
+      "To make the cells magnetic."
+    ],
+    "answer": "To minimize interference in experiments and obtain a large number of a specific cell type."
+  },
+  {
+    "question": "Which pair of enzymes would be most effective for disaggregating plant tissue?",
+    "options": [
+      "Collagenase and trypsin",
+      "Pectinase and cellulase",
+      "Amylase and lipase",
+      "DNA polymerase and RNA polymerase"
+    ],
+    "answer": "Pectinase and cellulase"
+  },
+  {
+    "question": "Which cell sorting method separates cells primarily based on their physical size?",
+    "options": [
+      "Filtration",
+      "Density Gradient Centrifugation",
+      "MACS",
+      "FACS"
+    ],
+    "answer": "Filtration"
+  },
+  {
+    "question": "[HARD] A researcher wants to get a low-magnification, 3D view of the surface of a small, intact insect. Which microscope is the most appropriate choice?",
+    "options": [
+      "Compound Microscope",
+      "Stereo Microscope",
+      "Transmission Electron Microscope (TEM)",
+      "Phase-contrast Microscope"
+    ],
+    "answer": "Stereo Microscope"
+  }
+]

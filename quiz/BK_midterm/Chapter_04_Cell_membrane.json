@@ -1,0 +1,212 @@
+[
+  {
+    "question": "The Fluid Mosaic Model states that the cell membrane is a fluid structure composed of:",
+    "options": [
+      "A phospholipid bilayer with embedded proteins.",
+      "A rigid wall of cellulose and proteins.",
+      "A single layer of proteins.",
+      "A network of cytoskeleton filaments."
+    ],
+    "answer": "A phospholipid bilayer with embedded proteins."
+  },
+  {
+    "question": "What is the function of cholesterol in an animal cell membrane at high temperatures?",
+    "options": [
+      "It makes the membrane more fluid.",
+      "It restrains phospholipid movement, preventing the membrane from becoming too fluid.",
+      "It transports ions across the membrane.",
+      "It self-replicates to repair the membrane."
+    ],
+    "answer": "It restrains phospholipid movement, preventing the membrane from becoming too fluid."
+  },
+  {
+    "question": "The 'kinks' in the tails of unsaturated fatty acids in phospholipids:",
+    "options": [
+      "Make the membrane more rigid and stable.",
+      "Prevent phospholipids from packing too tightly, which enhances fluidity.",
+      "Bind to proteins to hold them in place.",
+      "Are the primary site of ATP synthesis."
+    ],
+    "answer": "Prevent phospholipids from packing too tightly, which enhances fluidity."
+  },
+  {
+    "question": "Membrane asymmetry refers to the fact that:",
+    "options": [
+      "The membrane is perfectly symmetrical on both sides.",
+      "The inner and outer layers of the membrane have different molecular compositions.",
+      "The membrane can change its shape.",
+      "The membrane is a rigid, non-moving structure."
+    ],
+    "answer": "The inner and outer layers of the membrane have different molecular compositions."
+  },
+  {
+    "question": "Which of these is NOT a primary function of membrane proteins?",
+    "options": [
+      "Receptor proteins for signaling",
+      "Transport proteins for molecules",
+      "Cell adhesion proteins",
+      "Storing the cell's genetic material"
+    ],
+    "answer": "Storing the cell's genetic material"
+  },
+  {
+    "question": "The movement of $O_{2}$ and $CO_{2}$ across the membrane occurs via:",
+    "options": [
+      "Simple Diffusion",
+      "Active Transport",
+      "Facilitated Diffusion",
+      "Endocytosis"
+    ],
+    "answer": "Simple Diffusion"
+  },
+  {
+    "question": "The movement of water across a semipermeable membrane is called:",
+    "options": [
+      "Simple Diffusion",
+      "Active Transport",
+      "Osmosis",
+      "Exocytosis"
+    ],
+    "answer": "Osmosis"
+  },
+  {
+    "question": "A cell placed in a hypertonic solution will:",
+    "options": [
+      "Swell and burst",
+      "Shrink",
+      "Stay the same size",
+      "Actively pump out water"
+    ],
+    "answer": "Shrink"
+  },
+  {
+    "question": "What is the key difference between simple diffusion and facilitated diffusion?",
+    "options": [
+      "Simple diffusion requires energy, but facilitated diffusion does not.",
+      "Facilitated diffusion requires a protein (channel or carrier), while simple diffusion does not.",
+      "Simple diffusion moves molecules against their gradient, while facilitated diffusion moves them down.",
+      "Only simple diffusion applies to water."
+    ],
+    "answer": "Facilitated diffusion requires a protein (channel or carrier), while simple diffusion does not."
+  },
+  {
+    "question": "Which process requires energy (ATP) to move molecules *against* their concentration gradient?",
+    "options": [
+      "Simple Diffusion",
+      "Facilitated Diffusion",
+      "Osmosis",
+      "Active Transport"
+    ],
+    "answer": "Active Transport"
+  },
+  {
+    "question": "The process of a cell engulfing a large particle by forming a vesicle is called:",
+    "options": [
+      "Exocytosis",
+      "Endocytosis",
+      "Cotransport",
+      "Simple Diffusion"
+    ],
+    "answer": "Endocytosis"
+  },
+  {
+    "question": "[HARD] The Na+/K+ pump uses ATP to move 3 $Na^+$ ions out of the cell and 2 $K^+$ ions into the cell. This is an example of:",
+    "options": [
+      "Primary Active Transport (Antiporter)",
+      "Secondary Active Transport (Symporter)",
+      "Facilitated Diffusion (Uniporter)",
+      "Simple Diffusion"
+    ],
+    "answer": "Primary Active Transport (Antiporter)"
+  },
+  {
+    "question": "[HARD] A specific transporter protein moves glucose into a cell *against* its concentration gradient by coupling the movement to $Na^+$ ions moving *down* their concentration gradient. This is an example of:",
+    "options": [
+      "Primary Active Transport",
+      "Secondary Active Transport (Cotransport)",
+      "Simple Diffusion",
+      "Endocytosis"
+    ],
+    "answer": "Secondary Active Transport (Cotransport)"
+  },
+  {
+    "question": "[VERY HARD] A red blood cell is placed in pure, distilled water. What will happen and why?",
+    "options": [
+      "It will shrink because the water is hypertonic.",
+      "It will stay the same size because the environment is isotonic.",
+      "It will swell and burst (lyse) because the water is hypotonic.",
+      "It will actively pump the water out using ATP."
+    ],
+    "answer": "It will swell and burst (lyse) because the water is hypotonic."
+  },
+  {
+    "question": "[VERY HARD] What is the difference between an antiporter and a symporter?",
+    "options": [
+      "An antiporter is active transport; a symporter is passive transport.",
+      "A symporter moves two substances in the same direction; an antiporter moves them in opposite directions.",
+      "A symporter moves one substance; an antiporter moves two.",
+      "A symporter moves two substances in opposite directions; an antiporter moves them in the same direction."
+    ],
+    "answer": "A symporter moves two substances in the same direction; an antiporter moves them in opposite directions."
+  },
+  {
+    "question": "[HARD] A cell needs to secrete a large amount of protein hormones. Which process will it use?",
+    "options": [
+      "Endocytosis",
+      "Exocytosis",
+      "Simple Diffusion",
+      "Cotransport"
+    ],
+    "answer": "Exocytosis"
+  },
+  {
+    "question": "Which type of phospholipid movement within the membrane is the rarest because it involves moving from one layer of the bilayer to the other?",
+    "options": [
+      "Rotation",
+      "Flexion",
+      "Lateral movement",
+      "Flip-flop"
+    ],
+    "answer": "Flip-flop"
+  },
+  {
+    "question": "While water can move slowly across the lipid bilayer, its rapid transport is facilitated by specific protein channels called:",
+    "options": [
+      "Aquaporins",
+      "Proton pumps",
+      "Ion channels",
+      "Uniporters"
+    ],
+    "answer": "Aquaporins"
+  },
+  {
+    "question": "The selective permeability of the cell membrane is crucial for:",
+    "options": [
+      "Allowing all substances to pass freely.",
+      "Making the membrane rigid and strong.",
+      "Maintaining a stable internal environment (osmotic pressure, pH, ion concentration).",
+      "Synthesizing proteins."
+    ],
+    "answer": "Maintaining a stable internal environment (osmotic pressure, pH, ion concentration)."
+  },
+  {
+    "question": "A transporter protein that moves only one substance across the membrane is called a(n):",
+    "options": [
+      "Uniporter",
+      "Symporter",
+      "Antiporter",
+      "Aquaporin"
+    ],
+    "answer": "Uniporter"
+  },
+  {
+    "question": "[HARD] Which of the following factors would likely DECREASE the rate of active transport?",
+    "options": [
+      "An increase in available ATP",
+      "Optimal temperature and pH",
+      "The presence of an enzyme inhibitor specific to the transport protein",
+      "An abundance of glucose and oxygen"
+    ],
+    "answer": "The presence of an enzyme inhibitor specific to the transport protein"
+  }
+]

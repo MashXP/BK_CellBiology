@@ -1,0 +1,182 @@
+[
+  {
+    "question": "Which of the following is NOT a modern tenet of the Cell Theory?",
+    "options": [
+      "All living cells arise from pre-existing cells by division.",
+      "The cell is the fundamental unit of structure and function.",
+      "All living things are composed of one or more cells.",
+      "All cells contain a membrane-bound nucleus."
+    ],
+    "answer": "All cells contain a membrane-bound nucleus."
+  },
+  {
+    "question": "Which term describes a cell, like a somatic cell, that contains a full set of paired chromosomes?",
+    "options": [
+      "Haploid",
+      "Diploid",
+      "Gamete",
+      "Prokaryotic"
+    ],
+    "answer": "Diploid"
+  },
+  {
+    "question": "The ability of an organism to maintain a stable internal environment, like temperature or pH, is known as:",
+    "options": [
+      "Metabolism",
+      "Sensitivity",
+      "Homeostasis",
+      "Anabolism"
+    ],
+    "answer": "Homeostasis"
+  },
+  {
+    "question": "The Miller-Urey experiment provided evidence for which step in the origin of life?",
+    "options": [
+      "The formation of the first cell membranes.",
+      "The formation of simple organic molecules from inorganic components.",
+      "The self-replication of RNA molecules.",
+      "The origin of mitochondria via endosymbiosis."
+    ],
+    "answer": "The formation of simple organic molecules from inorganic components."
+  },
+  {
+    "question": "What molecule is believed to have been the first to gain the ability to self-replicate, forming the basis of the 'RNA world' hypothesis?",
+    "options": [
+      "DNA",
+      "Protein",
+      "RNA",
+      "Phospholipid"
+    ],
+    "answer": "RNA"
+  },
+  {
+    "question": "The Endosymbiotic Theory proposes that the nuclear envelope and ER originated from:",
+    "options": [
+      "Infoldings of the plasma membrane.",
+      "The engulfment of a smaller prokaryotic cell.",
+      "A self-replicating RNA molecule.",
+      "A misfolded protein."
+    ],
+    "answer": "Infoldings of the plasma membrane."
+  },
+  {
+    "question": "The metabolic pathway that breaks down molecules into smaller units, releasing energy, is called:",
+    "options": [
+      "Anabolism",
+      "Catabolism",
+      "Homeostasis",
+      "Photosynthesis"
+    ],
+    "answer": "Catabolism"
+  },
+  {
+    "question": "Which infectious agent consists only of a small, circular, single-stranded RNA molecule that infects plants?",
+    "options": [
+      "Virus",
+      "Viroid",
+      "Prion",
+      "Bacterium"
+    ],
+    "answer": "Viroid"
+  },
+  {
+    "question": "How does a pathogenic prion (PrPSc) 'replicate'?",
+    "options": [
+      "It uses the host cell's ribosomes to synthesize more prions.",
+      "It contains RNA that is reverse-transcribed into the host's DNA.",
+      "It induces the misfolding of normal host proteins (PrPc) into the pathogenic form.",
+      "It is a virus that hijacks the cell's nucleus."
+    ],
+    "answer": "It induces the misfolding of normal host proteins (PrPc) into the pathogenic form."
+  },
+  {
+    "question": "[HARD] According to the evolutionary theories presented, what is the fundamental difference in the proposed origin of the nuclear envelope versus the origin of mitochondria?",
+    "options": [
+      "Both originated from endosymbiosis.",
+      "The nuclear envelope arose from infoldings of the plasma membrane, while mitochondria arose from endosymbiosis.",
+      "Mitochondria arose from infoldings, while the nuclear envelope arose from endosymbiosis.",
+      "The nuclear envelope came from a virus, while mitochondria came from self-replicating RNA."
+    ],
+    "answer": "The nuclear envelope arose from infoldings of the plasma membrane, while mitochondria arose from endosymbiosis."
+  },
+  {
+    "question": "[HARD] A scientist discovers a new infectious agent that has no genetic material (DNA or RNA) but is composed of a protein. This agent is most likely a:",
+    "options": [
+      "Virus",
+      "Viroid",
+      "Prion",
+      "Bacterium"
+    ],
+    "answer": "Prion"
+  },
+  {
+    "question": "[HARD] Which of the following is NOT a core characteristic of life, as defined by the notes?",
+    "options": [
+      "Energy Processing",
+      "Reproduction",
+      "Sensitivity (response to environment)",
+      "Movement"
+    ],
+    "answer": "Movement"
+  },
+  {
+    "question": "[VERY HARD] Which of the following statements provides the best evidence for the 'RNA world' hypothesis as the precursor to modern life?",
+    "options": [
+      "RNA is less stable than DNA, so it must have come first.",
+      "RNA can store genetic information (like DNA) and also catalyze chemical reactions (like proteins).",
+      "Phospholipids spontaneously form membranes, and RNA gets trapped inside.",
+      "The Miller-Urey experiment produced RNA molecules from inorganic precursors."
+    ],
+    "answer": "RNA can store genetic information (like DNA) and also catalyze chemical reactions (like proteins)."
+  },
+  {
+    "question": "[VERY HARD] A germ cell divides to produce haploid gametes. What is the key difference between a germ cell and a somatic cell?",
+    "options": [
+      "Somatic cells are haploid and germ cells are diploid.",
+      "Germ cells are involved in reproduction, while somatic cells form the body of the organism.",
+      "Somatic cells are eukaryotic and germ cells are prokaryotic.",
+      "Germ cells lack a nucleus, while somatic cells have one."
+    ],
+    "answer": "Germ cells are involved in reproduction, while somatic cells form the body of the organism."
+  },
+  {
+    "question": "What is the fundamental difference between prokaryotic and eukaryotic cells?",
+    "options": [
+      "Prokaryotic cells have a cell wall, eukaryotes do not.",
+      "Eukaryotic cells have a membrane-bound nucleus and organelles, while prokaryotic cells do not.",
+      "Prokaryotic cells are always multicellular.",
+      "Eukaryotic cells use RNA for genetic material."
+    ],
+    "answer": "Eukaryotic cells have a membrane-bound nucleus and organelles, while prokaryotic cells do not."
+  },
+  {
+    "question": "The metabolic process that constructs molecules from smaller units, requiring an input of energy, is known as:",
+    "options": [
+      "Catabolism",
+      "Anabolism",
+      "Homeostasis",
+      "Metabolism"
+    ],
+    "answer": "Anabolism"
+  },
+  {
+    "question": "[HARD] In the proposed evolution from an 'RNA world', what was the 'division of labor' that occurred?",
+    "options": [
+      "RNA took over heredity, DNA took over catalysis.",
+      "DNA took over heredity, proteins took over catalysis, and RNA mediated between them.",
+      "Proteins took over heredity, RNA took over catalysis.",
+      "Mitochondria handled energy, and the nucleus handled heredity."
+    ],
+    "answer": "DNA took over heredity, proteins took over catalysis, and RNA mediated between them."
+  },
+  {
+    "question": "Which of the following best describes a virus?",
+    "options": [
+      "A misfolded protein that causes disease.",
+      "A small, circular RNA molecule that infects plants.",
+      "A non-living particle with genetic material in a protein capsid that requires a host to replicate.",
+      "A single-celled prokaryotic organism."
+    ],
+    "answer": "A non-living particle with genetic material in a protein capsid that requires a host to replicate."
+  }
+]

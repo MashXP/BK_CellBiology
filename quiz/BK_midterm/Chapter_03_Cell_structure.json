@@ -1,0 +1,222 @@
+[
+  {
+    "question": "In prokaryotic cells, the single, circular DNA is found in a region known as the:",
+    "options": [
+      "Nucleus",
+      "Nucleoid",
+      "Plasmid",
+      "Nucleolus"
+    ],
+    "answer": "Nucleoid"
+  },
+  {
+    "question": "What is the primary function of plasmids in bacteria?",
+    "options": [
+      "They form the cell wall.",
+      "They are the primary source of ATP.",
+      "They carry genes for survival advantages, like antibiotic resistance.",
+      "They are responsible for protein synthesis."
+    ],
+    "answer": "They carry genes for survival advantages, like antibiotic resistance."
+  },
+  {
+    "question": "The cell wall of most bacteria is made of:",
+    "options": [
+      "Cellulose",
+      "Chitin",
+      "Peptidoglycan",
+      "Cholesterol"
+    ],
+    "answer": "Peptidoglycan"
+  },
+  {
+    "question": "A prokaryotic flagellar arrangement where the cell is covered in flagella is called:",
+    "options": [
+      "Monotrichous",
+      "Lophotrichous",
+      "Amphitrichous",
+      "Peritrichous"
+    ],
+    "answer": "Peritrichous"
+  },
+  {
+    "question": "The 'run' and 'tumble' movement in bacteria is controlled by:",
+    "options": [
+      "The cytoskeleton.",
+      "The rotation of flagella.",
+      "The cell wall expanding and contracting.",
+      "The extrusion of cytoplasm."
+    ],
+    "answer": "The rotation of flagella."
+  },
+  {
+    "question": "What is the function of the plant cell wall, which is made of cellulose?",
+    "options": [
+      "It controls all transport into and out of the cell.",
+      "It provides protection, a definite shape, and plays a role in differentiation.",
+      "It synthesizes proteins for the cell.",
+      "It stores calcium ions for cell signaling."
+    ],
+    "answer": "It provides protection, a definite shape, and plays a role in differentiation."
+  },
+  {
+    "question": "Which channels allow for cell-to-cell communication in plants by connecting the cytoplasm of adjacent cells?",
+    "options": [
+      "Gap Junctions",
+      "Tight Junctions",
+      "Plasmodesmata",
+      "Anchoring Junctions"
+    ],
+    "answer": "Plasmodesmata"
+  },
+  {
+    "question": "Which organelle is responsible for synthesizing lipids, storing calcium, and detoxification?",
+    "options": [
+      "Rough ER (RER)",
+      "Smooth ER (SER)",
+      "Golgi Apparatus",
+      "Lysosome"
+    ],
+    "answer": "Smooth ER (SER)"
+  },
+  {
+    "question": "Which organelle acts as a 'factory' to process, sort, and package proteins and lipids for transport?",
+    "options": [
+      "Nucleus",
+      "Mitochondrion",
+      "Golgi Apparatus",
+      "Ribosome"
+    ],
+    "answer": "Golgi Apparatus"
+  },
+  {
+    "question": "Which organelle is a single-membrane sac containing digestive enzymes, found in animal cells?",
+    "options": [
+      "Lysosome",
+      "Peroxisome",
+      "Vacuole",
+      "Proteasome"
+    ],
+    "answer": "Lysosome"
+  },
+  {
+    "question": "What is the main function of ribosomes?",
+    "options": [
+      "Polypeptide (protein) synthesis",
+      "ATP production",
+      "Lipid synthesis",
+      "Cellular digestion"
+    ],
+    "answer": "Polypeptide (protein) synthesis"
+  },
+  {
+    "question": "The photosynthetic pigments in a chloroplast are located in the:",
+    "options": [
+      "Stroma",
+      "Thylakoids",
+      "Inner membrane",
+      "Cytosol"
+    ],
+    "answer": "Thylakoids"
+  },
+  {
+    "question": "[HARD] A cell is found to be unable to degrade its own old, damaged organelles. This process is called autophagy, and it relies on the function of which organelle?",
+    "options": [
+      "Proteasome",
+      "Peroxisome",
+      "Lysosome",
+      "Smooth ER"
+    ],
+    "answer": "Lysosome"
+  },
+  {
+    "question": "[HARD] A cell has a buildup of misfolded proteins in its cytosol. These proteins should be tagged with ubiquitin and sent for degradation to which structure?",
+    "options": [
+      "Lysosome",
+      "Proteasome",
+      "Golgi Apparatus",
+      "Peroxisome"
+    ],
+    "answer": "Proteasome"
+  },
+  {
+    "question": "[HARD] What is the functional difference between the Rough ER (RER) and the Smooth ER (SER)?",
+    "options": [
+      "RER synthesizes lipids; SER synthesizes proteins.",
+      "RER is for protein synthesis and modification; SER is for lipid synthesis, calcium storage, and detoxification.",
+      "RER is for ATP production; SER is for digestion.",
+      "RER is only in animal cells; SER is only in plant cells."
+    ],
+    "answer": "RER is for protein synthesis and modification; SER is for lipid synthesis, calcium storage, and detoxification."
+  },
+  {
+    "question": "[VERY HARD] A drug is administered that specifically targets and destroys the Golgi apparatus. What is the most immediate and significant consequence for the cell?",
+    "options": [
+      "Protein synthesis on ribosomes would stop immediately.",
+      "The cell would be unable to produce ATP.",
+      "Proteins synthesized in the ER would not be sorted or packaged for secretion.",
+      "The cell would lose its nucleus."
+    ],
+    "answer": "Proteins synthesized in the ER would not be sorted or packaged for secretion."
+  },
+  {
+    "question": "[VERY HARD] Which of these is NOT a membrane-bound organelle?",
+    "options": [
+      "Mitochondrion",
+      "Lysosome",
+      "Peroxisome",
+      "Ribosome"
+    ],
+    "answer": "Ribosome"
+  },
+  {
+    "question": "Which organelle, found in both eukaryotes and some bacteria, is a non-membrane-bound complex responsible for degrading misfolded or unnecessary proteins?",
+    "options": [
+      "Lysosome",
+      "Peroxisome",
+      "Proteasome",
+      "Ribosome"
+    ],
+    "answer": "Proteasome"
+  },
+  {
+    "question": "What is the primary role of peroxisomes?",
+    "options": [
+      "Synthesizing proteins and lipids.",
+      "Generating ATP through cellular respiration.",
+      "The oxidation of biomolecules and biosynthesis of membrane lipids.",
+      "Sorting and packaging proteins for secretion."
+    ],
+    "answer": "The oxidation of biomolecules and biosynthesis of membrane lipids."
+  },
+  {
+    "question": "The eukaryotic nucleus is characterized by what key structural feature?",
+    "options": [
+      "A single membrane with no pores.",
+      "A double membrane with pores for transporting large molecules.",
+      "Being filled with peptidoglycan.",
+      "Containing the cell's ribosomes."
+    ],
+    "answer": "A double membrane with pores for transporting large molecules."
+  },
+  {
+    "question": "[HARD] The sugar-protein barrier that coats blood vascular endothelium, protecting it from mechanical and oxidative stress, is known as the:",
+    "options": [
+      "Cell Wall",
+      "Extracellular Matrix",
+      "Glycocalyx",
+      "Capsule"
+    ],
+    "answer": "Glycocalyx"
+  },
+  {
+    "question": "[VERY HARD] A plant cell is unable to perform photosynthesis. A defect in which organelle is the most likely cause?",
+    "options": [
+      "Mitochondrion",
+      "Vacuole",
+      "Chloroplast",
+      "Ribosome"
+    ],
+    "answer": "Chloroplast"
+  }
+]
