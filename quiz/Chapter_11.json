@@ -404,9 +404,9 @@
     "options": [
       "Create a barrier that prevents the diffusion of molecules between cells.",
       "Restrict the movement of membrane proteins to specific domains of the plasma membrane.",
-      "Both A and B.",
-      "Neither A nor B."
+      "Both barrier creation and movement restriction.",
+      "Neither barrier creation nor movement restriction."
     ],
-    "answer": "Both A and B."
+    "answer": "Both barrier creation and movement restriction.."
   }
 ]

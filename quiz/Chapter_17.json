@@ -280,9 +280,9 @@
       "A single polypeptide chain.",
       "Two heavy chains and two pairs of light chains.",
       "A globular head and a long tail.",
-      "Both B and C."
+      "Two heavy chains and two pairs of light chains and A globular head and a long tail."
     ],
-    "answer": "Both B and C."
+    "answer": "Two heavy chains and two pairs of light chains and A globular head and a long tail."
   },
   {
     "question": "The sliding filament model of muscle contraction describes how:",
