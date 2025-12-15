@@ -1,2 +1,5 @@
 _pdf
 _raw
+*.pdf
+*.py
+*.jpg
