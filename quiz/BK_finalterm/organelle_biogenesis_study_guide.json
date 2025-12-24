@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Which principle states that differentiated cells contain all the genetic instructions needed to direct the formation of a complete organism?",
+    "options": [
+      "Genomic Equivalence",
+      "Cellular Differentiation",
+      "Totipotency",
+      "Phenotypic Plasticity"
+    ],
+    "answer": "Genomic Equivalence"
+  },
+  {
+    "question": "What process in amphibian cloning involves the removal of the nucleus from an unfertilized egg?",
+    "options": [
+      "Enucleation",
+      "Fertilization",
+      "Dedifferentiation",
+      "Reprogramming"
+    ],
+    "answer": "Enucleation"
+  },
+  {
+    "question": "The ability of a single carrot cell to develop into a complete young plant demonstrates which cellular property?",
+    "options": [
+      "Unipotency",
+      "Multipotency",
+      "Oligopotency",
+      "Totipotency"
+    ],
+    "answer": "Totipotency"
+  },
+  {
+    "question": "In mammalian cloning, what is used to fuse an epithelial cell from a donor cow with an enucleated unfertilized egg cell?",
+    "options": [
+      "Chemical reagents",
+      "UV radiation",
+      "An electric pulse",
+      "Microinjection"
+    ],
+    "answer": "An electric pulse"
+  },
+  {
+    "question": "Differentiation primarily involves changes in which cellular process, rather than the loss of DNA?",
+    "options": [
+      "DNA replication",
+      "Gene expression",
+      "Mitochondrial function",
+      "Cell division rate"
+    ],
+    "answer": "Gene expression"
+  },
+  {
+    "question": "Which step of gene expression control is responsible for regulating the stability of mRNA?",
+    "options": [
+      "Transcriptional control",
+      "RNA processing control",
+      "mRNA degradation control",
+      "Translation control"
+    ],
+    "answer": "mRNA degradation control"
+  },
+  {
+    "question": "What is the initial step of control in eukaryotic gene expression, transforming DNA into an RNA transcript?",
+    "options": [
+      "Translation control",
+      "Protein activity control",
+      "Transcriptional control",
+      "RNA processing control"
+    ],
+    "answer": "Transcriptional control"
+  },
+  {
+    "question": "Where does mRNA transport and localization control primarily occur?",
+    "options": [
+      "From cytoplasm to nucleus",
+      "From mitochondria to ER",
+      "From nucleus to cytosol",
+      "Within the Golgi apparatus"
+    ],
+    "answer": "From nucleus to cytosol"
+  },
+  {
+    "question": "A neuron and a liver cell share the exact same genome. What accounts for their drastically different structures and functions?",
+    "options": [
+      "Differences in DNA sequences",
+      "Differential gene expression",
+      "Variations in chromosome number",
+      "Different sets of organelles"
+    ],
+    "answer": "Differential gene expression"
+  },
+  {
+    "question": "How do a small number of transcription regulators generate many distinct cell types during development?",
+    "options": [
+      "Through random gene activation",
+      "By altering the DNA sequence",
+      "Via combinatorial control",
+      "By deleting unnecessary genes"
+    ],
+    "answer": "Via combinatorial control"
+  },
+  {
+    "question": "Which of the following are key transcription factors used to reprogram differentiated cells into induced Pluripotent Stem (iPS) cells?",
+    "options": [
+      "Pax6, MyoD, GATA",
+      "Oct4, Sox2, Klf4",
+      "HoxA1, Tbx5, Pitx2",
+      "STAT3, NFkB, p53"
+    ],
+    "answer": "Oct4, Sox2, Klf4"
+  },
+  {
+    "question": "What is the potential fate of iPS cells when cultured under specific conditions?",
+    "options": [
+      "They can only remain as fibroblasts.",
+      "They can differentiate into various cell types like smooth muscle cells, neurons, or fat cells.",
+      "They revert to their original differentiated state.",
+      "They can only form cancerous tumors."
+    ],
+    "answer": "They can differentiate into various cell types like smooth muscle cells, neurons, or fat cells."
+  },
+  {
+    "question": "What is the term for converting one differentiated cell type directly into another without passing through a pluripotent state?",
+    "options": [
+      "De-differentiation",
+      "Trans-differentiation",
+      "Reprogramming",
+      "Direct conversion"
+    ],
+    "answer": "Direct conversion"
+  },
+  {
+    "question": "What can a single master transcription regulator potentially trigger?",
+    "options": [
+      "The complete shutdown of all gene expression",
+      "The formation of an entire organ",
+      "Only the repression of housekeeping genes",
+      "A switch in metabolic pathways"
+    ],
+    "answer": "The formation of an entire organ"
+  },
+  {
+    "question": "All blood cells originate from which type of stem cell?",
+    "options": [
+      "Common Myeloid Progenitor",
+      "Natural Killer cell",
+      "Multipotential Hematopoietic Stem Cell",
+      "T lymphocyte"
+    ],
+    "answer": "Multipotential Hematopoietic Stem Cell"
+  },
+  {
+    "question": "Which of the following cell types arises from the Common Myeloid Progenitor?",
+    "options": [
+      "T lymphocytes",
+      "Natural Killer cells",
+      "Erythrocytes",
+      "Plasma cells"
+    ],
+    "answer": "Erythrocytes"
+  },
+  {
+    "question": "From which progenitor do Natural Killer cells and Small Lymphocytes arise?",
+    "options": [
+      "Multipotential Hematopoietic Stem Cell",
+      "Common Myeloid Progenitor",
+      "Common Lymphoid Progenitor",
+      "Megakaryocyte"
+    ],
+    "answer": "Common Lymphoid Progenitor"
+  },
+  {
+    "question": "Megakaryocytes give rise to which component of blood?",
+    "options": [
+      "Erythrocytes",
+      "Thrombocytes",
+      "Basophils",
+      "Monocytes"
+    ],
+    "answer": "Thrombocytes"
+  },
+  {
+    "question": "What is the fate of one daughter cell when a stem cell in a plant meristem divides?",
+    "options": [
+      "It undergoes apoptosis.",
+      "It becomes a reproductive cell.",
+      "It remains meristematic.",
+      "It forms a protective layer."
+    ],
+    "answer": "It remains meristematic."
+  },
+  {
+    "question": "Where do plants maintain populations of stem cells?",
+    "options": [
+      "In the vascular bundles only",
+      "In the Shoot Apical Meristems and Root Apical Meristems",
+      "Throughout the entire leaf tissue",
+      "Only in reproductive organs"
+    ],
+    "answer": "In the Shoot Apical Meristems and Root Apical Meristems"
+  },
+  {
+    "question": "What is a 'callus' in plant development?",
+    "options": [
+      "A protective outer layer of bark",
+      "A mass of undifferentiated cells",
+      "A specialized reproductive organ",
+      "A hardened structure for defense"
+    ],
+    "answer": "A mass of undifferentiated cells"
+  },
+  {
+    "question": "Which signaling peptides regulate the balance between stem cell maintenance and differentiation in the plant shoot meristem?",
+    "options": [
+      "Auxins and Cytokinins",
+      "Gibberellins and Abscisic acid",
+      "CLV3 and WUS",
+      "Ethylene and Jasmonic acid"
+    ],
+    "answer": "CLV3 and WUS"
+  },
+  {
+    "question": "How does CLV3 maintain meristem size in plants?",
+    "options": [
+      "By directly activating WUS expression",
+      "By binding to CLV1/CLV2 receptors to inhibit WUS expression",
+      "By promoting rapid cell division in the central zone",
+      "By inducing differentiation of stem cells into vascular tissue"
+    ],
+    "answer": "By binding to CLV1/CLV2 receptors to inhibit WUS expression"
+  },
+  {
+    "question": "What is a mechanism by which cells maintain their identity through division, where a protein activates its own transcription?",
+    "options": [
+      "Negative feedback loop",
+      "Gene silencing",
+      "Positive feedback loop",
+      "RNA interference"
+    ],
+    "answer": "Positive feedback loop"
+  },
+  {
+    "question": "On which base does DNA methylation typically occur in eukaryotes, forming 5-methylcytosine?",
+    "options": [
+      "Adenine",
+      "Guanine",
+      "Thymine",
+      "Cytosine"
+    ],
+    "answer": "Cytosine"
+  },
+  {
+    "question": "Which enzyme recognizes hemimethylated DNA during replication and methylates the newly synthesized strand, ensuring faithful inheritance of the methylation pattern?",
+    "options": [
+      "DNA Polymerase",
+      "DNA Ligase",
+      "Maintenance Methyltransferase",
+      "Histone Acetyltransferase"
+    ],
+    "answer": "Maintenance Methyltransferase"
+  },
+  {
+    "question": "How are histone modifications inherited by daughter chromosomes?",
+    "options": [
+      "They are completely erased and re-established anew.",
+      "Parental nucleosomes with modified histones are randomly distributed, and enzymes re-establish the pattern on nearby new histones.",
+      "Only the DNA sequence determines the new histone modifications.",
+      "They are passed on exclusively through the cytoplasm."
+    ],
+    "answer": "Parental nucleosomes with modified histones are distributed to daughter chromosomes. Enzymes recognize these modifications and re-establish the same pattern on nearby new histones."
+  },
+  {
+    "question": "Which of the following is a characteristic feature of apoptotic cells?",
+    "options": [
+      "Cellular swelling and lysis",
+      "Inflammatory response in surrounding tissue",
+      "Formation of apoptotic bodies engulfed by phagocytes",
+      "Random breakdown of cellular components"
+    ],
+    "answer": "Formation of apoptotic bodies engulfed by phagocytes"
+  },
+  {
+    "question": "What is a key developmental role of apoptosis, as seen in the formation of digits?",
+    "options": [
+      "Enhancing cell proliferation",
+      "Promoting organ fusion",
+      "Eliminating cells between developing digits",
+      "Increasing tissue rigidity"
+    ],
+    "answer": "Eliminating cells between developing digits"
+  },
+  {
+    "question": "In the context of nerve cell development, what happens to nerve cells that do not receive enough survival factor?",
+    "options": [
+      "They differentiate into other cell types.",
+      "They undergo apoptosis.",
+      "They increase their proliferation rate.",
+      "They become permanently quiescent."
+    ],
+    "answer": "They undergo apoptosis."
+  },
+  {
+    "question": "What type of proteins mediate the intracellular proteolytic cascade of apoptosis?",
+    "options": [
+      "Kinases",
+      "Phosphatases",
+      "Caspases",
+      "Integrins"
+    ],
+    "answer": "Caspases"
+  },
+  {
+    "question": "How are initiator procaspases typically activated in response to apoptotic stimuli?",
+    "options": [
+      "By direct phosphorylation",
+      "By dimerization and cleavage via adaptor proteins",
+      "By binding to DNA",
+      "By deacetylation of histones"
+    ],
+    "answer": "By dimerization and cleavage via adaptor proteins"
+  },
+  {
+    "question": "The intrinsic pathway of apoptosis is primarily triggered by what kind of stimuli?",
+    "options": [
+      "Extracellular growth factors",
+      "Intracellular stress (e.g., chemicals, radiation)",
+      "Binding of survival factors",
+      "Direct cell-to-cell contact"
+    ],
+    "answer": "Intracellular stress (e.g., chemicals, radiation)"
+  },
+  {
+    "question": "Which pro-apoptotic proteins are responsible for releasing cytochrome c from the mitochondria during the intrinsic pathway?",
+    "options": [
+      "Bcl2 and Bcl-XL",
+      "Bax and Bak",
+      "Apaf-1 and Caspase-9",
+      "Fas and FADD"
+    ],
+    "answer": "Bax and Bak"
+  },
+  {
+    "question": "What complex is formed when cytochrome c binds to adaptor proteins (Apaf-1) during the intrinsic apoptosis pathway?",
+    "options": [
+      "DISC complex",
+      "Proteasome",
+      "Apoptosome",
+      "Ribosome"
+    ],
+    "answer": "Apoptosome"
+  },
+  {
+    "question": "Which caspase is recruited and activated by the apoptosome?",
+    "options": [
+      "Caspase-8",
+      "Caspase-3",
+      "Caspase-9",
+      "Caspase-10"
+    ],
+    "answer": "Caspase-9"
+  },
+  {
+    "question": "The extrinsic pathway of apoptosis is triggered by extracellular lethal stimuli binding to what?",
+    "options": [
+      "Growth factor receptors",
+      "Adhesion molecules",
+      "Death Receptors (e.g., Fas, TNFRI)",
+      "Ion channels"
+    ],
+    "answer": "Death Receptors (e.g., Fas, TNFRI)"
+  },
+  {
+    "question": "Which caspase is recruited and activated by the DISC complex in the extrinsic apoptosis pathway?",
+    "options": [
+      "Caspase-9",
+      "Caspase-12",
+      "Caspase-8",
+      "Caspase-2"
+    ],
+    "answer": "Caspase-8"
+  },
+  {
+    "question": "Which protein belongs to the anti-apoptotic members of the Bcl2 family?",
+    "options": [
+      "Bax",
+      "Bak",
+      "Bid",
+      "Bcl2"
+    ],
+    "answer": "Bcl2"
+  },
+  {
+    "question": "What is the primary function of IAPs (Inhibitor of Apoptosis Proteins)?",
+    "options": [
+      "To activate caspases",
+      "To release cytochrome c",
+      "To block caspases",
+      "To form the apoptosome"
+    ],
+    "answer": "To block caspases"
+  },
+  {
+    "question": "Survival factors suppress apoptosis by activating pathways that lead to which of the following?",
+    "options": [
+      "Decreased Bcl2 expression",
+      "Increased cytochrome c release",
+      "Inhibition of pro-apoptotic proteins",
+      "Activation of initiator caspases"
+    ],
+    "answer": "Inhibition of pro-apoptotic proteins"
+  },
+  {
+    "question": "A research team wants to study the earliest changes in gene expression during mammalian development. Which experimental approach would best utilize the principle of genomic equivalence to study the effects of specific gene mutations on early embryogenesis?",
+    "options": [
+      "Cloning an adult somatic cell with the mutation into an enucleated egg to observe developmental defects.",
+      "Directly injecting mRNA into a fertilized egg to overexpress a gene.",
+      "Sequencing the entire genome of various differentiated adult cells.",
+      "Analyzing protein activity in different tissues of an adult organism."
+    ],
+    "answer": "Cloning an adult somatic cell with the mutation into an enucleated egg to observe developmental defects."
+  },
+  {
+    "question": "A novel antiviral drug is discovered that specifically targets the nuclear pore complex, preventing the export of mRNA transcripts from the nucleus to the cytosol. Which step of gene expression control would be most directly inhibited by this drug?",
+    "options": [
+      "Transcriptional control",
+      "RNA processing control",
+      "mRNA transport and localization control",
+      "Translation control"
+    ],
+    "answer": "mRNA transport and localization control"
+  },
+  {
+    "question": "A scientist aims to create a new cell type with specific therapeutic properties by reprogramming existing fibroblasts. They introduce several transcription factors, including Oct4, Sox2, and Klf4. What is the expected intermediate state these fibroblasts will achieve before further differentiation?",
+    "options": [
+      "Terminal differentiation into a muscle cell",
+      "A multipotent hematopoietic stem cell state",
+      "An induced pluripotent stem (iPS) cell state",
+      "A dedifferentiated callus-like state"
+    ],
+    "answer": "An induced pluripotent stem (iPS) cell state"
+  },
+  {
+    "question": "Consider a patient diagnosed with severe aplastic anemia, characterized by a deficiency in red blood cells, white blood cells (except lymphocytes), and platelets. Which progenitor cell is most likely impaired in this patient?",
+    "options": [
+      "Common Lymphoid Progenitor",
+      "Multipotential Hematopoietic Stem Cell",
+      "Small Lymphocyte",
+      "Natural Killer cell"
+    ],
+    "answer": "Multipotential Hematopoietic Stem Cell"
+  },
+  {
+    "question": "A mutation in a plant leads to constant high expression of WUS, overriding the inhibitory signal from CLV3. What would be the most likely observed phenotype in the shoot meristem of this mutant plant?",
+    "options": [
+      "Reduced meristem size and premature differentiation",
+      "No change in meristem size or function",
+      "An enlarged meristem with an excess of undifferentiated stem cells",
+      "Conversion of the shoot meristem into a root meristem"
+    ],
+    "answer": "An enlarged meristem with an excess of undifferentiated stem cells"
+  },
+  {
+    "question": "A cell lineage normally expresses a 'master' regulatory protein, Protein X, due to a positive feedback loop. If an inhibitor prevents the initial activation of Gene X in a progenitor cell, what would be the expected outcome for its progeny cells?",
+    "options": [
+      "Protein X would still be expressed due to external signals.",
+      "Protein X would be expressed but at lower levels.",
+      "Protein X would not be expressed in any of the progeny cells.",
+      "Protein X would be expressed, but only if the inhibitor is removed after one cell division."
+    ],
+    "answer": "Protein X would not be expressed in any of the progeny cells."
+  },
+  {
+    "question": "A cell undergoes severe irreparable DNA damage due to radiation exposure. Which of the following events is crucial for initiating the intrinsic apoptotic pathway in response to this stress?",
+    "options": [
+      "Binding of Fas ligand to the Fas receptor on the cell surface.",
+      "Activation of the DISC complex.",
+      "Release of cytochrome c from the mitochondria.",
+      "Increased expression of anti-apoptotic Bcl2."
+    ],
+    "answer": "Release of cytochrome c from the mitochondria."
+  },
+  {
+    "question": "An immune cytotoxic T lymphocyte (CTL) recognizes and binds to a 'sick' cell displaying abnormal surface proteins. The CTL then secretes a factor that binds to a Death Receptor on the sick cell, initiating programmed cell death. Which caspase is most likely directly activated as a result of this extracellular stimulus?",
+    "options": [
+      "Caspase-9",
+      "Caspase-8",
+      "Caspase-3",
+      "Caspase-12"
+    ],
+    "answer": "Caspase-8"
+  },
+  {
+    "question": "A growth factor is introduced to a cell culture. This leads to increased cell growth by activating a signaling cascade involving Receptor Tyrosine Kinases (RTKs) and PI 3-kinase. Which downstream molecule is ultimately stimulated by this pathway to promote protein synthesis and inhibit protein degradation?",
+    "options": [
+      "Akt",
+      "Tor",
+      "Caspase-9",
+      "Bax"
+    ],
+    "answer": "Tor"
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Which of the following is an example of an organism that reproduces asexually by budding?",
+    "options": [
+      "Human",
+      "Hydra",
+      "Fruit fly",
+      "Pea plant"
+    ],
+    "answer": "Hydra"
+  },
+  {
+    "question": "In sexual reproduction, despite the tremendous difference in size between the sperm and egg, what is true about their genetic contribution to the offspring?",
+    "options": [
+      "Sperm contributes more genetic material",
+      "Egg contributes more genetic material",
+      "They contribute equally to the genetic character",
+      "Only the egg contributes to genetic character"
+    ],
+    "answer": "They contribute equally to the genetic character"
+  },
+  {
+    "question": "What are diploid body cells that form the organism called?",
+    "options": [
+      "Gametes",
+      "Germ-line cells",
+      "Somatic cells",
+      "Haploid cells"
+    ],
+    "answer": "Somatic cells"
+  },
+  {
+    "question": "Which type of cell undergoes meiosis to produce haploid gametes (sperm and egg)?",
+    "options": [
+      "Somatic cells",
+      "Neurons",
+      "Germ-line cells",
+      "Muscle cells"
+    ],
+    "answer": "Germ-line cells"
+  },
+  {
+    "question": "How do germ-line cells and somatic cells fundamentally differ in their function?",
+    "options": [
+      "Germ-line cells are diploid, while somatic cells are haploid",
+      "Germ-line cells form the organism, while somatic cells produce gametes",
+      "Somatic cells produce gametes, while germ-line cells form the organism",
+      "Germ-line cells produce gametes, while somatic cells form the organism"
+    ],
+    "answer": "Germ-line cells produce gametes, while somatic cells form the organism"
+  },
+  {
+    "question": "Both mitosis and meiosis begin with a round of chromosome duplication, turning a 2N nucleus into what state?",
+    "options": [
+      "1N",
+      "2N",
+      "3N",
+      "4N"
+    ],
+    "answer": "4N"
+  },
+  {
+    "question": "How many cell divisions are involved in mitosis?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "answer": "One"
+  },
+  {
+    "question": "How many successive cell divisions are involved in meiosis?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "answer": "Two"
+  },
+  {
+    "question": "What is the outcome of mitosis?",
+    "options": [
+      "Four genetically nonidentical haploid nuclei",
+      "Two genetically identical diploid nuclei",
+      "Two genetically identical haploid nuclei",
+      "Four genetically nonidentical diploid nuclei"
+    ],
+    "answer": "Two genetically identical diploid nuclei"
+  },
+  {
+    "question": "What is the outcome of meiosis?",
+    "options": [
+      "Four genetically nonidentical haploid nuclei",
+      "Two genetically identical diploid nuclei",
+      "Two genetically identical haploid nuclei",
+      "Four genetically nonidentical diploid nuclei"
+    ],
+    "answer": "Four genetically nonidentical haploid nuclei"
+  },
+  {
+    "question": "During Meiosis I, duplicated homologous chromosomes pair up before lining up on the meiotic spindle. How does this contrast with mitosis?",
+    "options": [
+      "In mitosis, chromosomes also pair up",
+      "In mitosis, chromosomes line up individually",
+      "In mitosis, there is no spindle",
+      "In mitosis, only homologous chromosomes line up"
+    ],
+    "answer": "In mitosis, chromosomes line up individually"
+  },
+  {
+    "question": "What is the structure formed by the pairing of duplicated maternal and paternal homologous chromosomes in Meiosis I called?",
+    "options": [
+      "Monovalent",
+      "Sister chromatid",
+      "Centromere",
+      "Bivalent"
+    ],
+    "answer": "Bivalent"
+  },
+  {
+    "question": "Which of the following is the first molecular step in recombination (crossing-over) during meiosis?",
+    "options": [
+      "Nuclease digestion of 5' ends",
+      "Strand exchange",
+      "Double-strand break",
+      "Additional DNA synthesis and ligation"
+    ],
+    "answer": "Double-strand break"
+  },
+  {
+    "question": "What is the primary function of the synaptonemal complex?",
+    "options": [
+      "To degrade spindle fibers",
+      "To separate sister chromatids",
+      "To align duplicated homolog pairs",
+      "To initiate DNA replication"
+    ],
+    "answer": "To align duplicated homolog pairs"
+  },
+  {
+    "question": "The synaptonemal complex consists of axial cores linked by what structures, spanning a distance of roughly 100 nm?",
+    "options": [
+      "Centromeres",
+      "Kinetochores",
+      "Transverse filaments",
+      "Spindle microtubules"
+    ],
+    "answer": "Transverse filaments"
+  },
+  {
+    "question": "What are the physical connections created by crossover events between non-sister chromatids called, which help ensure proper segregation?",
+    "options": [
+      "Centromeres",
+      "Kinetochores",
+      "Chiasmata",
+      "Synaptonemal complexes"
+    ],
+    "answer": "Chiasmata"
+  },
+  {
+    "question": "A genetic mutation prevents the formation of transverse filaments within the synaptonemal complex. What would be the most immediate consequence of this mutation during meiosis?",
+    "options": [
+      "Sister chromatids would fail to separate in Meiosis II",
+      "Homologous chromosomes would not properly align or pair during Meiosis I",
+      "DNA replication would be inhibited",
+      "Kinetochores would fail to attach to microtubules"
+    ],
+    "answer": "Homologous chromosomes would not properly align or pair during Meiosis I"
+  },
+  {
+    "question": "In Meiosis I, how do kinetochores on sister chromatids function?",
+    "options": [
+      "Independently and point in opposite directions",
+      "Independently and point in the same direction",
+      "As a single unit and point in the same direction",
+      "As a single unit and point in opposite directions"
+    ],
+    "answer": "As a single unit and point in the same direction"
+  },
+  {
+    "question": "During segregation in Meiosis I, what happens to the arms of sister chromatids and the sister chromatids themselves?",
+    "options": [
+      "The arms of sister chromatids remain glued, and sister chromatids separate",
+      "The arms of sister chromatids become unglued, and sister chromatids separate",
+      "The arms of sister chromatids become unglued, but sister chromatids remain attached",
+      "The arms of sister chromatids remain glued, and sister chromatids remain attached"
+    ],
+    "answer": "The arms of sister chromatids become unglued, but sister chromatids remain attached"
+  },
+  {
+    "question": "A scientist observes a cell undergoing division where duplicated homologous chromosomes are paired and aligned on the metaphase plate, and kinetochores of sister chromatids are oriented in the same direction. This cell is most likely in which phase of which process?",
+    "options": [
+      "Metaphase of mitosis",
+      "Metaphase II of meiosis",
+      "Metaphase I of meiosis",
+      "Anaphase of mitosis"
+    ],
+    "answer": "Metaphase I of meiosis"
+  },
+  {
+    "question": "In Meiosis II, how do the kinetochores on each sister chromatid function?",
+    "options": [
+      "As a single unit",
+      "Independently",
+      "In tandem",
+      "Not at all"
+    ],
+    "answer": "Independently"
+  },
+  {
+    "question": "What event allows sister chromatids to separate and be pulled to opposite poles in Meiosis II?",
+    "options": [
+      "Formation of chiasmata",
+      "Degradation of cohesins at the centromere",
+      "Replication of DNA",
+      "Pairing of homologous chromosomes"
+    ],
+    "answer": "Degradation of cohesins at the centromere"
+  },
+  {
+    "question": "Consider a rare condition where the kinetochores on sister chromatids in Meiosis II behave as a single unit and point in the same direction, similar to Meiosis I. What would be the most likely outcome for the resulting gametes?",
+    "options": [
+      "All gametes would be diploid",
+      "All gametes would contain an incorrect number of chromosomes due to failure of sister chromatid separation",
+      "All gametes would be genetically identical",
+      "Meiosis would arrest before Meiosis II begins"
+    ],
+    "answer": "All gametes would contain an incorrect number of chromosomes due to failure of sister chromatid separation"
+  },
+  {
+    "question": "Which of the following is NOT a source of genetic variation listed for sexual reproduction?",
+    "options": [
+      "Independent assortment",
+      "Crossing-over",
+      "Fertilization",
+      "Somatic cell mutation"
+    ],
+    "answer": "Somatic cell mutation"
+  },
+  {
+    "question": "What phenomenon explains Mendel's law of independent assortment regarding chromosome behavior?",
+    "options": [
+      "Crossing-over between homologous chromosomes",
+      "Random alignment of maternal and paternal homologs on the spindle during Metaphase I",
+      "Fertilization of genetically unique gametes",
+      "Degradation of cohesins during Anaphase II"
+    ],
+    "answer": "Random alignment of maternal and paternal homologs on the spindle during Metaphase I"
+  },
+  {
+    "question": "What is the term for errors in chromosome segregation that can result in gametes with incorrect numbers of chromosomes (aneuploidy)?",
+    "options": [
+      "Recombination",
+      "Independent assortment",
+      "Nondisjunction",
+      "Translocation"
+    ],
+    "answer": "Nondisjunction"
+  },
+  {
+    "question": "A child has Down Syndrome, resulting from a gamete with two copies of Chromosome 21. If this nondisjunction occurred during Meiosis I, how many chromosome 21s were present in the contributing gamete?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "2"
+  },
+  {
+    "question": "A genetic test reveals that a human zygote has a monosomy for chromosome 18 (only one copy). Which meiotic error in a parental germ-line cell would directly lead to a gamete lacking chromosome 18, thus causing this monosomy upon fertilization with a normal gamete?",
+    "options": [
+      "Nondisjunction of homologous chromosomes in Meiosis I, resulting in a gamete with zero copies of chromosome 18",
+      "Nondisjunction of sister chromatids in Meiosis II, resulting in a gamete with zero copies of chromosome 18",
+      "A translocation event involving chromosome 18",
+      "An inversion within chromosome 18"
+    ],
+    "answer": "Nondisjunction of homologous chromosomes in Meiosis I, resulting in a gamete with zero copies of chromosome 18"
+  },
+  {
+    "question": "Before modern genetics, what was one disproven theory of inheritance?",
+    "options": [
+      "That genetic traits were passed down solely from the mother",
+      "That genetic traits were passed down solely from the father",
+      "That genetic traits were entirely random",
+      "That genetic traits were only acquired during an organism's life"
+    ],
+    "answer": "That genetic traits were passed down solely from the father"
+  },
+  {
+    "question": "Who disproved the theory that genetic traits were passed down solely from the father by showing traits are inherited in a discrete fashion?",
+    "options": [
+      "Watson",
+      "Crick",
+      "Mendel",
+      "Morgan"
+    ],
+    "answer": "Mendel"
+  },
+  {
+    "question": "If a true-breeding yellow pea plant (dominant) is crossed with a true-breeding green pea plant (recessive), what percentage of the F1 offspring will have yellow peas?",
+    "options": [
+      "25%",
+      "50%",
+      "75%",
+      "100%"
+    ],
+    "answer": "100%"
+  },
+  {
+    "question": "According to Mendel's Law of Segregation, what happens to alleles during gamete formation?",
+    "options": [
+      "They combine with each other",
+      "They replicate",
+      "They segregate from each other",
+      "They mutate"
+    ],
+    "answer": "They segregate from each other"
+  },
+  {
+    "question": "If the F1 generation with a genotype of Yy (for pea color, where Y is yellow and y is green) is self-fertilized, what is the expected genotypic ratio of the F2 generation?",
+    "options": [
+      "100% Yy",
+      "50% YY, 50% yy",
+      "25% YY, 50% Yy, 25% yy",
+      "75% Yy, 25% YY"
+    ],
+    "answer": "25% YY, 50% Yy, 25% yy"
+  },
+  {
+    "question": "Following self-fertilization of an F1 generation (genotype Yy), what is the expected phenotypic ratio for the dominant trait (e.g., yellow peas) versus the recessive trait (e.g., green peas)?",
+    "options": [
+      "100% dominant",
+      "75% dominant to 25% recessive",
+      "50% dominant to 50% recessive",
+      "25% dominant to 75% recessive"
+    ],
+    "answer": "75% dominant to 25% recessive"
+  },
+  {
+    "question": "Which of Mendel's laws is demonstrated by dihybrid crosses, where alleles for different traits segregate independently?",
+    "options": [
+      "Law of Segregation",
+      "Law of Dominance",
+      "Law of Independent Assortment",
+      "Law of Linkage"
+    ],
+    "answer": "Law of Independent Assortment"
+  },
+  {
+    "question": "A specific trait in humans, like the ability to taste certain substances, exhibits dominant and recessive patterns. If an individual cannot taste the substance (recessive phenotype), what must their genotype be?",
+    "options": [
+      "Homozygous dominant",
+      "Heterozygous",
+      "Homozygous recessive",
+      "Cannot be determined"
+    ],
+    "answer": "Homozygous recessive"
+  },
+  {
+    "question": "A plant breeder crosses two pea plants that are both heterozygous for pea shape (Rr, where R is round and r is wrinkled) and flower color (Pp, where P is purple and p is white). If these genes assort independently, what proportion of the offspring are expected to have wrinkled peas and white flowers?",
+    "options": [
+      "1/16",
+      "3/16",
+      "9/16",
+      "1/4"
+    ],
+    "answer": "1/16"
+  },
+  {
+    "question": "What is a known risk factor associated with consanguineous marriages?",
+    "options": [
+      "Increased genetic diversity",
+      "Decreased prevalence of recessive alleles",
+      "Increased prevalence of inheriting disease-causing alleles",
+      "Enhanced immune response"
+    ],
+    "answer": "Increased prevalence of inheriting disease-causing alleles"
+  },
+  {
+    "question": "What characteristic defines complex diseases like obesity, as described in the notes?",
+    "options": [
+      "Caused by a single gene",
+      "Rare and localized",
+      "Involving interaction between multiple genes and the environment",
+      "Primarily due to viral infection"
+    ],
+    "answer": "Involving interaction between multiple genes and the environment"
+  },
+  {
+    "question": "A pedigree analysis of a rare recessive disease shows that two unaffected parents have a child with the disease. What is the most likely genotype of the parents?",
+    "options": [
+      "Both homozygous dominant",
+      "One homozygous dominant and one heterozygous",
+      "Both heterozygous",
+      "One heterozygous and one homozygous recessive"
+    ],
+    "answer": "Both heterozygous"
+  },
+  {
+    "question": "If two genes are reassorted in x% of gametes, what is the genetic map distance separating them?",
+    "options": [
+      "x base pairs",
+      "x nucleotides",
+      "x map units (centimorgans)",
+      "x micrometers"
+    ],
+    "answer": "x map units (centimorgans)"
+  },
+  {
+    "question": "In a test cross, recombinant offspring for two genes (A and B) constitute 15% of the total progeny. What is the genetic distance between genes A and B?",
+    "options": [
+      "0.15 cM",
+      "1.5 cM",
+      "15 cM",
+      "85 cM"
+    ],
+    "answer": "15 cM"
+  },
+  {
+    "question": "Two mutant strains of Drosophila both exhibit a white-eyed phenotype, which is recessive to red eyes. When these two mutant strains are crossed, all of the F1 offspring have red eyes. What conclusion can be drawn from this result?",
+    "options": [
+      "The mutations are dominant",
+      "The mutations are in the same gene",
+      "The mutations are in two different genes",
+      "The white-eyed phenotype is due to an environmental factor"
+    ],
+    "answer": "The mutations are in two different genes"
+  },
+  {
+    "question": "A mutation in a protein-coding gene that typically results in a loss of protein function is usually described as what type of mutation?",
+    "options": [
+      "Dominant",
+      "Gain-of-function",
+      "Recessive",
+      "Neutral"
+    ],
+    "answer": "Recessive"
+  },
+  {
+    "question": "What is the primary purpose of a complementation test?",
+    "options": [
+      "To identify the exact nucleotide change in a mutation",
+      "To determine if two recessive mutations producing the same phenotype are in the same gene or different genes",
+      "To measure the rate of spontaneous mutation",
+      "To create new mutant alleles"
+    ],
+    "answer": "To determine if two recessive mutations producing the same phenotype are in the same gene or different genes"
+  },
+  {
+    "question": "Which method for genome-wide screens involves organisms ingesting bacteria expressing dsRNA to silence specific genes?",
+    "options": [
+      "UV mutagenesis",
+      "Chemical mutagenesis",
+      "RNA Interference (RNAi)",
+      "X-ray mutagenesis"
+    ],
+    "answer": "RNA Interference (RNAi)"
+  },
+  {
+    "question": "What is a characteristic of temperature-sensitive mutants, useful for studying essential genes?",
+    "options": [
+      "They grow at 36°C but fail at 23°C",
+      "They grow at both 23°C and 36°C",
+      "They fail at both 23°C and 36°C",
+      "They grow at 23°C but fail at 36°C"
+    ],
+    "answer": "They grow at 23°C but fail at 36°C"
+  },
+  {
+    "question": "Which type of molecular change is NOT listed as being caused by DNA-damaging agents (mutagens) in protein-coding genes?",
+    "options": [
+      "Nucleotide substitutions",
+      "Insertions",
+      "Deletions",
+      "Chromosomal translocations"
+    ],
+    "answer": "Chromosomal translocations"
+  },
+  {
+    "question": "A new chemical compound is found to increase the activity of a specific enzyme pathway by 200%, leading to overproduction of an essential metabolite. If a genetic mutation were to mimic this effect, what type of mutation would it most likely be classified as?",
+    "options": [
+      "Loss-of-function recessive",
+      "Loss-of-function dominant",
+      "Gain-of-function recessive",
+      "Gain-of-function dominant"
+    ],
+    "answer": "Gain-of-function dominant"
+  },
+  {
+    "question": "A GWAS study identifies a SNP that is strongly associated with an increased risk of developing Type 2 Diabetes. This SNP is located within a non-coding region 100kb away from a gene known to be involved in insulin signaling. Based on this finding and the principles of linkage analysis, what can be inferred?",
+    "options": [
+      "The SNP directly causes Type 2 Diabetes.",
+      "The gene 100kb away is definitively the causative gene.",
+      "The SNP is in linkage disequilibrium with a causative variant, which could be the gene 100kb away or another nearby regulatory element.",
+      "The SNP is a mutation that confers resistance to Type 2 Diabetes."
+    ],
+    "answer": "The SNP is in linkage disequilibrium with a causative variant, which could be the gene 100kb away or another nearby regulatory element."
+  }
+]

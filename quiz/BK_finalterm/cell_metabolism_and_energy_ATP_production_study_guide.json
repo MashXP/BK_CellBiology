@@ -1,0 +1,502 @@
+[
+  {
+    "question": "What is the primary purpose of cellular energy derived from food molecules?",
+    "options": [
+      "To produce structural components for the cell membrane.",
+      "To store genetic information efficiently.",
+      "To fuel growth, division, and other cellular activities.",
+      "To neutralize toxic byproducts of metabolism."
+    ],
+    "answer": "To fuel growth, division, and other cellular activities."
+  },
+  {
+    "question": "From which components do cells primarily obtain energy through cell metabolism?",
+    "options": [
+      "Water and inorganic salts.",
+      "Sugars, fats, and proteins.",
+      "Nucleic acids and vitamins.",
+      "Oxygen and carbon dioxide."
+    ],
+    "answer": "Sugars, fats, and proteins."
+  },
+  {
+    "question": "Which of the following are examples of 'activated carriers' that capture energy from food molecule breakdown?",
+    "options": [
+      "CO2 and H2O.",
+      "ADP and Pi.",
+      "ATP and NADH.",
+      "Amino acids and simple sugars."
+    ],
+    "answer": "ATP and NADH."
+  },
+  {
+    "question": "Cell respiration involves the breakdown and oxidation of sugar molecules into what final products?",
+    "options": [
+      "Pyruvate and lactate.",
+      "Acetyl CoA and succinate.",
+      "Carbon dioxide (CO2) and water (H2O).",
+      "Ethanol and oxygen."
+    ],
+    "answer": "Carbon dioxide (CO2) and water (H2O)."
+  },
+  {
+    "question": "The outer mitochondrial membrane is permeable to molecules up to approximately 5000 daltons due to the presence of which type of proteins?",
+    "options": [
+      "ATP synthase.",
+      "Electron transport chain components.",
+      "Porins.",
+      "Cytochromes."
+    ],
+    "answer": "Porins."
+  },
+  {
+    "question": "The inner mitochondrial membrane is characterized by folds known as what?",
+    "options": [
+      "Stroma.",
+      "Grana.",
+      "Cristae.",
+      "Thylakoids."
+    ],
+    "answer": "Cristae."
+  },
+  {
+    "question": "What is the large internal space of the mitochondrion called, which contains enzymes for the citric acid cycle and fatty acid oxidation?",
+    "options": [
+      "Cytosol.",
+      "Intermembrane space.",
+      "Matrix.",
+      "Lumen."
+    ],
+    "answer": "Matrix."
+  },
+  {
+    "question": "The intermembrane space of the mitochondrion contains enzymes that use ATP from the matrix to phosphorylate other nucleotides and also contains proteins released during which cellular process?",
+    "options": [
+      "Replication.",
+      "Translation.",
+      "Apoptosis.",
+      "Photosynthesis."
+    ],
+    "answer": "Apoptosis."
+  },
+  {
+    "question": "In the first stage of food molecule breakdown, large food molecules are broken down into simpler subunits. Which of the following is a product of this stage?",
+    "options": [
+      "Acetyl CoA.",
+      "Pyruvate.",
+      "Simple sugars.",
+      "Carbon dioxide."
+    ],
+    "answer": "Simple sugars."
+  },
+  {
+    "question": "What is the key product formed from simple subunits (like glucose or fatty acids) in the second stage of food molecule breakdown?",
+    "options": [
+      "Pyruvate.",
+      "Lactate.",
+      "Acetyl CoA.",
+      "Carbon dioxide."
+    ],
+    "answer": "Acetyl CoA."
+  },
+  {
+    "question": "What are the final products of the complete oxidation of acetyl groups in the third stage of food molecule breakdown?",
+    "options": [
+      "ATP and NADH.",
+      "Pyruvate and lactate.",
+      "Amino acids and fatty acids.",
+      "CO2 and H2O."
+    ],
+    "answer": "CO2 and H2O."
+  },
+  {
+    "question": "Where does glycolysis, the 'sugar splitting' pathway, occur in most cells?",
+    "options": [
+      "Mitochondrial matrix.",
+      "Inner mitochondrial membrane.",
+      "Cytosol.",
+      "Nucleus."
+    ],
+    "answer": "Cytosol."
+  },
+  {
+    "question": "Does glycolysis require molecular oxygen?",
+    "options": [
+      "Yes, it is strictly aerobic.",
+      "No, it is an anaerobic process.",
+      "Only if glucose is the substrate.",
+      "Only during the energy investment phase."
+    ],
+    "answer": "No, it is an anaerobic process."
+  },
+  {
+    "question": "Which enzyme in glycolysis phosphorylates glucose to glucose 6-phosphate, effectively trapping glucose inside the cell?",
+    "options": [
+      "Phosphofructokinase.",
+      "Pyruvate kinase.",
+      "Hexokinase.",
+      "Aldolase."
+    ],
+    "answer": "Hexokinase."
+  },
+  {
+    "question": "Which enzyme catalyzes a key control point in glycolysis by phosphorylating Fructose 6-phosphate to Fructose 1,6-bisphosphate?",
+    "options": [
+      "Hexokinase.",
+      "Phosphofructokinase.",
+      "Pyruvate kinase.",
+      "Glyceraldehyde 3-phosphate dehydrogenase."
+    ],
+    "answer": "Phosphofructokinase."
+  },
+  {
+    "question": "What is the final three-carbon product of glycolysis?",
+    "options": [
+      "Lactate.",
+      "Ethanol.",
+      "Acetyl CoA.",
+      "Pyruvate."
+    ],
+    "answer": "Pyruvate."
+  },
+  {
+    "question": "What is the main purpose of fermentation in the absence of oxygen?",
+    "options": [
+      "To produce large amounts of ATP directly.",
+      "To completely oxidize glucose to CO2 and H2O.",
+      "To regenerate NAD+ for glycolysis to continue.",
+      "To produce water for cellular hydration."
+    ],
+    "answer": "To regenerate NAD+ for glycolysis to continue."
+  },
+  {
+    "question": "Where does the Citric Acid Cycle (Krebs Cycle) occur within the cell?",
+    "options": [
+      "Cytosol.",
+      "Inner mitochondrial membrane.",
+      "Mitochondrial matrix.",
+      "Intermembrane space."
+    ],
+    "answer": "Mitochondrial matrix."
+  },
+  {
+    "question": "What molecule enters the Citric Acid Cycle by combining with oxaloacetate?",
+    "options": [
+      "Pyruvate.",
+      "Glucose.",
+      "Lactate.",
+      "Acetyl CoA."
+    ],
+    "answer": "Acetyl CoA."
+  },
+  {
+    "question": "Intermediates from glycolysis and the Citric Acid Cycle can be used in anabolic pathways to synthesize which types of molecules?",
+    "options": [
+      "CO2 and H2O.",
+      "ATP and NADH.",
+      "Amino acids, nucleotides, and lipids.",
+      "Oxygen and alcohol."
+    ],
+    "answer": "Amino acids, nucleotides, and lipids."
+  },
+  {
+    "question": "Which two general mechanisms are mentioned for coordinating enzyme activities in metabolic pathways?",
+    "options": [
+      "Transcription and translation.",
+      "DNA replication and repair.",
+      "Phosphorylation/Dephosphorylation and allosteric regulation.",
+      "Glycosylation and methylation."
+    ],
+    "answer": "Phosphorylation/Dephosphorylation and allosteric regulation."
+  },
+  {
+    "question": "What is the primary purpose of oxidative phosphorylation?",
+    "options": [
+      "To store glucose as glycogen.",
+      "To generate the bulk of cellular ATP.",
+      "To break down proteins into amino acids.",
+      "To synthesize lipids."
+    ],
+    "answer": "To generate the bulk of cellular ATP."
+  },
+  {
+    "question": "Where is the electron-transport chain located in mitochondria?",
+    "options": [
+      "Outer mitochondrial membrane.",
+      "Mitochondrial matrix.",
+      "Inner mitochondrial membrane.",
+      "Intermembrane space."
+    ],
+    "answer": "Inner mitochondrial membrane."
+  },
+  {
+    "question": "What is the final electron acceptor in the mitochondrial electron-transport chain?",
+    "options": [
+      "NADH.",
+      "FADH2.",
+      "Water.",
+      "Oxygen."
+    ],
+    "answer": "Oxygen."
+  },
+  {
+    "question": "What is the main function of ATP synthase?",
+    "options": [
+      "To pump protons into the intermembrane space.",
+      "To transfer electrons to oxygen.",
+      "To synthesize ATP using the energy of a proton gradient.",
+      "To break down ATP for cellular work."
+    ],
+    "answer": "To synthesize ATP using the energy of a proton gradient."
+  },
+  {
+    "question": "What is the primary purpose of photosynthesis in plant and algal cells?",
+    "options": [
+      "To generate heat for cellular warmth.",
+      "To convert light energy into chemical energy to fix carbon.",
+      "To break down complex sugars into simple ones.",
+      "To release oxygen as a waste product."
+    ],
+    "answer": "To convert light energy into chemical energy to fix carbon."
+  },
+  {
+    "question": "What are the main products of the light reactions (Stage 1) of photosynthesis?",
+    "options": [
+      "Glucose and O2.",
+      "CO2 and H2O.",
+      "ATP and NADPH.",
+      "Starch and lipids."
+    ],
+    "answer": "ATP and NADPH."
+  },
+  {
+    "question": "Where does the carbon-fixation cycle (Calvin Cycle) take place within a chloroplast?",
+    "options": [
+      "Inner membrane.",
+      "Thylakoid membrane.",
+      "Stroma.",
+      "Grana."
+    ],
+    "answer": "Stroma."
+  },
+  {
+    "question": "Which enzyme catalyzes the carbon fixation step in the Calvin Cycle by combining CO2 with Ribulose 1,5-bisphosphate?",
+    "options": [
+      "ATP synthase.",
+      "NADH dehydrogenase.",
+      "Rubisco.",
+      "Phosphofructokinase."
+    ],
+    "answer": "Rubisco."
+  },
+  {
+    "question": "What is the role of the water-splitting enzyme in Photosystem II?",
+    "options": [
+      "To combine hydrogen and oxygen to form water.",
+      "To produce ATP directly from water.",
+      "To extract electrons from water, releasing O2 and H+.",
+      "To transport water molecules across the thylakoid membrane."
+    ],
+    "answer": "To extract electrons from water, releasing O2 and H+."
+  },
+  {
+    "question": "Compared to modern combustion engines that capture ~20% of glucose energy as useful work, approximately what percentage of the theoretical energy from glucose breakdown can be captured as ATP in cells?",
+    "options": [
+      "10%.",
+      "25%.",
+      "50%.",
+      "75%."
+    ],
+    "answer": "50%."
+  },
+  {
+    "question": "Which feature of mitochondria supports the endosymbiotic theory?",
+    "options": [
+      "Their extensive cristae folding.",
+      "Their ability to form dynamic networks.",
+      "Their location near sites of high ATP utilization.",
+      "Their ability to divide like bacteria and presence of their own DNA and ribosomes."
+    ],
+    "answer": "Their ability to divide like bacteria and presence of their own DNA and ribosomes."
+  },
+  {
+    "question": "In animals, what is the sequence of locations where the three stages of food molecule breakdown (catabolism) typically occur?",
+    "options": [
+      "Cytosol, Mitochondrial matrix, Inner mitochondrial membrane.",
+      "Intestine/Lysosomes, Cytosol, Mitochondrial matrix/Inner mitochondrial membrane.",
+      "Mitochondrial matrix, Cytosol, Intermembrane space.",
+      "Nucleus, Cytosol, Lysosomes."
+    ],
+    "answer": "Intestine/Lysosomes, Cytosol, Mitochondrial matrix/Inner mitochondrial membrane."
+  },
+  {
+    "question": "Which class of enzymes in glycolysis catalyzes the transfer of a phosphate group from ATP to a substrate or from a phosphorylated substrate to ADP?",
+    "options": [
+      "Isomerase.",
+      "Dehydrogenase.",
+      "Mutase.",
+      "Kinase."
+    ],
+    "answer": "Kinase."
+  },
+  {
+    "question": "In glycolysis Step 6, the oxidation of glyceraldehyde 3-phosphate is coupled to which two events?",
+    "options": [
+      "ATP hydrolysis and CO2 release.",
+      "NAD+ reduction to NADH and formation of a high-energy anhydride bond.",
+      "Water removal and phosphate group movement.",
+      "Glucose phosphorylation and isomerization."
+    ],
+    "answer": "NAD+ reduction to NADH and formation of a high-energy anhydride bond."
+  },
+  {
+    "question": "How does anaerobic respiration differ from fermentation?",
+    "options": [
+      "Anaerobic respiration produces more ATP.",
+      "Anaerobic respiration uses an electron-transport chain with a final electron acceptor other than oxygen.",
+      "Fermentation only occurs in muscle cells, while anaerobic respiration occurs in yeast.",
+      "Anaerobic respiration directly produces ethanol, while fermentation produces lactate."
+    ],
+    "answer": "Anaerobic respiration uses an electron-transport chain with a final electron acceptor other than oxygen."
+  },
+  {
+    "question": "In the Citric Acid Cycle, a high-energy phosphate bond is formed during the conversion of Succinyl CoA to Succinate, leading to the production of which activated carrier (via substrate-level phosphorylation)?",
+    "options": [
+      "ATP (in most cells, as GTP).",
+      "NADH.",
+      "FADH2.",
+      "Acetyl CoA."
+    ],
+    "answer": "ATP (in most cells, as GTP)."
+  },
+  {
+    "question": "Which of the following is an example of reciprocal regulation between glucose synthesis and breakdown pathways?",
+    "options": [
+      "Hexokinase and phosphoglucose isomerase.",
+      "Rubisco and ATP synthase.",
+      "Phosphofructokinase (glycolysis) and Fructose 1,6-bisphosphatase (gluconeogenesis) regulated by ATP/ADP levels.",
+      "NADH dehydrogenase and Cytochrome c oxidase."
+    ],
+    "answer": "Phosphofructokinase (glycolysis) and Fructose 1,6-bisphosphatase (gluconeogenesis) regulated by ATP/ADP levels."
+  },
+  {
+    "question": "The electrochemical proton gradient across the inner mitochondrial membrane is composed of which two main forces?",
+    "options": [
+      "Kinetic energy and potential energy.",
+      "Membrane potential (ΔV) and pH gradient (ΔpH).",
+      "Osmotic pressure and hydrostatic pressure.",
+      "Concentration gradient of Na+ and K+."
+    ],
+    "answer": "Membrane potential (ΔV) and pH gradient (ΔpH)."
+  },
+  {
+    "question": "Photosystems I and II work in series during the light reactions of photosynthesis to achieve what overall outcome?",
+    "options": [
+      "To fix carbon dioxide into sugar.",
+      "To produce oxygen without ATP.",
+      "To boost electrons to the energy level needed to produce both ATP and NADPH.",
+      "To only generate a proton gradient for ATP synthesis."
+    ],
+    "answer": "To boost electrons to the energy level needed to produce both ATP and NADPH."
+  },
+  {
+    "question": "A patient is diagnosed with a genetic condition leading to defective porins in the mitochondrial outer membrane. Which of the following would be a direct consequence?",
+    "options": [
+      "Increased permeability of the inner mitochondrial membrane to protons.",
+      "Inhibition of the electron transport chain components located on the inner membrane.",
+      "Reduced transport of pyruvate and fatty acids into the mitochondrial matrix.",
+      "Enhanced ATP synthesis due to improved membrane integrity."
+    ],
+    "answer": "Reduced transport of pyruvate and fatty acids into the mitochondrial matrix."
+  },
+  {
+    "question": "A rare genetic disorder results in a complete deficiency of pyruvate kinase. Considering the final step of glycolysis, what would be the most immediate and significant consequence for a cell primarily relying on glucose for energy under aerobic conditions?",
+    "options": [
+      "Excessive production of ATP from the Citric Acid Cycle.",
+      "Accumulation of pyruvate in the mitochondrial matrix.",
+      "Reduced regeneration of NAD+ for glycolysis, leading to impaired ATP production.",
+      "Increased conversion of pyruvate to lactate."
+    ],
+    "answer": "Reduced regeneration of NAD+ for glycolysis, leading to impaired ATP production."
+  },
+  {
+    "question": "In a scenario where the enzyme glyceraldehyde 3-phosphate dehydrogenase (Step 6 of glycolysis) is completely inhibited, what would be the most direct metabolic consequence?",
+    "options": [
+      "Pyruvate would accumulate, leading to increased lactate production.",
+      "NAD+ would accumulate, preventing further ATP synthesis.",
+      "Glyceraldehyde 3-phosphate would accumulate, and NADH production would cease from this step.",
+      "Glucose would be rapidly converted to glycogen to bypass the blockage."
+    ],
+    "answer": "Glyceraldehyde 3-phosphate would accumulate, and NADH production would cease from this step."
+  },
+  {
+    "question": "In an experiment, isolated mitochondria are provided with pyruvate but no oxygen. What would be the most immediate effect on the Citric Acid Cycle and oxidative phosphorylation?",
+    "options": [
+      "Both the Citric Acid Cycle and oxidative phosphorylation would continue normally.",
+      "The Citric Acid Cycle would proceed, but oxidative phosphorylation would cease due to lack of a final electron acceptor.",
+      "Both the Citric Acid Cycle and oxidative phosphorylation would cease due to lack of NAD+ regeneration.",
+      "Oxidative phosphorylation would proceed, but the Citric Acid Cycle would cease."
+    ],
+    "answer": "Both the Citric Acid Cycle and oxidative phosphorylation would cease due to lack of NAD+ regeneration."
+  },
+  {
+    "question": "If a genetic defect completely blocks the conversion of pyruvate to acetyl CoA, but a cell still has ample glucose and all other enzymes are functional, how would this primarily affect the cell's ability to synthesize fatty acids, which require acetyl CoA as a precursor?",
+    "options": [
+      "Fatty acid synthesis would be enhanced due to accumulation of pyruvate.",
+      "Fatty acid synthesis would cease, as acetyl CoA from glucose metabolism is unavailable.",
+      "Fatty acid synthesis would be unaffected, as alternative sources of acetyl CoA are readily available.",
+      "Fatty acid synthesis would shift to use amino acids as the primary precursor."
+    ],
+    "answer": "Fatty acid synthesis would cease, as acetyl CoA from glucose metabolism is unavailable."
+  },
+  {
+    "question": "Chlorophyll primarily absorbs red and blue wavelengths of light. If a plant is exclusively exposed to green light, how would its photosynthetic output be most significantly affected?",
+    "options": [
+      "Photosynthesis would be optimized due to minimal heat absorption.",
+      "Photosynthesis would be unaffected as green light provides sufficient energy.",
+      "Photosynthesis would be severely limited or cease due to chlorophyll's poor absorption of green light.",
+      "The plant would shift to anaerobic respiration to compensate for light deficiency."
+    ],
+    "answer": "Photosynthesis would be severely limited or cease due to chlorophyll's poor absorption of green light."
+  },
+  {
+    "question": "A novel drug is discovered that specifically inhibits the NADH dehydrogenase complex (Complex I) in the electron-transport chain. What would be the most immediate and direct consequence on proton pumping and electron flow within the mitochondria?",
+    "options": [
+      "Electron flow from FADH2 would be enhanced, compensating for the block.",
+      "Proton pumping by all complexes would cease immediately, as Complex I is the sole pump.",
+      "Electron flow from NADH would halt, preventing proton pumping by Complex I, and subsequently reducing flow through the rest of the chain.",
+      "The Citric Acid Cycle would accelerate to provide alternative electron donors."
+    ],
+    "answer": "Electron flow from NADH would halt, preventing proton pumping by Complex I, and subsequently reducing flow through the rest of the chain."
+  },
+  {
+    "question": "Cyanide is a potent poison that binds to the cytochrome c oxidase complex in the electron-transport chain. What is the most immediate and critical effect of cyanide poisoning on cellular metabolism?",
+    "options": [
+      "Increased production of ATP through substrate-level phosphorylation.",
+      "Accumulation of pyruvate in the mitochondrial matrix.",
+      "Prevention of oxygen's role as the final electron acceptor, halting the ETC and oxidative phosphorylation.",
+      "Enhanced activity of the Citric Acid Cycle due to excess NADH."
+    ],
+    "answer": "Prevention of oxygen's role as the final electron acceptor, halting the ETC and oxidative phosphorylation."
+  },
+  {
+    "question": "Dinitrophenol (DNP) is an uncoupling agent. If a person were to ingest DNP, what would be the most likely effect on their cellular metabolism and body temperature?",
+    "options": [
+      "Increased ATP production and decreased body temperature.",
+      "Decreased ATP production and decreased body temperature.",
+      "Increased ATP production and increased body temperature.",
+      "Decreased ATP production and increased body temperature."
+    ],
+    "answer": "Decreased ATP production and increased body temperature."
+  },
+  {
+    "question": "Consider a plant with a mutation resulting in a significantly less efficient Rubisco enzyme. What would be the most direct consequence for the plant's metabolism, assuming normal light reactions?",
+    "options": [
+      "Increased production of glyceraldehyde 3-phosphate and starch.",
+      "Reduced fixation of CO2 into sugars, leading to decreased growth.",
+      "Excessive accumulation of ATP and NADPH due to reduced consumption.",
+      "Enhanced water splitting to compensate for the enzyme defect."
+    ],
+    "answer": "Reduced fixation of CO2 into sugars, leading to decreased growth."
+  }
+]

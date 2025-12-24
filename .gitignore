@@ -3,3 +3,5 @@ _raw
 *.pdf
 *.py
 *.jpg
+.venv/
+*.sh

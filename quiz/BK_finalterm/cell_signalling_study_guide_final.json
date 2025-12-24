@@ -1,0 +1,502 @@
+[
+  {
+    "question": "What is the definition of signal transduction?",
+    "options": [
+      "The process of converting electrical signals into chemical signals.",
+      "The process whereby one type of signal is converted into another.",
+      "The process of transporting signal molecules across the plasma membrane.",
+      "The process of breaking down signaling molecules in the cytoplasm."
+    ],
+    "answer": "The process whereby one type of signal is converted into another."
+  },
+  {
+    "question": "Which form of signaling involves hormones secreted into the bloodstream to reach distant target cells?",
+    "options": [
+      "Paracrine signaling",
+      "Neuronal signaling",
+      "Endocrine signaling",
+      "Contact-dependent signaling"
+    ],
+    "answer": "Endocrine signaling"
+  },
+  {
+    "question": "In paracrine signaling, what type of signaling molecules diffuse locally through the extracellular fluid to nearby cells?",
+    "options": [
+      "Hormones",
+      "Neurotransmitters",
+      "Local mediators",
+      "Membrane-bound signals"
+    ],
+    "answer": "Local mediators"
+  },
+  {
+    "question": "Electrical signals triggering the release of neurotransmitters at synapses to reach specific target cells defines which form of signaling?",
+    "options": [
+      "Endocrine signaling",
+      "Paracrine signaling",
+      "Neuronal signaling",
+      "Contact-dependent signaling"
+    ],
+    "answer": "Neuronal signaling"
+  },
+  {
+    "question": "What is the nature of the signaling molecule Cortisol?",
+    "options": [
+      "Protein",
+      "Amino acid derivative",
+      "Steroid",
+      "Dissolved gas"
+    ],
+    "answer": "Steroid"
+  },
+  {
+    "question": "Which of the following is an example of a local mediator?",
+    "options": [
+      "Insulin",
+      "Acetylcholine",
+      "Epinephrine",
+      "Histamine"
+    ],
+    "answer": "Histamine"
+  },
+  {
+    "question": "Small, hydrophobic signal molecules that can diffuse across the plasma membrane bind to which type of receptor?",
+    "options": [
+      "Cell-surface receptors",
+      "G-protein-coupled receptors",
+      "Intracellular receptors",
+      "Ion-channel-coupled receptors"
+    ],
+    "answer": "Intracellular receptors"
+  },
+  {
+    "question": "According to the lecture, what happens to a cell if it is deprived of necessary survival signals?",
+    "options": [
+      "It undergoes rapid cell division.",
+      "It enters a quiescent state indefinitely.",
+      "It typically undergoes apoptosis.",
+      "It differentiates into a specialized cell type."
+    ],
+    "answer": "It typically undergoes apoptosis."
+  },
+  {
+    "question": "A cellular response that involves altered protein function, such as changes in cell movement or metabolism, and does not require new protein synthesis, is typically categorized as:",
+    "options": [
+      "Slow response (minutes to hours)",
+      "Fast response (seconds to minutes)",
+      "Long-term adaptation",
+      "Genomic response"
+    ],
+    "answer": "Fast response (seconds to minutes)"
+  },
+  {
+    "question": "Which of the following describes the 'amplify' function of intracellular signaling proteins?",
+    "options": [
+      "Passing the signal to the next component in the chain.",
+      "Spreading the signal to more than one effector pathway.",
+      "Making the signal stronger so a few extracellular molecules can evoke a large response.",
+      "Receiving signals from multiple pathways and merging them."
+    ],
+    "answer": "Making the signal stronger so a few extracellular molecules can evoke a large response."
+  },
+  {
+    "question": "What is positive feedback in the context of cell signaling?",
+    "options": [
+      "A downstream component diminishes the response of an upstream component.",
+      "An upstream component enhances the response of a downstream component.",
+      "A downstream component enhances the response of an upstream component.",
+      "Signaling molecules are secreted to activate the same cell that produced them."
+    ],
+    "answer": "A downstream component enhances the response of an upstream component."
+  },
+  {
+    "question": "In signaling by protein phosphorylation, which enzyme is responsible for removing a phosphate group from a protein, typically turning it OFF?",
+    "options": [
+      "Protein Kinase",
+      "ATP Synthase",
+      "Protein Phosphatase",
+      "GTPase"
+    ],
+    "answer": "Protein Phosphatase"
+  },
+  {
+    "question": "Which protein acts as a Guanine nucleotide Exchange Factor (GEF) for monomeric GTPases?",
+    "options": [
+      "It activates the protein by stimulating the hydrolysis of GTP to GDP.",
+      "It inactivates the protein by promoting the exchange of GTP for GDP.",
+      "It activates the protein by promoting the exchange of GDP for GTP.",
+      "It phosphorylates the protein, turning it ON."
+    ],
+    "answer": "It activates the protein by promoting the exchange of GDP for GTP."
+  },
+  {
+    "question": "Which class of cell-surface receptors, when activated, changes the permeability of the plasma membrane to selected ions?",
+    "options": [
+      "G-protein-coupled receptors",
+      "Enzyme-coupled receptors",
+      "Ion-channel-coupled receptors",
+      "Intracellular receptors"
+    ],
+    "answer": "Ion-channel-coupled receptors"
+  },
+  {
+    "question": "What is the characteristic structure of all G-protein-coupled receptors (GPCRs)?",
+    "options": [
+      "A single transmembrane alpha-helix.",
+      "A dimer of two transmembrane domains.",
+      "Seven transmembrane alpha-helices.",
+      "An extracellular ligand-binding domain only."
+    ],
+    "answer": "Seven transmembrane alpha-helices."
+  },
+  {
+    "question": "Upon activation of a GPCR, what is the immediate effect on the associated G protein?",
+    "options": [
+      "The G protein phosphorylates the receptor.",
+      "The G protein hydrolyzes its bound GTP to GDP.",
+      "The receptor acts as a GEF, encouraging the \\alpha subunit to expel GDP and pick up GTP.",
+      "The \\alpha subunit immediately reassociates with the \\beta\\gamma complex."
+    ],
+    "answer": "The receptor acts as a GEF, encouraging the \\alpha subunit to expel GDP and pick up GTP."
+  },
+  {
+    "question": "How does the G\\alpha subunit of a G protein typically inactivate itself?",
+    "options": [
+      "It is dephosphorylated by a protein phosphatase.",
+      "It dissociates from the membrane.",
+      "It hydrolyzes its bound GTP to GDP.",
+      "It binds to the \\beta\\gamma complex and prevents further signaling."
+    ],
+    "answer": "It hydrolyzes its bound GTP to GDP."
+  },
+  {
+    "question": "In heart pacemaker cells, Acetylcholine activates a Gi protein. What is the direct effect of the activated \\beta\\gamma complex?",
+    "options": [
+      "It activates adenylyl cyclase.",
+      "It binds to and opens K+ channels.",
+      "It phosphorylates protein kinase A.",
+      "It stimulates the production of IP3."
+    ],
+    "answer": "It binds to and opens K+ channels."
+  },
+  {
+    "question": "Which enzyme is responsible for converting ATP to cyclic AMP (cAMP)?",
+    "options": [
+      "Cyclic AMP phosphodiesterase",
+      "Adenylyl cyclase",
+      "Protein Kinase A",
+      "Guanylyl cyclase"
+    ],
+    "answer": "Adenylyl cyclase"
+  },
+  {
+    "question": "What is the role of Protein Kinase A (PKA) in the epinephrine-mediated glycogen breakdown pathway in skeletal muscle?",
+    "options": [
+      "PKA directly breaks down glycogen.",
+      "PKA activates glycogen synthase.",
+      "PKA phosphorylates Phosphorylase kinase.",
+      "PKA activates cyclic AMP phosphodiesterase."
+    ],
+    "answer": "PKA phosphorylates Phosphorylase kinase."
+  },
+  {
+    "question": "A rise in intracellular cAMP can activate PKA, which then enters the nucleus to phosphorylate specific transcription regulators. What is the significance of this mechanism?",
+    "options": [
+      "It leads to rapid changes in cell movement.",
+      "It converts a long-term signal into a short-term cellular response.",
+      "It converts a short-term signal into a long-term change in the cell, such as altered gene expression.",
+      "It primarily regulates ion channel activity without affecting gene expression."
+    ],
+    "answer": "It converts a short-term signal into a long-term change in the cell, such as altered gene expression."
+  },
+  {
+    "question": "In the Phospholipase C pathway, what are the two second messengers produced from the cleavage of an inositol phospholipid?",
+    "options": [
+      "cAMP and cGMP",
+      "ATP and ADP",
+      "IP3 and DAG",
+      "Ca2+ and Nitric Oxide"
+    ],
+    "answer": "IP3 and DAG"
+  },
+  {
+    "question": "What is the primary role of IP3 (Inositol 1,4,5-trisphosphate) in the Phospholipase C pathway?",
+    "options": [
+      "It activates Protein Kinase C (PKC).",
+      "It diffuses to the ER and opens Ca2+ channels.",
+      "It serves as a membrane-bound signaling molecule.",
+      "It directly activates transcription regulators in the nucleus."
+    ],
+    "answer": "It diffuses to the ER and opens Ca2+ channels."
+  },
+  {
+    "question": "Which ubiquitous Ca2+-binding protein changes shape upon Ca2+ binding and wraps around target proteins to alter their activity?",
+    "options": [
+      "Actin",
+      "Calmodulin",
+      "Troponin",
+      "Myosin"
+    ],
+    "answer": "Calmodulin"
+  },
+  {
+    "question": "In the Nitric Oxide (NO) signaling pathway, what enzyme produces NO from arginine in endothelial cells?",
+    "options": [
+      "Guanylyl cyclase",
+      "Adenylyl cyclase",
+      "NO synthase (NOS)",
+      "Phosphodiesterase"
+    ],
+    "answer": "NO synthase (NOS)"
+  },
+  {
+    "question": "What is the immediate consequence in adjacent smooth muscle cells when NO diffuses from endothelial cells and binds to Guanylyl cyclase?",
+    "options": [
+      "Production of cAMP and muscle contraction.",
+      "Production of cGMP and muscle relaxation.",
+      "Degradation of IP3 and calcium influx.",
+      "Activation of protein kinase A and muscle spasm."
+    ],
+    "answer": "Production of cGMP and muscle relaxation."
+  },
+  {
+    "question": "Which of the following processes in rod photoreceptors demonstrates massive signal amplification?",
+    "options": [
+      "Rhodopsin absorbing light.",
+      "Transducin activating cGMP phosphodiesterase.",
+      "Membrane potential altering by 1 mV.",
+      "cGMP phosphodiesterase hydrolyzing a large number of cGMP molecules."
+    ],
+    "answer": "cGMP phosphodiesterase hydrolyzing a large number of cGMP molecules."
+  },
+  {
+    "question": "How are Receptor Tyrosine Kinases (RTKs) typically activated upon ligand binding?",
+    "options": [
+      "They are cleaved into active fragments.",
+      "They bind to G proteins.",
+      "They dimerize and cross-phosphorylate each other on tyrosines.",
+      "They open ion channels in the plasma membrane."
+    ],
+    "answer": "They dimerize and cross-phosphorylate each other on tyrosines."
+  },
+  {
+    "question": "What is the role of phosphorylated tyrosines on an activated RTK?",
+    "options": [
+      "They directly activate gene transcription.",
+      "They serve as docking sites for intracellular signaling proteins.",
+      "They act as second messengers.",
+      "They initiate protein degradation."
+    ],
+    "answer": "They serve as docking sites for intracellular signaling proteins."
+  },
+  {
+    "question": "In the RTK-Ras pathway, what immediately activates Ras by promoting the exchange of GDP for GTP?",
+    "options": [
+      "An adaptor protein.",
+      "MAP kinase kinase kinase.",
+      "Ras-GEF.",
+      "A protein phosphatase."
+    ],
+    "answer": "Ras-GEF."
+  },
+  {
+    "question": "The MAP-kinase module consists of a phosphorylation cascade. What is the final kinase in this cascade that phosphorylates effector proteins?",
+    "options": [
+      "MAP kinase kinase kinase",
+      "MAP kinase kinase",
+      "MAP kinase",
+      "Ras"
+    ],
+    "answer": "MAP kinase"
+  },
+  {
+    "question": "What enzyme is activated by an activated RTK in the PI-3-Kinase-Akt pathway?",
+    "options": [
+      "Protein Kinase B (Akt)",
+      "PI 3-kinase",
+      "Protein Kinase 1",
+      "Tor"
+    ],
+    "answer": "PI 3-kinase"
+  },
+  {
+    "question": "How does activated Akt promote cell survival?",
+    "options": [
+      "By activating pro-apoptotic proteins.",
+      "By directly stimulating protein synthesis.",
+      "By phosphorylating and inactivating pro-apoptotic proteins like Bad, which releases Bcl2.",
+      "By inhibiting protein degradation."
+    ],
+    "answer": "By phosphorylating and inactivating pro-apoptotic proteins like Bad, which releases Bcl2."
+  },
+  {
+    "question": "A cell requires specific combinations of signals to survive, grow, divide, or differentiate. This concept is known as:",
+    "options": [
+      "Signal amplification",
+      "Response timing",
+      "Combinatorial signaling",
+      "Feedback regulation"
+    ],
+    "answer": "Combinatorial signaling"
+  },
+  {
+    "question": "In the context of the Notch signaling pathway, what is the role of the Delta protein?",
+    "options": [
+      "It acts as a transcription regulator in the nucleus.",
+      "It is an intracellular signaling molecule that activates Notch.",
+      "It is a membrane-bound inhibitory signal protein on the developing nerve cell.",
+      "It is a receptor for Notch on neighboring cells."
+    ],
+    "answer": "It is a membrane-bound inhibitory signal protein on the developing nerve cell."
+  },
+  {
+    "question": "Which signaling molecules diffuse across the plasma membrane to bind to nuclear receptor proteins in the cytosol or nucleus?",
+    "options": [
+      "Insulin and EGF",
+      "Adrenaline and Histamine",
+      "Cortisol and Estradiol",
+      "Acetylcholine and GABA"
+    ],
+    "answer": "Cortisol and Estradiol"
+  },
+  {
+    "question": "In ethylene signaling in plants, what happens in the *presence* of ethylene?",
+    "options": [
+      "The ethylene receptor remains active, leading to degradation of a transcription regulator.",
+      "Ethylene binds to and inactivates the ethylene receptor, leading to activation of a transcription regulator.",
+      "A protein kinase is activated, which phosphorylates and degrades a transcription regulator.",
+      "Ethylene-responsive genes are turned off due to continued inhibition."
+    ],
+    "answer": "Ethylene binds to and inactivates the ethylene receptor, leading to activation of a transcription regulator."
+  },
+  {
+    "question": "An example of a steroid hormone mentioned that binds to intracellular receptors is:",
+    "options": [
+      "Insulin",
+      "Epinephrine",
+      "Cortisol",
+      "Nitric Oxide"
+    ],
+    "answer": "Cortisol"
+  },
+  {
+    "question": "A patient is prescribed Barbiturates for anxiety. Based on the provided information, which type of receptor do these drugs stimulate?",
+    "options": [
+      "Acetylcholine-activated ion-channel-coupled receptors",
+      "GABA-activated ion-channel-coupled receptors",
+      "G-protein-coupled opiate receptors",
+      "Temperature-sensitive ion-channel-coupled receptors"
+    ],
+    "answer": "GABA-activated ion-channel-coupled receptors"
+  },
+  {
+    "question": "If a signaling pathway involves the activation sequence: Signal → Receptor → Protein X → Ras → Protein Y → Cellular Response, and a cell mutant for Protein Y is unable to respond to the signal, what would be the expected outcome if overactive Ras were introduced into this mutant cell?",
+    "options": [
+      "Signaling would be restored because Ras acts upstream of Protein Y.",
+      "Signaling would be restored because Ras can bypass Protein Y.",
+      "Signaling would not be restored because Protein Y acts downstream of Ras.",
+      "Signaling would be blocked upstream of Protein X."
+    ],
+    "answer": "Signaling would not be restored because Protein Y acts downstream of Ras."
+  },
+  {
+    "question": "A patient has hyperthyroidism, leading to excessive thyroid hormone. Considering the nature of thyroid hormone (Thyroxine) signaling, what type of receptor would likely be overstimulated?",
+    "options": [
+      "Ion-channel-coupled receptors on the cell surface",
+      "G-protein-coupled receptors on the cell surface",
+      "Enzyme-coupled receptors on the cell surface",
+      "Intracellular receptors in the cytosol or nucleus"
+    ],
+    "answer": "Intracellular receptors in the cytosol or nucleus"
+  },
+  {
+    "question": "If a cell were engineered to continuously express active protein phosphatase 1 (PP1) at high levels, how would this impact a signaling pathway that relies on protein kinase A (PKA) to activate downstream targets by phosphorylation?",
+    "options": [
+      "PKA's effects would be enhanced due to increased phosphorylation.",
+      "PKA's effects would be diminished or reversed due to rapid dephosphorylation.",
+      "PKA would be inactivated directly by PP1.",
+      "There would be no impact, as PKA and PP1 act on different targets."
+    ],
+    "answer": "PKA's effects would be diminished or reversed due to rapid dephosphorylation."
+  },
+  {
+    "question": "A pharmaceutical company aims to develop a drug that *sustains* the signaling response initiated by G-protein-coupled receptors, particularly by keeping the G-\\alpha subunit active for longer. Which of the following molecular targets would be most effective for such a drug?",
+    "options": [
+      "An inhibitor of GEF activity",
+      "An activator of GAP activity",
+      "An inhibitor of the G\\alpha subunit's intrinsic GTPase activity",
+      "A molecule that promotes GDP binding to G\\alpha"
+    ],
+    "answer": "An inhibitor of the G\\alpha subunit's intrinsic GTPase activity"
+  },
+  {
+    "question": "A patient presents with severe muscle weakness and fatigue. Tests reveal an autoimmune condition where antibodies block Acetylcholine receptors at the neuromuscular junction. Which of the following drugs, if administered, would most acutely exacerbate the patient's muscle weakness by directly impacting Acetylcholine receptor function?",
+    "options": [
+      "Nicotine (stimulates acetylcholine-activated receptors)",
+      "Morphine (stimulates G-protein-coupled opiate receptors)",
+      "Strychnine (blocks glycine-activated ion channels)",
+      "Curare (blocks acetylcholine-activated ion-channel-coupled receptors)"
+    ],
+    "answer": "Curare (blocks acetylcholine-activated ion-channel-coupled receptors)"
+  },
+  {
+    "question": "A novel drug is developed that inhibits the GTPase activity of the G-alpha subunit of a Gs protein. What would be the likely cellular consequence if this drug were applied to a heart pacemaker cell stimulated by epinephrine?",
+    "options": [
+      "A sustained decrease in heart rate due to prolonged G-alpha inactivation.",
+      "A sustained increase in heart rate due to prolonged adenylyl cyclase activation.",
+      "No change in heart rate, as G-alpha activity is not relevant here.",
+      "Inhibition of adenylyl cyclase activity due to G-alpha subunit binding."
+    ],
+    "answer": "A sustained increase in heart rate due to prolonged adenylyl cyclase activation."
+  },
+  {
+    "question": "A researcher observes a cell line where the Ras protein is constitutively active due to a mutation preventing GTP hydrolysis. What downstream effect would likely be observed even in the absence of an external growth factor signal?",
+    "options": [
+      "Reduced cell growth and differentiation.",
+      "Inhibition of gene expression by MAP kinase.",
+      "Uncontrolled cell proliferation due to continuous activation of the MAP-kinase pathway.",
+      "Decreased protein synthesis and increased protein degradation."
+    ],
+    "answer": "Uncontrolled cell proliferation due to continuous activation of the MAP-kinase pathway."
+  },
+  {
+    "question": "A genetic mutation leads to a non-functional Transducin protein in rod photoreceptor cells. How would this most directly impact the cell's response to light?",
+    "options": [
+      "Rhodopsin would be unable to absorb light.",
+      "There would be a sustained closure of cation channels, leading to constant hyperpolarization.",
+      "The cell would fail to amplify the light signal, leading to severely impaired vision in low light.",
+      "cGMP phosphodiesterase would be overproduced, leading to increased sensitivity."
+    ],
+    "answer": "The cell would fail to amplify the light signal, leading to severely impaired vision in low light."
+  },
+  {
+    "question": "Consider a scenario where a cell needs to rapidly shut down a calcium-dependent response. Which of the following mechanisms would be LEAST effective in quickly reducing cytosolic Ca2+ levels back to baseline?",
+    "options": [
+      "Activation of Ca2+ pumps in the plasma membrane and ER.",
+      "Inhibition of IP3-gated Ca2+ channels on the ER.",
+      "Activation of an enzyme that rapidly degrades IP3.",
+      "Promoting the synthesis of more IP3 and DAG."
+    ],
+    "answer": "Promoting the synthesis of more IP3 and DAG."
+  },
+  {
+    "question": "A plant hormone, X, is known to promote growth. Studies show that in the absence of X, a receptor-associated protein kinase is active and phosphorylates a transcription regulator, leading to its degradation. When X is present, it binds to its receptor, which then *inactivates* the protein kinase. This allows the transcription regulator to accumulate and activate growth-promoting genes. What type of signaling mechanism does this scenario most closely resemble, as described in the lecture notes?",
+    "options": [
+      "GPCR-mediated cAMP pathway",
+      "RTK-Ras pathway",
+      "Ethylene signaling in plants",
+      "Intracellular receptor signaling (steroid hormones)"
+    ],
+    "answer": "Ethylene signaling in plants"
+  },
+  {
+    "question": "In an experimental setup, a signaling pathway involving an RTK is activated. If an inhibitor that specifically blocks the interaction between phosphorylated tyrosines on the RTK and downstream adaptor proteins is introduced, what would be the most immediate consequence?",
+    "options": [
+      "Prevention of RTK dimerization.",
+      "Inhibition of cross-phosphorylation between receptor chains.",
+      "Failure to assemble a functional intracellular signaling complex.",
+      "Direct inhibition of the Ras-GEF activity."
+    ],
+    "answer": "Failure to assemble a functional intracellular signaling complex."
+  }
+]

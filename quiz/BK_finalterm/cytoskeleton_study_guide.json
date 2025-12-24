@@ -1,0 +1,502 @@
+[
+  {
+    "question": "What is the fundamental definition of the cytoskeleton?",
+    "options": [
+      "A network of protein filaments that extends throughout the cytoplasm.",
+      "A structure primarily responsible for energy storage within the cell.",
+      "A rigid outer layer that protects eukaryotic cells from external forces.",
+      "A fluid compartment within the cytoplasm that contains dissolved nutrients."
+    ],
+    "answer": "A network of protein filaments that extends throughout the cytoplasm."
+  },
+  {
+    "question": "Which of the following is a primary function of the cytoskeleton related to cell movement?",
+    "options": [
+      "Regulating gene expression in the nucleus.",
+      "Facilitating large-scale cell movements like crawling and muscle contraction.",
+      "Storing genetic information in the form of DNA.",
+      "Synthesizing proteins on ribosomes."
+    ],
+    "answer": "Facilitating large-scale cell movements like crawling and muscle contraction."
+  },
+  {
+    "question": "What characteristic best describes the dynamic nature of the cytoskeleton?",
+    "options": [
+      "It is a rigid, permanent structure that rarely changes.",
+      "It continuously reorganizes as the cell changes shape or responds to the environment.",
+      "It only changes its structure during the process of cell division.",
+      "It is primarily composed of lipids that provide structural integrity."
+    ],
+    "answer": "It continuously reorganizes as the cell changes shape or responds to the environment."
+  },
+  {
+    "question": "Which of the three main protein filaments are characterized as hollow cylinders made of tubulin, with an outer diameter of 25 nm?",
+    "options": [
+      "Actin filaments",
+      "Intermediate filaments",
+      "Microtubules",
+      "Collagen fibers"
+    ],
+    "answer": "Microtubules"
+  },
+  {
+    "question": "What is the approximate diameter of intermediate filaments?",
+    "options": [
+      "7 nm",
+      "10 nm",
+      "25 nm",
+      "50 nm"
+    ],
+    "answer": "10 nm"
+  },
+  {
+    "question": "In the structure of an intermediate filament monomer, which domain is unstructured and exposed on the surface for cellular interactions?",
+    "options": [
+      "The central α-helical rod domain.",
+      "The N-terminal head domain only.",
+      "The C-terminal tail domain only.",
+      "Both N-terminal head and C-terminal tail domains."
+    ],
+    "answer": "Both N-terminal head and C-terminal tail domains."
+  },
+  {
+    "question": "Which statement accurately describes an early step in the assembly hierarchy of intermediate filaments?",
+    "options": [
+      "Monomers directly associate laterally to form a filament.",
+      "Two monomers wrap around each other to form a coiled-coil dimer.",
+      "Dimers stack end-to-end to form a protofilament.",
+      "Eight tetramers form a hollow tube structure."
+    ],
+    "answer": "Two monomers wrap around each other to form a coiled-coil dimer."
+  },
+  {
+    "question": "A key property of assembled intermediate filaments, due to the antiparallel arrangement of dimers in tetramers, is that they exhibit:",
+    "options": [
+      "Distinct polarity with a fast-growing and slow-growing end.",
+      "No polarity, with both ends of the tetramer being the same.",
+      "Highly variable diameters depending on cellular needs.",
+      "Covalent bonds between all subunits, making them inflexible."
+    ],
+    "answer": "No polarity, with both ends of the tetramer being the same."
+  },
+  {
+    "question": "In epithelial tissues, intermediate filaments traverse the cytoplasm and insert at what specialized cell junctions, creating a continuous mechanical link from cell to cell?",
+    "options": [
+      "Gap junctions",
+      "Tight junctions",
+      "Adherens junctions",
+      "Desmosomes"
+    ],
+    "answer": "Desmosomes"
+  },
+  {
+    "question": "Which class of intermediate filaments is primarily found in epithelial cells?",
+    "options": [
+      "Vimentin filaments",
+      "Neurofilaments",
+      "Keratin filaments",
+      "Nuclear lamins"
+    ],
+    "answer": "Keratin filaments"
+  },
+  {
+    "question": "Epidermolysis Bullosa Simplex is a skin blistering disorder caused by mutations in genes for which type of intermediate filament?",
+    "options": [
+      "Vimentin",
+      "Neurofilaments",
+      "Keratin",
+      "Nuclear lamins"
+    ],
+    "answer": "Keratin"
+  },
+  {
+    "question": "The premature aging disorder Progeria is linked to defects in which nuclear intermediate filament protein?",
+    "options": [
+      "Keratin",
+      "Vimentin",
+      "Neurofilamin",
+      "Nuclear lamin"
+    ],
+    "answer": "Nuclear lamin"
+  },
+  {
+    "question": "During mitosis, the nuclear lamina collapses due to what specific biochemical modification?",
+    "options": [
+      "Glycosylation by ATPases",
+      "Phosphorylation by kinases",
+      "Methylation by cyclins",
+      "Dephosphorylation by phosphatases"
+    ],
+    "answer": "Phosphorylation by kinases"
+  },
+  {
+    "question": "What is the primary function of the LINC complex (e.g., KASH-domain and SUN-domain proteins) in cytoskeletal integration?",
+    "options": [
+      "To synthesize new nuclear lamins within the nucleus.",
+      "To mediate DNA replication and repair processes.",
+      "To bridge the nucleus and cytoplasm through the nuclear envelope, integrating cytoskeletal networks.",
+      "To regulate mRNA export from the nucleus to the cytoplasm."
+    ],
+    "answer": "To bridge the nucleus and cytoplasm through the nuclear envelope, integrating cytoskeletal networks."
+  },
+  {
+    "question": "A biopsy from a patient with unexplained muscle weakness and neuronal degeneration reveals widespread disruption of intracellular scaffolding, with intermediate filaments appearing disorganized and poorly connected to other cytoskeletal elements. A defect in which accessory protein is most likely implicated?",
+    "options": [
+      "Tubulin",
+      "Actin",
+      "Plectin",
+      "Myosin"
+    ],
+    "answer": "Plectin"
+  },
+  {
+    "question": "A research study identifies a novel compound that specifically interferes with the antiparallel arrangement of dimers during intermediate filament assembly. What would be the most direct consequence on intermediate filament structure?",
+    "options": [
+      "Formation of hollow cylindrical structures instead of ropelike fibers.",
+      "Loss of polarity in the final filament structure.",
+      "Failure to form stable tetramers, thus preventing filament assembly.",
+      "Increased flexibility of the filaments leading to their rupture under stress."
+    ],
+    "answer": "Failure to form stable tetramers, thus preventing filament assembly."
+  },
+  {
+    "question": "Consider a cell undergoing an intense mechanical stress, such as stretching. Which type of cytoskeletal filament is primarily responsible for distributing these stresses throughout the cytoplasm and preventing cell rupture?",
+    "options": [
+      "Actin filaments",
+      "Microtubules",
+      "Intermediate filaments",
+      "Myosin filaments"
+    ],
+    "answer": "Intermediate filaments"
+  },
+  {
+    "question": "What are the two protein subunits that noncovalently interact to form a tubulin dimer, the building block of microtubules?",
+    "options": [
+      "Actin and Myosin",
+      "Alpha-tubulin and Beta-tubulin",
+      "Keratin and Vimentin",
+      "Tropomyosin and Troponin"
+    ],
+    "answer": "Alpha-tubulin and Beta-tubulin"
+  },
+  {
+    "question": "Which end of a microtubule is typically characterized as the α-tubulin end and is usually embedded in the centrosome?",
+    "options": [
+      "The plus end",
+      "The minus end",
+      "The neutral end",
+      "The stable end"
+    ],
+    "answer": "The minus end"
+  },
+  {
+    "question": "In animal cells, what is the primary microtubule-organizing center (MTOC) located near the nucleus?",
+    "options": [
+      "The Golgi apparatus",
+      "The centrosome",
+      "The nucleolus",
+      "The endoplasmic reticulum"
+    ],
+    "answer": "The centrosome"
+  },
+  {
+    "question": "Within the centrosome, what structures serve as nucleation sites (starting points) for microtubule growth?",
+    "options": [
+      "Centrioles",
+      "Ribosomes",
+      "Gamma-tubulin ring complexes",
+      "Intermediate filaments"
+    ],
+    "answer": "Gamma-tubulin ring complexes"
+  },
+  {
+    "question": "The rapid, independent growth and shrinkage of individual microtubules is a phenomenon known as what?",
+    "options": [
+      "Treadmilling",
+      "Dynamic instability",
+      "Catastrophe",
+      "Polymerization"
+    ],
+    "answer": "Dynamic instability"
+  },
+  {
+    "question": "What is the role of the \"GTP cap\" in microtubule dynamics?",
+    "options": [
+      "It promotes microtubule depolymerization by destabilizing the plus end.",
+      "It binds to the minus end of the microtubule, preventing further growth.",
+      "It stabilizes the plus end of a rapidly growing microtubule, preventing shrinkage.",
+      "It facilitates the binding of motor proteins to the microtubule lattice."
+    ],
+    "answer": "It stabilizes the plus end of a rapidly growing microtubule, preventing shrinkage."
+  },
+  {
+    "question": "Which anticancer drug binds tightly to microtubules and prevents them from losing subunits, thereby arresting dividing cells in mitosis?",
+    "options": [
+      "Colchicine",
+      "Vinblastine",
+      "Latrunculin",
+      "Taxol"
+    ],
+    "answer": "Taxol"
+  },
+  {
+    "question": "Which motor protein is responsible for moving vesicles and organelles towards the minus end of microtubules, typically inward towards the cell body?",
+    "options": [
+      "Kinesin",
+      "Myosin",
+      "Dynein",
+      "Tropomyosin"
+    ],
+    "answer": "Dynein"
+  },
+  {
+    "question": "The core of stable microtubules in cilia and flagella is arranged in a characteristic \"9+2\" array. From what structure do these microtubules grow?",
+    "options": [
+      "The centrosome",
+      "The Golgi apparatus",
+      "A basal body",
+      "The nucleolus"
+    ],
+    "answer": "A basal body"
+  },
+  {
+    "question": "What would be the most direct consequence of a defect in the ability of tubulin dimers to hydrolyze GTP on microtubule dynamics?",
+    "options": [
+      "Microtubules would rapidly depolymerize due to lack of stabilization.",
+      "Microtubules would become abnormally stable and unable to shrink.",
+      "Microtubules would lose their inherent polarity, growing from both ends.",
+      "Microtubules would be unable to polymerize at all, leading to their absence."
+    ],
+    "answer": "Microtubules would become abnormally stable and unable to shrink."
+  },
+  {
+    "question": "A neurodegenerative disease is found to be associated with impaired axonal transport, specifically the accumulation of vesicles and mitochondria in the distal regions of neurons, while the cell body appears to be less affected. Which motor protein function is most likely compromised?",
+    "options": [
+      "Myosin-I",
+      "Myosin-II",
+      "Kinesin",
+      "Dynein"
+    ],
+    "answer": "Kinesin"
+  },
+  {
+    "question": "A cell is treated with a compound that sequesters free tubulin dimers, preventing their incorporation into microtubules. Which cellular process would be most immediately and dramatically affected?",
+    "options": [
+      "Formation of the contractile ring during cytokinesis.",
+      "Chromosome segregation during mitosis.",
+      "Muscle contraction.",
+      "Cell-cell adhesion."
+    ],
+    "answer": "Chromosome segregation during mitosis."
+  },
+  {
+    "question": "What is the approximate diameter of actin filaments (microfilaments)?",
+    "options": [
+      "10 nm",
+      "25 nm",
+      "7 nm",
+      "15 nm"
+    ],
+    "answer": "7 nm"
+  },
+  {
+    "question": "Actin filaments possess a distinct polarity, characterized by what?",
+    "options": [
+      "Only a plus end capable of growth.",
+      "Only a minus end capable of depolymerization.",
+      "A plus end and a minus end, reflecting directional growth.",
+      "No polarity, allowing assembly from either end."
+    ],
+    "answer": "A plus end and a minus end, reflecting directional growth."
+  },
+  {
+    "question": "Which functional array of actin filaments is responsible for the stiff, stable bundles found in microvilli, such as those lining the intestine?",
+    "options": [
+      "Contractile bundles",
+      "Dynamic protrusions",
+      "Gel-like meshwork",
+      "Parallel bundles"
+    ],
+    "answer": "Parallel bundles"
+  },
+  {
+    "question": "The process where individual actin monomers move through a filament from the plus end to the minus end, maintaining overall filament length when the rates of addition and loss are equal, is called what?",
+    "options": [
+      "Dynamic instability",
+      "Catastrophe",
+      "Treadmilling",
+      "Polymerization"
+    ],
+    "answer": "Treadmilling"
+  },
+  {
+    "question": "Which actin-binding protein, specifically, binds to actin monomers in the cytosol, thereby preventing their addition to filaments?",
+    "options": [
+      "Formin",
+      "ARP complex",
+      "Tropomyosin",
+      "Thymosin"
+    ],
+    "answer": "Thymosin"
+  },
+  {
+    "question": "Which drug prevents actin polymerization by binding directly to free actin monomers?",
+    "options": [
+      "Phalloidin",
+      "Cytochalasin",
+      "Latrunculin",
+      "Taxol"
+    ],
+    "answer": "Latrunculin"
+  },
+  {
+    "question": "A scientist discovers a mutation in an actin-binding protein that causes excessive and uncontrolled polymerization of actin, leading to abnormally rigid cell membranes and impaired cell shape changes. Which type of actin-binding protein is most likely affected by this mutation?",
+    "options": [
+      "Monomer-sequestering protein",
+      "Severing protein",
+      "Cross-linking protein",
+      "Nucleating protein"
+    ],
+    "answer": "Monomer-sequestering protein"
+  },
+  {
+    "question": "Which of the following is the first step in cell crawling, involving the extension of the cell's leading edge?",
+    "options": [
+      "Attachment to the substrate",
+      "Traction of the cell body",
+      "Protrusion of the leading edge",
+      "Contraction of the rear"
+    ],
+    "answer": "Protrusion of the leading edge"
+  },
+  {
+    "question": "What are the dense meshwork-like protrusions that the cell pushes out at its leading edge during migration?",
+    "options": [
+      "Filopodia",
+      "Microvilli",
+      "Lamellipodia",
+      "Stress fibers"
+    ],
+    "answer": "Lamellipodia"
+  },
+  {
+    "question": "Which protein complex nucleates new actin filaments to form a branched web, driving the extension of lamellipodia?",
+    "options": [
+      "Formin",
+      "ARP complex",
+      "Myosin-II",
+      "Plectin"
+    ],
+    "answer": "ARP complex"
+  },
+  {
+    "question": "Activation of which Rho-family GTPase is primarily responsible for promoting the formation of lamellipodia?",
+    "options": [
+      "Rho",
+      "Rac",
+      "Cdc42",
+      "Ran"
+    ],
+    "answer": "Rac"
+  },
+  {
+    "question": "A cell is engineered to constitutively activate Rho GTPase, while Rac and Cdc42 remain inactive. What would be the most likely observed effect on cell morphology and motility?",
+    "options": [
+      "Enhanced lamellipodia formation and rapid crawling.",
+      "Increased filopodia formation and exploratory behavior.",
+      "Prominent stress fiber formation and reduced migration.",
+      "Complete cessation of all actin-dependent movement."
+    ],
+    "answer": "Prominent stress fiber formation and reduced migration."
+  },
+  {
+    "question": "Which type of myosin found in muscle tissue forms bipolar filaments with two globular heads and a coiled-coil tail, often forming a central bare region?",
+    "options": [
+      "Myosin-I",
+      "Myosin-II",
+      "Myosin-III",
+      "Myosin-IV"
+    ],
+    "answer": "Myosin-II"
+  },
+  {
+    "question": "What is the definition of a sarcomere?",
+    "options": [
+      "A single muscle cell (fiber).",
+      "A bundle of myofibrils within a muscle cell.",
+      "The contractile unit of muscle, roughly 2.5 µm long.",
+      "An attachment point for tendons on bone."
+    ],
+    "answer": "The contractile unit of muscle, roughly 2.5 µm long."
+  },
+  {
+    "question": "What are the Z discs in a sarcomere?",
+    "options": [
+      "The central region of myosin (thick) filaments.",
+      "The attachment points for actin (thin) filaments.",
+      "The region where only myosin filaments are found.",
+      "The boundaries of the entire myofibril."
+    ],
+    "answer": "The attachment points for actin (thin) filaments."
+  },
+  {
+    "question": "During muscle contraction, according to the sliding filament mechanism, what happens to the length of the actin and myosin filaments?",
+    "options": [
+      "Both filaments shorten significantly.",
+      "Both filaments lengthen significantly.",
+      "Actin filaments shorten while myosin filaments lengthen.",
+      "The filaments themselves do not change length, but slide past each other."
+    ],
+    "answer": "The filaments themselves do not change length, but slide past each other."
+  },
+  {
+    "question": "In the myosin contraction cycle, what crucial event must occur immediately after ATP binds to the myosin head for the cycle to proceed?",
+    "options": [
+      "Release of inorganic phosphate.",
+      "Myosin head binds tightly to actin.",
+      "ATP hydrolysis to ADP and Pi.",
+      "The power stroke."
+    ],
+    "answer": "ATP hydrolysis to ADP and Pi."
+  },
+  {
+    "question": "In a resting muscle, which protein is directly blocking the myosin-binding site on actin filaments?",
+    "options": [
+      "Troponin complex",
+      "Myosin-II",
+      "Tropomyosin",
+      "Plectin"
+    ],
+    "answer": "Tropomyosin"
+  },
+  {
+    "question": "What molecule binds to the troponin complex, leading to a conformational change that moves tropomyosin and uncovers myosin-binding sites on actin?",
+    "options": [
+      "ATP",
+      "ADP",
+      "Calcium ions (Ca2+)",
+      "Phosphate ions (Pi)"
+    ],
+    "answer": "Calcium ions (Ca2+)"
+  },
+  {
+    "question": "A novel toxin is discovered that specifically inhibits the release of inorganic phosphate (Pi) from the myosin head during muscle contraction. How would this toxin directly impact the contraction cycle?",
+    "options": [
+      "It would prevent ATP binding to myosin, locking it in the attached state.",
+      "It would stop the power stroke, preventing the myosin head from moving.",
+      "It would cause continuous muscle contraction (rigor) by preventing myosin release.",
+      "It would enhance the cocking of the myosin head, leading to faster cycling."
+    ],
+    "answer": "It would stop the power stroke, preventing the myosin head from moving."
+  },
+  {
+    "question": "A patient presents with a condition where their muscles are unable to relax after contraction, leading to persistent stiffness. Genetic analysis reveals a mutation affecting a protein responsible for removing calcium from the sarcoplasm. Which step in the regulation of muscle contraction is most directly impaired by this mutation?",
+    "options": [
+      "Tropomyosin blocking myosin-binding sites on actin.",
+      "Calcium binding to the troponin complex.",
+      "Myosin head release from actin after ATP binding.",
+      "Re-sequestration of Ca2+ by the sarcoplasmic reticulum."
+    ],
+    "answer": "Re-sequestration of Ca2+ by the sarcoplasmic reticulum."
+  }
+]

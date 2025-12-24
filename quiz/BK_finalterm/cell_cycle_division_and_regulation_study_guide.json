@@ -1,0 +1,512 @@
+[
+  {
+    "question": "Which of the following best defines the eukaryotic cell cycle?",
+    "options": [
+      "The process by which a cell replicates its contents and divides into two daughter cells.",
+      "The process of DNA replication that occurs in prokaryotic cells.",
+      "The uncontrolled division of cells leading to tumor formation.",
+      "The period of cellular growth and metabolic activity without division."
+    ],
+    "answer": "The process by which a cell replicates its contents and divides into two daughter cells."
+  },
+  {
+    "question": "The duration of the cell-division cycle varies significantly among different cell types. Which of the following cells has the shortest known cell cycle duration?",
+    "options": [
+      "Early frog embryo cells.",
+      "Mammalian intestinal epithelial cells.",
+      "Mammalian fibroblasts in culture.",
+      "Early fly embryo cells."
+    ],
+    "answer": "Early fly embryo cells."
+  },
+  {
+    "question": "Interphase is characterized by three distinct phases. Which phase is dedicated to DNA replication?",
+    "options": [
+      "G1 Phase",
+      "S Phase",
+      "G2 Phase",
+      "M Phase"
+    ],
+    "answer": "S Phase"
+  },
+  {
+    "question": "What are the two major periods that constitute the eukaryotic cell cycle?",
+    "options": [
+      "G1 and S Phase",
+      "Mitosis and Cytokinesis",
+      "Interphase and M Phase",
+      "Prophase and Anaphase"
+    ],
+    "answer": "Interphase and M Phase"
+  },
+  {
+    "question": "Which phase of the M period involves the division of the cytoplasm?",
+    "options": [
+      "Mitosis",
+      "Prophase",
+      "Cytokinesis",
+      "Metaphase"
+    ],
+    "answer": "Cytokinesis"
+  },
+  {
+    "question": "A key checkpoint ensures that all DNA is replicated and DNA damage is repaired before the cell proceeds. This checkpoint occurs at which transition?",
+    "options": [
+      "G1 to S Transition",
+      "G2 to M Transition",
+      "Metaphase-to-Anaphase Transition",
+      "S to G2 Transition"
+    ],
+    "answer": "G2 to M Transition"
+  },
+  {
+    "question": "What is the primary function of the cell-cycle control system?",
+    "options": [
+      "To produce energy for cell division.",
+      "To ensure key processes occur in the proper sequence and the cell is ready for the next stage.",
+      "To regulate gene expression during interphase.",
+      "To control cell differentiation into specialized tissues."
+    ],
+    "answer": "To ensure key processes occur in the proper sequence and the cell is ready for the next stage."
+  },
+  {
+    "question": "At which checkpoint does the cell control system check if the environment is favorable before entering the next phase?",
+    "options": [
+      "G2 to M Transition",
+      "Metaphase-to-Anaphase Transition",
+      "G1 to S Transition (Start)",
+      "Anaphase to Telophase Transition"
+    ],
+    "answer": "G1 to S Transition (Start)"
+  },
+  {
+    "question": "Progression through the cell cycle depends on a class of enzymes called Cyclin-Dependent Protein Kinases (Cdks). How are these kinases activated?",
+    "options": [
+      "They are always active.",
+      "They are activated by phosphorylation by other kinases only.",
+      "They become active only when bound to a cyclin protein.",
+      "Their activity is dependent solely on their concentration levels."
+    ],
+    "answer": "They become active only when bound to a cyclin protein."
+  },
+  {
+    "question": "Which component of the Cyclin-Cdk complex has a concentration that varies cyclically during the cell cycle?",
+    "options": [
+      "Cdk",
+      "Cyclin",
+      "ATP",
+      "Substrate protein"
+    ],
+    "answer": "Cyclin"
+  },
+  {
+    "question": "Which cyclin-Cdk complex is primarily responsible for triggering entry into M phase?",
+    "options": [
+      "G1-Cdk",
+      "G1/S-Cdk",
+      "S-Cdk",
+      "M-Cdk"
+    ],
+    "answer": "M-Cdk"
+  },
+  {
+    "question": "What is the Cdk partner for Cyclin E?",
+    "options": [
+      "Cdk1",
+      "Cdk2",
+      "Cdk4",
+      "Cdk6"
+    ],
+    "answer": "Cdk2"
+  },
+  {
+    "question": "The Anaphase-Promoting Complex/Cyclosome (APC/C) plays a crucial role in regulating Cdk activity by:",
+    "options": [
+      "Activating Cdk by removing inhibitory phosphates.",
+      "Binding to Cdks and inhibiting their activity.",
+      "Tagging cyclins with ubiquitin chains, leading to their degradation.",
+      "Phosphorylating Cdk substrates to initiate cell cycle events."
+    ],
+    "answer": "Tagging cyclins with ubiquitin chains, leading to their degradation."
+  },
+  {
+    "question": "Which enzyme adds inhibitory phosphate to M-Cdk, thus keeping it inactive until the appropriate time?",
+    "options": [
+      "Cdc25",
+      "APC/C",
+      "Wee1",
+      "Securin"
+    ],
+    "answer": "Wee1"
+  },
+  {
+    "question": "What is the role of Cdc25 in regulating M-Cdk activity?",
+    "options": [
+      "It adds inhibitory phosphates to M-Cdk.",
+      "It promotes the degradation of M-Cdk.",
+      "It removes inhibitory phosphates, thereby activating M-Cdk.",
+      "It acts as a Cdk inhibitor protein."
+    ],
+    "answer": "It removes inhibitory phosphates, thereby activating M-Cdk."
+  },
+  {
+    "question": "How do Cdk Inhibitor Proteins (CKIs) such as p27 function to regulate the cell cycle?",
+    "options": [
+      "They activate Cdk activity by binding to the cyclin-Cdk complex.",
+      "They promote the synthesis of new Cdk molecules.",
+      "They bind to the Cyclin-Cdk complex and block its activity.",
+      "They phosphorylate target proteins to advance the cell cycle."
+    ],
+    "answer": "They bind to the Cyclin-Cdk complex and block its activity."
+  },
+  {
+    "question": "During the G1 checkpoint, what mechanism is used to block entry into S phase if the environment is unfavorable?",
+    "options": [
+      "Activation of the APC/C.",
+      "Inhibition of activating phosphatase (Cdc25).",
+      "Binding of Cdk inhibitor proteins to G1/S-Cdks and S-Cdks.",
+      "Destruction of M-Cdk."
+    ],
+    "answer": "Binding of Cdk inhibitor proteins to G1/S-Cdks and S-Cdks."
+  },
+  {
+    "question": "Which checkpoint control mechanism relies on the inhibition of activating phosphatase (Cdc25) to prevent entry into Mitosis if DNA replication is incomplete?",
+    "options": [
+      "G1 Checkpoint",
+      "G2 Checkpoint",
+      "M Checkpoint (Spindle Assembly Checkpoint)",
+      "Metaphase-to-Anaphase Transition"
+    ],
+    "answer": "G2 Checkpoint"
+  },
+  {
+    "question": "What is the term for extracellular signals that stimulate cell proliferation?",
+    "options": [
+      "Hormones",
+      "Cytokines",
+      "Mitogens",
+      "Growth factors"
+    ],
+    "answer": "Mitogens"
+  },
+  {
+    "question": "The Rb protein (Retinoblastoma) is an inhibitor of cell proliferation. How does it normally exert its inhibitory effect?",
+    "options": [
+      "By degrading cyclins.",
+      "By activating Cdk inhibitor proteins.",
+      "By binding to and inhibiting transcription regulators needed for cell proliferation genes.",
+      "By phosphorylating Cdks."
+    ],
+    "answer": "By binding to and inhibiting transcription regulators needed for cell proliferation genes."
+  },
+  {
+    "question": "Upon mitogen binding and subsequent activation of G1-Cdk and G1/S-Cdk, what happens to the Rb protein?",
+    "options": [
+      "It becomes dephosphorylated and more active.",
+      "It is degraded by the proteasome.",
+      "It is phosphorylated, which inactivates it and releases transcription regulators.",
+      "It binds to p53 to initiate DNA repair."
+    ],
+    "answer": "It is phosphorylated, which inactivates it and releases transcription regulators."
+  },
+  {
+    "question": "In the G1 DNA damage checkpoint, what is the role of the p53 protein?",
+    "options": [
+      "It activates DNA helicase for replication.",
+      "It degrades Cdk inhibitor proteins.",
+      "It is a transcription regulator that, when activated by DNA damage, promotes the expression of the p21 gene.",
+      "It directly phosphorylates Rb protein to stimulate cell cycle progression."
+    ],
+    "answer": "It is a transcription regulator that, when activated by DNA damage, promotes the expression of the p21 gene."
+  },
+  {
+    "question": "What is p21, and how does it function in the G1 DNA damage checkpoint?",
+    "options": [
+      "It is an activating phosphatase that promotes Cdk activity.",
+      "It is a DNA repair enzyme.",
+      "It is a Cdk inhibitor that binds to and inactivates G1/S-Cdk and S-Cdk, arresting the cell cycle in G1.",
+      "It is a cyclin that partners with Cdk4 to drive S phase entry."
+    ],
+    "answer": "It is a Cdk inhibitor that binds to and inactivates G1/S-Cdk and S-Cdk, arresting the cell cycle in G1."
+  },
+  {
+    "question": "DNA replication initiation occurs in two steps. Which complex is formed during Origin Loading in G1 phase?",
+    "options": [
+      "Anaphase-Promoting Complex (APC/C)",
+      "Prereplicative Complex (preRC)",
+      "Mitotic Spindle Complex",
+      "Contractile Ring Complex"
+    ],
+    "answer": "Prereplicative Complex (preRC)"
+  },
+  {
+    "question": "Which Cdk is responsible for triggering Origin Firing at the start of S phase?",
+    "options": [
+      "G1-Cdk",
+      "G1/S-Cdk",
+      "S-Cdk",
+      "M-Cdk"
+    ],
+    "answer": "S-Cdk"
+  },
+  {
+    "question": "What protein structures hold duplicated chromosomes together along their entire length after DNA replication?",
+    "options": [
+      "Kinetochores",
+      "Centromeres",
+      "Cohesins",
+      "Condensins"
+    ],
+    "answer": "Cohesins"
+  },
+  {
+    "question": "Which protein rings help coil and condense chromosomes, making them more compact for segregation during M phase?",
+    "options": [
+      "Cohesins",
+      "Condensins",
+      "Securins",
+      "Separases"
+    ],
+    "answer": "Condensins"
+  },
+  {
+    "question": "The mitotic spindle, a crucial cytoskeletal structure for chromosome separation, is composed primarily of what?",
+    "options": [
+      "Actin filaments",
+      "Intermediate filaments",
+      "Microtubules",
+      "Myosin filaments"
+    ],
+    "answer": "Microtubules"
+  },
+  {
+    "question": "During which stage of M phase does the nuclear envelope break down, and chromosomes attach to spindle microtubules via kinetochores?",
+    "options": [
+      "Prophase",
+      "Prometaphase",
+      "Metaphase",
+      "Anaphase"
+    ],
+    "answer": "Prometaphase"
+  },
+  {
+    "question": "Chromosomes align at the metaphase plate, midway between the spindle poles, during which phase of mitosis?",
+    "options": [
+      "Prophase",
+      "Prometaphase",
+      "Metaphase",
+      "Anaphase"
+    ],
+    "answer": "Metaphase"
+  },
+  {
+    "question": "What event defines the beginning of Anaphase?",
+    "options": [
+      "Nuclear envelope breakdown.",
+      "Chromosomes aligning at the metaphase plate.",
+      "Sister chromatids separating synchronously and being pulled toward opposite poles.",
+      "The formation of the contractile ring."
+    ],
+    "answer": "Sister chromatids separating synchronously and being pulled toward opposite poles."
+  },
+  {
+    "question": "In which stage of M phase do the chromosomes arrive at the spindle poles, and new nuclear envelopes begin to reassemble around each set of chromosomes?",
+    "options": [
+      "Metaphase",
+      "Anaphase",
+      "Telophase",
+      "Cytokinesis"
+    ],
+    "answer": "Telophase"
+  },
+  {
+    "question": "During M phase, centrosomes duplicate to form two spindle poles. What are the radial arrays of microtubules forming at each pole called?",
+    "options": [
+      "Kinetochores",
+      "Centromeres",
+      "Asters",
+      "Phragmoplasts"
+    ],
+    "answer": "Asters"
+  },
+  {
+    "question": "Which class of microtubules attaches to the kinetochores on chromosomes?",
+    "options": [
+      "Astral microtubules",
+      "Interpolar microtubules",
+      "Kinetochore microtubules",
+      "Cytoplasmic microtubules"
+    ],
+    "answer": "Kinetochore microtubules"
+  },
+  {
+    "question": "The critical attachment where sister chromatids must connect to opposite spindle poles to ensure proper segregation is known as:",
+    "options": [
+      "Unipolar attachment",
+      "Monopolar attachment",
+      "Syntelic attachment",
+      "Bi-orientation"
+    ],
+    "answer": "Bi-orientation"
+  },
+  {
+    "question": "What is the immediate target of the APC/C that, upon destruction, leads to the activation of separase and cleavage of cohesins?",
+    "options": [
+      "Cyclin B",
+      "Securin",
+      "Cdc25",
+      "Wee1"
+    ],
+    "answer": "Securin"
+  },
+  {
+    "question": "Anaphase consists of two distinct processes. Which process involves chromosomes being pulled poleward due to the shortening of kinetochore microtubules?",
+    "options": [
+      "Anaphase A",
+      "Anaphase B",
+      "Prometaphase",
+      "Telophase"
+    ],
+    "answer": "Anaphase A"
+  },
+  {
+    "question": "What primarily causes the nuclear envelope to break down during prometaphase and re-form during telophase?",
+    "options": [
+      "Changes in cytoplasmic pH.",
+      "Alterations in membrane lipid composition.",
+      "Phosphorylation and dephosphorylation of nuclear pore proteins and lamins.",
+      "Activity of the contractile ring."
+    ],
+    "answer": "Phosphorylation and dephosphorylation of nuclear pore proteins and lamins."
+  },
+  {
+    "question": "In animal cells, cytokinesis is mediated by the contractile ring. What cytoskeletal components make up this ring?",
+    "options": [
+      "Intermediate filaments and vimentin.",
+      "Microtubules and tubulin.",
+      "Actin and myosin filaments.",
+      "Keratin and desmin."
+    ],
+    "answer": "Actin and myosin filaments."
+  },
+  {
+    "question": "How do plant cells typically divide their cytoplasm during cytokinesis, in contrast to animal cells?",
+    "options": [
+      "They use a contractile ring similar to animal cells.",
+      "They form a phragmoplast that guides vesicles to build a new cell wall from the inside out.",
+      "They undergo budding, where a smaller daughter cell pinches off.",
+      "They simply split the cytoplasm without forming new structures."
+    ],
+    "answer": "They form a phragmoplast that guides vesicles to build a new cell wall from the inside out."
+  },
+  {
+    "question": "If a cell successfully passes the G1 checkpoint but then encounters severe DNA damage before DNA replication can begin, which protein would likely be activated to halt progression and potentially induce apoptosis?",
+    "options": [
+      "Rb protein",
+      "Cdc6",
+      "p53 protein",
+      "Separase"
+    ],
+    "answer": "p53 protein"
+  },
+  {
+    "question": "Which cyclin-Cdk pair is active during the S phase and promotes the initiation of DNA replication, specifically by triggering origin firing?",
+    "options": [
+      "Cyclin D-Cdk4/6",
+      "Cyclin E-Cdk2",
+      "Cyclin A-Cdk2",
+      "Cyclin B-Cdk1"
+    ],
+    "answer": "Cyclin A-Cdk2"
+  },
+  {
+    "question": "A cell type is known to primarily remain in a resting state, rarely dividing. This state is referred to as:",
+    "options": [
+      "G1 Phase",
+      "G0 Phase",
+      "S Phase",
+      "M Phase"
+    ],
+    "answer": "G0 Phase"
+  },
+  {
+    "question": "If a cell's M-Cdk complex (Cyclin B-Cdk1) accumulated inhibitory phosphates that could not be removed, what would be the likely consequence?",
+    "options": [
+      "The cell would prematurely enter S phase.",
+      "The cell would arrest at the G1 checkpoint.",
+      "The cell would arrest at the G2 to M transition, unable to enter mitosis.",
+      "The cell would proceed through anaphase without proper chromosome segregation."
+    ],
+    "answer": "The cell would arrest at the G2 to M transition, unable to enter mitosis."
+  },
+  {
+    "question": "A drug is developed that specifically inhibits the activity of Cdc6. What would be the immediate consequence for a cell entering G1 phase?",
+    "options": [
+      "The cell would fail to condense its chromosomes.",
+      "The prereplicative complex (preRC) would not be properly formed at origins of replication.",
+      "The mitotic spindle would not assemble.",
+      "The contractile ring would fail to form during cytokinesis."
+    ],
+    "answer": "The prereplicative complex (preRC) would not be properly formed at origins of replication."
+  },
+  {
+    "question": "Consider a mutation in the APC/C such that it is permanently inactive. What would be the most immediate and direct effect on the cell cycle?",
+    "options": [
+      "The cell would arrest in G1 due to active Cdk inhibitors.",
+      "DNA replication would fail to initiate in S phase.",
+      "Cyclins would not be degraded, leading to prolonged Cdk activity and arrest in metaphase.",
+      "The nuclear envelope would fail to re-form during telophase."
+    ],
+    "answer": "Cyclins would not be degraded, leading to prolonged Cdk activity and arrest in metaphase."
+  },
+  {
+    "question": "A cell is treated with a chemical that destabilizes microtubules. Which stage of mitosis would be most immediately and severely affected?",
+    "options": [
+      "Prophase, as chromosomes would not condense.",
+      "Prometaphase and Metaphase, as the mitotic spindle would not form or attach to chromosomes properly.",
+      "Anaphase, as sister chromatids would fail to separate due to direct inhibition of separase.",
+      "Telophase, as nuclear envelopes would not re-form."
+    ],
+    "answer": "Prometaphase and Metaphase, as the mitotic spindle would not form or attach to chromosomes properly."
+  },
+  {
+    "question": "If a cell has a non-functional version of cohesin, what would be the most direct consequence during M phase?",
+    "options": [
+      "Chromosomes would fail to condense.",
+      "Sister chromatids would separate prematurely or not remain linked, leading to aneuploidy.",
+      "The mitotic spindle would not form.",
+      "Cytokinesis would be inhibited."
+    ],
+    "answer": "Sister chromatids would separate prematurely or not remain linked, leading to aneuploidy."
+  },
+  {
+    "question": "Certain cancer cells often exhibit mutations that inactivate the p53 protein. How does this contribute to uncontrolled cell proliferation?",
+    "options": [
+      "It allows cells to bypass the G1 DNA damage checkpoint and divide with damaged DNA.",
+      "It directly activates mitogen signaling pathways.",
+      "It prevents the degradation of cyclins, leading to continuous Cdk activity.",
+      "It enhances the activity of Rb protein, promoting transcription of cell cycle genes."
+    ],
+    "answer": "It allows cells to bypass the G1 DNA damage checkpoint and divide with damaged DNA."
+  },
+  {
+    "question": "A pharmaceutical company is developing a drug that aims to arrest rapidly dividing cancer cells. Which of the following would be an effective target to prevent the metaphase-to-anaphase transition?",
+    "options": [
+      "An activator of the Cdc25 phosphatase.",
+      "An inhibitor of Wee1 kinase.",
+      "A compound that blocks the activity of separase.",
+      "A molecule that stabilizes M-Cdk activity indefinitely."
+    ],
+    "answer": "A compound that blocks the activity of separase."
+  },
+  {
+    "question": "A cell line is found to overexpress Wee1 kinase, leading to consistently higher levels of inhibitory phosphorylation on Cdk1. What is the most likely outcome for these cells?",
+    "options": [
+      "They will progress through mitosis at an accelerated rate.",
+      "They will enter mitosis prematurely without sufficient preparation.",
+      "They will exhibit a prolonged G2 phase or arrest at the G2/M checkpoint.",
+      "They will fail to initiate DNA replication in S phase."
+    ],
+    "answer": "They will exhibit a prolonged G2 phase or arrest at the G2/M checkpoint."
+  }
+]
