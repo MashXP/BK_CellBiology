@@ -1,4 +1,4 @@
-# Textbook Summaries Hub
+# Textbook Questions Hub
 
 ## Chapters
 - [[Chapter_01_Cells_The_Fundamental_Units_of_Life.md]]
@@ -21,6 +21,3 @@
 - [[Chapter_18_The_Cell_Division_Cycle.md]]
 - [[Chapter_19_Sexual_Reproduction_and_Genetics.md]]
 - [[Chapter_20_Cell_Communities_Tissues_Stem_Cells_and_Cancer.md]]
-
-## Complete Summary
-- [[merged_summary.md]]

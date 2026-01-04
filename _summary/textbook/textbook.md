@@ -1,6 +1,5 @@
-# Textbook Questions Hub
+# textbook
 
-## Chapters
 - [[Chapter_01_Cells_The_Fundamental_Units_of_Life.md]]
 - [[Chapter_02_Chemical_Components_of_Cells.md]]
 - [[Chapter_03_Energy_Catalysis_and_Biosynthesis.md]]
@@ -21,6 +20,3 @@
 - [[Chapter_18_The_Cell_Division_Cycle.md]]
 - [[Chapter_19_Sexual_Reproduction_and_Genetics.md]]
 - [[Chapter_20_Cell_Communities_Tissues_Stem_Cells_and_Cancer.md]]
-
-## Complete Questions
-- [[merged_questions.md]]
