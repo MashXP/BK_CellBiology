@@ -165,7 +165,7 @@ The myosin head walks along actin via an ATP-dependent cycle:
 5.  **Attached:** Head is bound tightly again in a new position.
 
 ### 6.4 Regulation of Contraction
-* **Channel Interaction:** The voltage-gated Ca$^{2+}$ channel in the T-tubule membrane activates the Ca$^{2+}$-release channel in the sarcoplasmic reticulum membrane to release calcium.
+* **Channel Interaction:** The voltage-gated $Ca^{2+}$ channel in the T-tubule membrane activates the $Ca^{2+}$-release channel in the sarcoplasmic reticulum membrane to release calcium.
 * **Mechanism:**
     * **Resting State:** **Tropomyosin** blocks the myosin-binding site on actin.
     * **Contraction:** Ca2+ binds to the **troponin complex**, causing a shape change that moves tropomyosin, exposing the binding site and allowing myosin to bind.
