@@ -154,23 +154,23 @@
     "options": [
       "The G protein phosphorylates the receptor.",
       "The G protein hydrolyzes its bound GTP to GDP.",
-      "The receptor acts as a GEF, encouraging the \\alpha subunit to expel GDP and pick up GTP.",
-      "The \\alpha subunit immediately reassociates with the \\beta\\gamma complex."
+      "The receptor acts as a GEF, encouraging the $\\alpha$ subunit to expel GDP and pick up GTP.",
+      "The $\\alpha$ subunit immediately reassociates with the $\\beta$$\\gamma$ complex."
     ],
-    "answer": "The receptor acts as a GEF, encouraging the \\alpha subunit to expel GDP and pick up GTP."
+    "answer": "The receptor acts as a GEF, encouraging the $\\alpha$ subunit to expel GDP and pick up GTP."
   },
   {
-    "question": "How does the G\\alpha subunit of a G protein typically inactivate itself?",
+    "question": "How does the G$\\alpha$ subunit of a G protein typically inactivate itself?",
     "options": [
       "It is dephosphorylated by a protein phosphatase.",
       "It dissociates from the membrane.",
       "It hydrolyzes its bound GTP to GDP.",
-      "It binds to the \\beta\\gamma complex and prevents further signaling."
+      "It binds to the $\\beta$$\\gamma$ complex and prevents further signaling."
     ],
     "answer": "It hydrolyzes its bound GTP to GDP."
   },
   {
-    "question": "In heart pacemaker cells, Acetylcholine activates a Gi protein. What is the direct effect of the activated \\beta\\gamma complex?",
+    "question": "In heart pacemaker cells, Acetylcholine activates a Gi protein. What is the direct effect of the activated $\\beta$$\\gamma$ complex?",
     "options": [
       "It activates adenylyl cyclase.",
       "It binds to and opens K+ channels.",
@@ -420,14 +420,14 @@
     "answer": "PKA's effects would be diminished or reversed due to rapid dephosphorylation."
   },
   {
-    "question": "A pharmaceutical company aims to develop a drug that *sustains* the signaling response initiated by G-protein-coupled receptors, particularly by keeping the G-\\alpha subunit active for longer. Which of the following molecular targets would be most effective for such a drug?",
+    "question": "A pharmaceutical company aims to develop a drug that *sustains* the signaling response initiated by G-protein-coupled receptors, particularly by keeping the G-$\\alpha$ subunit active for longer. Which of the following molecular targets would be most effective for such a drug?",
     "options": [
       "An inhibitor of GEF activity",
       "An activator of GAP activity",
-      "An inhibitor of the G\\alpha subunit's intrinsic GTPase activity",
-      "A molecule that promotes GDP binding to G\\alpha"
+      "An inhibitor of the G$\\alpha$ subunit's intrinsic GTPase activity",
+      "A molecule that promotes GDP binding to G$\\alpha$"
     ],
-    "answer": "An inhibitor of the G\\alpha subunit's intrinsic GTPase activity"
+    "answer": "An inhibitor of the G$\\alpha$ subunit's intrinsic GTPase activity"
   },
   {
     "question": "A patient presents with severe muscle weakness and fatigue. Tests reveal an autoimmune condition where antibodies block Acetylcholine receptors at the neuromuscular junction. Which of the following drugs, if administered, would most acutely exacerbate the patient's muscle weakness by directly impacting Acetylcholine receptor function?",

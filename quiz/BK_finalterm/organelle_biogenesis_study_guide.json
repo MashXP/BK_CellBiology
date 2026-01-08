@@ -263,7 +263,7 @@
     "question": "How are histone modifications inherited by daughter chromosomes?",
     "options": [
       "They are completely erased and re-established anew.",
-      "Parental nucleosomes with modified histones are randomly distributed, and enzymes re-establish the pattern on nearby new histones.",
+      "Parental nucleosomes with modified histones are distributed to daughter chromosomes. Enzymes recognize these modifications and re-establish the same pattern on nearby new histones.",
       "Only the DNA sequence determines the new histone modifications.",
       "They are passed on exclusively through the cytoplasm."
     ],
